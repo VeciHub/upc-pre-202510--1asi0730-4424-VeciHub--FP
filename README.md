@@ -1,34 +1,50 @@
 <h1 style="text-align: center;"> Informe del Trabajo Final </h1>
 <h3 style="text-align: center;"> Universidad Peruana de Ciencias Aplicadas </h3>
 
+<p aling="center">
 <img src=https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/4be29e42-94e4-4b80-85ae-3433dde891e4 
 style="display: block; 
 margin-left:auto; 
 margin-right: auto; 
 width=50%"/>
+</p>
 
+<p aling="center">
 <h5 style="text-align: center"> Ingeniería de Software </h5>
+</p>
 
+<p aling="center">
 <h5 style="text-align: center"> Aplicaciones Web - 1ASI0730 </h5>
+</p>
 
+<p aling="center">
 <h5 style="text-align: center"> Docente: Oscar Ivan Villafuerte Bazan </h5>
+</p>
 
+<p aling="center">
 <h5 style="text-align: center"> Startup: VeciHub </h5>
+</p>
 
+<p aling="center">
 <h5 style="text-align: center"> Producto: VeciApp </h5>
+</p>
 
+<div align="center">
 
-## Team members:
-| Nombre |Código|
-|:-------:|:----------:|
-|Arias Segil, Marllely Anahi|U202223984|
-|Nikaido Vargas, Javier Masaru|U20221G099|
-|Lagos Rivera, Kael|U202210104|
-|Hernández Poma, Sebastián Eduardo|U20231C996|
-|Sanchez Silva, Luciana Celeste|U202215979|
-|Diestra Zambrano, Adriana Maria||
+| **Team Members**                           | **Código**     |
+|--------------------------------------|--------------|
+|  Arias Segil, Marllely Anahi   | U202223984  |
+|   Nikaido Vargas, Javier Masaru      |  U20221G099 |
+|    Lagos Rivera, Kael Valentino       |  U202210104 |
+|   Hernández Poma, Sebastián Eduardo   |  U20231C996 |
+|   Sanchez Silva, Luciana Celeste   | U202215979   |
+|    |  |
 
+</div>
+
+<p aling="center">
 <h5 style="text-align: center"> Ciclo 2025-010 </h5>
+</p>
 
 ## Registro de versiones del informe
 
