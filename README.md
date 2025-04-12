@@ -1,11 +1,8 @@
-<h1 style="text-align: center;"> Informe del Trabajo Final </h1>
+# **Informe del Trabajo Final**
 <p align="center"><strong>Universidad Peruana de Ciencias Aplicadas</strong></p>
-<p aling="center">
-<img src=https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/4be29e42-94e4-4b80-85ae-3433dde891e4 
-style="display: block; 
-margin-left:auto; 
-margin-right: auto; 
-width=50%"/>
+
+<p align="center">
+  <img src="Imagenes/upc_logo.png" alt="Logo de la UPC" />
 </p>
 
 <p align="center"><strong>Ingeniería de Software</strong><br>
