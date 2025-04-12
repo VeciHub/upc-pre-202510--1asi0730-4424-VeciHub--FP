@@ -182,11 +182,12 @@ En esta sección se presenta la descripción del startup y los perfiles de los m
 
 <div id='1.1.1.'><h4> 1.1.1. Descripción del startup.</h4></div>
 
-...
+“VeciHub” es una aplicación diseñada para mejorar la comunicación entre los miembros de una comunidad permitiéndoles interactuar de manera virtual mediante foros abiertos, votaciones de ideas propuestas, creación de reuniones para la comunidad y esto permite que los vecinos estén al tanto de lo que sucede a tiempo real brindando confianza y seguridad. Además, con el uso del aplicativo se busca la prevención de robos y dar avisos importantes. Por ejemplo, puede ser usada para avisar o pedir permiso por si va a haber ruido, promover campañas locales que refuercen los lazos entre la comunidad, alerta por la presencia de una persona desconocida en el área, y contará con accesos directos a teléfonos de emergencia locales. 
 
-**Misión:** ...
 
-**Visión:** ...
+**Misión:** Fortalecer la comunicación y organización dentro de las comunidades vecinales mediante una plataforma digital accesible, segura y participativa que facilite la interacción, prevención y colaboración entre los vecinos, promoviendo la confianza, el bienestar y la seguridad colectiva.
+
+**Visión:** Ser la aplicación líder en integración vecinal a nivel nacional e internacional, transformando la manera en que las comunidades se conectan, resuelven sus problemas y construyen entornos más unidos, participativos y seguros a través de la tecnología.
 
 
 ##### Logotipo de la Startup:
@@ -196,59 +197,108 @@ En esta sección se presenta la descripción del startup y los perfiles de los m
 
 <div id='1.1.2.'><h4> 1.1.2. Perfiles de los integrantes del equipo.</h4></div>
 
-||Perfiles de los integrantes del equipo|
-| :--------| :--------: |
-| Mi nombre es **Marllely Arias**. Tengo .|<img src="" alt="" width="250px" />
-| Mi nombre es **Javier Nikaido**, tengo .|![](linkfoto)|
-Mi nombre es **Kael Lagos** tengo .|![](linkfoto)|
-Mi nombre es **Sebastián Hernández**, soy.|![](linkfoto)|
-Mi nombre es **Luciana Sanchez**, soy.|![](linkfoto)|
-Mi nombre es **Adriana Diestra**, soy.|![](linkfoto)|
+| Foto                                 | Alumno            | Descripción                                                                                                                                                                                                                                                                                                                                                                  |
+| ------------------------------------ | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|Foto aqui|  Nombre aqui       |            Descripción tuya aqui                                                                                                                                                                                                                                                                                                                                                                 |
+|     Foto aqui                                 |       Nombre aqui            |       Descripción tuya aqui                                                                                                                                                                                                                                                                                                                                                                       |
+| ![Kael_Foto](Imagenes/Kael_Foto.jpg) | Kael Lagos Rivera | Me llamo Kael Lagos, estudio en la UPC de Monterrico. Tengo muchas ganas de aprender, me considero una persona responsable que busca aprender de sus errores cada vez que puede y tambien me considero alguien que se centra en los detalles. Me comprometo a ayudar a mis compañeros para la elaboración de nuestro trabajo que nos pueda asegurar una buena nota al final. |
+|         Foto aqui                             |       Nombre aqui               |                 Descripción tuya aqui                                                                                                                                                                                                                                                                                                                                                             |
+|             Foto aqui                         |            Nombre aqui          |               Descripción tuya aqui                                                                                                                                                                                                                                                                                                                                                               |
+|            Foto aqui                          |            Nombre aqui          |                  Descripción tuya aqui                                                                                                                                                                                                                                                                                                                                                            |
 
 <div id='1.2.'><h3> 1.2. Solution Profile.</h3></div>
 <div id='1.2.1.'><h4> 1.2.1. Antecedentes y Problemática.</h4></div>
 
+### Antecedentes:
+
+En los últimos años, muchas comunidades residenciales han evidenciado un debilitamiento en la cohesión social y en la organización vecinal debido a la falta de canales efectivos de comunicación. Según un estudio realizado por la consultora internacional Deloitte (2020), el 64% de los residentes en zonas urbanas considera que la falta de comunicación con sus vecinos dificulta la resolución de problemas comunes y genera desconfianza. Asimismo, iniciativas como Nextdoor en Estados Unidos han demostrado que las aplicaciones enfocadas en comunidades locales pueden mejorar significativamente la participación ciudadana, la prevención del delito y la convivencia.
+
+### Problematica:
+
+Sin embargo se detectado una gran desorganización y la escasa comunicación entre los vecinos de una comunidad que llega a impedir una respuesta rápida ante situaciones de riesgo, generando desinformación sobre eventos locales y dificultando la toma de decisiones colectivas. Esta desconexión puede llevar a conflictos innecesarios, aumento de la sensación de inseguridad y pérdida de sentido de pertenencia. Además, la ausencia de herramientas digitales diseñadas específicamente para facilitar la interacción vecinal limita la capacidad de respuesta ante emergencias o problemas cotidianos del entorno.
+
+Estas problematicas resaltan la carencia de un servicio que permita a los habitantes de un mismo vecindario estar informados sobre distintos sucesos o eventos de la zona, además de el preocupante aumento en la desconfianza de las personas. Por lo cual nuestra aplicación busca solventar esas carencias y ofrecer un mejor servicio que sepa distinguirse del resto de propuestas.
+
+Por otro lado, se utilizó la metodología ‘5W y 2H' para describir a detalle el problema que se busca solucionar y los puntos principales respondiendo estas 7 preguntas: ¿qué?, ¿por qué?, ¿a quiénes?, ¿dónde?, ¿cuándo?, ¿cómo?, y ¿cuánto?
+
+
 ###### What (Qué)
-###### ¿Cuál es el problema?
-...
+###### ¿Qué problemas hay?
+
+Falta de comunicación y desorganización entre los vecinos de una comunidad, lo cual genera conflictos, desinformación y sensación de inseguridad.
 
 ###### When (Cuando)
-###### ¿Cuándo sucede el problema?
-...
+###### ¿Cuándo ocurre el problema?
+
+De forma constante, pero se agrava durante situaciones de emergencia (como robos, desastres naturales, cortes de servicios), épocas de campañas o actividades comunitarias, o cuando surgen conflictos entre vecinos que no pueden resolverse por falta de comunicación.
 
 ###### Where (Dónde)
-###### ¿A dónde se dirige?
-...
+###### ¿Dónde ocurre?
 
-###### ¿Dónde surge el problema?
-...
+En comunidades urbanas y suburbanas de países latinoamericanos, especialmente en zonas donde no hay una cultura activa de participación vecinal ni sistemas formales de comunicación digital.
 
-###### Who (Quién)
-###### ¿Quiénes están involucrados?
-...
+###### Who (Quiénes)
+###### ¿A quiénes afecta?
 
-###### ¿Quién lo utilizará?
-...
+Afecta directamente a los vecinos de comunidades residenciales (urbanizaciones, condominios, barrios cerrados) y también a las juntas vecinales o administradores, quienes necesitan medios eficaces para informar y organizar actividades o alertas.
 
 ###### Why (Por qué)
-###### ¿Cuál es la causa del problema?
-...
+###### ¿Por qué persiste el problema?
+
+Porque no existen canales adecuados, accesibles ni confiables para que los vecinos se mantengan informados, participen en decisiones comunitarias o reaccionen de forma oportuna ante situaciones de emergencia. Esto puede ser causado por la falta de herramientas tecnológicas adaptadas al contexto local, desinterés o desconocimiento.
 
 ##### ¿Cuáles son las 2H?
 ###### How (Cómo)
-###### ¿Cómo se utilizará el producto?
-...
+###### ¿Cómo ocurre el problema?
+
+Se da por medio de la ausencia de herramientas digitales, desinterés en reuniones presenciales, y el uso informal de canales no oficiales (como grupos de WhatsApp desorganizados o sin moderación), lo cual lleva a una mala gestión de la información, exclusión de algunos vecinos, y confusión general.
 
 ###### ¿Cómo lograremos desarrollar una gestión eficiente dentro de la plataforma?
-...
 
+Lograremos una gestión eficiente dentro de la plataforma VeciHub implementando una serie de funciones clave que permitan a los usuarios (vecinos, administradores y juntas vecinales) interactuar de manera organizada, rápida y segura. Estas son algunas acciones concretas:
+
+1. Roles y permisos diferenciados:
+Se establecerán distintos niveles de acceso dentro de la app (administrador, vecino, moderador), permitiendo que solo ciertos usuarios puedan crear votaciones, aprobar publicaciones o gestionar eventos. Esto evitará la saturación de contenido irrelevante y mantendrá el orden.
+
+2. Panel de administración intuitivo:
+Se diseñará un panel de gestión para las juntas vecinales o líderes comunales, desde el cual puedan:
+- Publicar anuncios urgentes.
+- Programar reuniones o campañas.
+- Modificar accesos o aprobar nuevas cuentas vecinales.
+- Ver estadísticas de participación.
+
+3. Canales de comunicación estructurados:
+
+- Foros temáticos: Seguridad, actividades, reclamos, propuestas.
+- Notificaciones inteligentes: Alertas por zonas, horarios o tipo de contenido.
+- Votaciones y encuestas: Para tomar decisiones colectivas de forma democrática.
+
+4. Seguridad y verificación:
+Los usuarios deberán ser validados como miembros de la comunidad (por código de residencia, número de inmueble, o verificación manual), evitando accesos no autorizados y fomentando la confianza entre los usuarios.
+
+5. Historial y trazabilidad:
+Toda acción dentro de la app quedará registrada (con opción de revisarla en el historial), permitiendo resolver malentendidos o tomar decisiones basadas en datos reales.
+
+6. Automatización de tareas repetitivas:
+- Recordatorios de reuniones.
+- Vencimiento de cuotas o servicios.
+- Alertas recurrentes de seguridad o limpieza.
 
 ###### How much (Cuánto)
-###### ¿Cuál es la magnitud del problema?
-...
+###### ¿Cuánto afecta?
+
+Afecta significativamente el sentido de comunidad, la seguridad vecinal, la confianza entre residentes, y puede generar costos adicionales en seguridad o en solución de problemas que pudieron prevenirse con comunicación oportuna. Además, reduce la eficiencia de las juntas vecinales y deteriora la convivencia.
 
 ###### ¿Qué porcentaje del personal de la industria se verá beneficiado por el servicio?
-...
+
+En el contexto de VeciHub, si consideramos como "industria" el sector de gestión comunitaria, seguridad vecinal y administración de propiedades, estimamos que aproximadamente entre un 60% y 75% del personal vinculado a estos entornos podría beneficiarse directamente del servicio.
+Esto incluye:
+
+- Administradores de edificios y condominios.
+- Miembros de juntas vecinales.
+- Personal de seguridad y vigilancia.
+- Freelancers que ofrecen servicios comunitarios (mantenimiento, limpieza, eventos).
+- Miembros activos de comunidades digitales locales.
 
 <div id='1.2.2.'><h4> 1.2.2. Lean UX Process.</h4></div>
 <div id='1.2.2.1.'><h5> 1.2.2.1. Lean UX Problem Statements.</h5></div>
