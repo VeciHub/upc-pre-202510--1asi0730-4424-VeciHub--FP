@@ -1,6 +1,5 @@
 <h1 style="text-align: center;"> Informe del Trabajo Final </h1>
-<h3 style="text-align: center;"> Universidad Peruana de Ciencias Aplicadas </h3>
-
+<p align="center"><strong>Universidad Peruana de Ciencias Aplicadas</strong></p>
 <p aling="center">
 <img src=https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/4be29e42-94e4-4b80-85ae-3433dde891e4 
 style="display: block; 
@@ -9,25 +8,14 @@ margin-right: auto;
 width=50%"/>
 </p>
 
-<p aling="center">
-<h5 style="text-align: center"> Ingeniería de Software </h5>
-</p>
+<p align="center"><strong>Ingeniería de Software</strong><br>
+Aplicaciones Web - 1ASI0730 <br>
+<strong>Profesor: Oscar Ivan Villafuerte Bazan</strong> </p>
 
-<p aling="center">
-<h5 style="text-align: center"> Aplicaciones Web - 1ASI0730 </h5>
-</p>
+<h2 align="center">INFORME</h2>
 
-<p aling="center">
-<h5 style="text-align: center"> Docente: Oscar Ivan Villafuerte Bazan </h5>
-</p>
-
-<p aling="center">
-<h5 style="text-align: center"> Startup: VeciHub </h5>
-</p>
-
-<p aling="center">
-<h5 style="text-align: center"> Producto: VeciApp </h5>
-</p>
+<h3 align="center">Startup: VeciHub </h3>
+<p align="center"><strong>Producto: VeciApp</strong></p>
 
 <div align="center">
 
