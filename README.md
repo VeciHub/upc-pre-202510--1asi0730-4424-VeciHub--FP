@@ -49,7 +49,7 @@ Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la im
 |-|-|
 |Marllely Arias||
 |Javier Nikaido||
-|Kael Lagos||
+|Kael Lagos| Desarrollo de la introducción y modificación del documento para un mayor orden|
 |Sebastián Hernández||
 |Luciana Sanchez||
 |Adriana Diestra||
@@ -92,8 +92,8 @@ Los siguientes gráficos representan analíticos de commits en el repositorio de
 ## Student Outcomes
 |Criterio especifico|Acciones realizadas|Conclusiones|
 |-|:-|-|
-|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería|**Marllely Arias** <br> TB1: En esta entrega se realizaron . <br> **Javier Nikaido** <br> TB1: Realizó . <br> **Kael Lagos** <br> TB1: Para el trabajo se hizo . <br> **Sebastián Hernández** <br> TB1: En el informe . <br> **Luciana Sanchez** <br> TB1: Para el trabajo se hizo . <br> **Adriana Diestra** <br> TB1: Para culminar la entrega de esta primera versión del trabajo final, resultó necesario .|El documento redactado...|
-|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.| **Marllely Arias** <br> TB1: Se llevó a cabo . <br> **Javier Nikaido** <br> TB1: Encargado de realizar. <br> **Kael Lagos** <br> TB1: A lo hora de realizar el trabajo . <br> **Sebastián Hernández** <br> TB1: Para culminar la entrega de esta primera versión del trabajo final, resultó necesario . <br> **Luciana Sanchez** <br> TB1: Para  . <br> **Adriana Diestra** <br> TB1: Para culminar la entrega de esta primera versión del trabajo final, resultó necesario . |Como equipo pudimos establecer... |
+|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería|**Marllely Arias** <br> TB1: En esta entrega se realizaron . <br> **Javier Nikaido** <br> TB1: Realizó . <br> **Kael Lagos** <br> TB1: Para el trabajo se hizo la introducción y la modificación de ciertos elementos del doc como lo puede ser el cuadro de los integrantes. <br> **Sebastián Hernández** <br> TB1: En el informe . <br> **Luciana Sanchez** <br> TB1: Para el trabajo se hizo . <br> **Adriana Diestra** <br> TB1: Para culminar la entrega de esta primera versión del trabajo final, resultó necesario .|El documento redactado...|
+|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.| **Marllely Arias** <br> TB1: Se llevó a cabo . <br> **Javier Nikaido** <br> TB1: Encargado de realizar. <br> **Kael Lagos** <br> TB1: A lo hora de realizar el trabajo mostró compromiso por arreglar los errores iniciales del informe, brindo indicaciones para sus compañeros y aportó la idea de arreglar el estado del informe inicial. <br> **Sebastián Hernández** <br> TB1: Para culminar la entrega de esta primera versión del trabajo final, resultó necesario . <br> **Luciana Sanchez** <br> TB1: Para  . <br> **Adriana Diestra** <br> TB1: Para culminar la entrega de esta primera versión del trabajo final, resultó necesario . |Como equipo pudimos establecer... |
 
 ## Contenido
 1. [**Capítulo I: Introducción.**](#1.) <br>
