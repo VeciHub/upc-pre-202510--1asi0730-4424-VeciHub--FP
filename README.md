@@ -66,7 +66,7 @@ Los integrantes son:
 * Marllely Arias ()
 * Javier Nikaido ()
 * Kael Lagos ()
-* Sebastián Hernández ()
+* Sebastián Hernández (M1sterDG)
 * Luciana Sanchez (Luccsss)
 * Adriana Diestra ()
 
@@ -201,7 +201,7 @@ En esta sección se presenta la descripción del startup y los perfiles de los m
 | Foto                                 | Alumno            | Descripción                                                                                                                                                                                                                                                                                                                                                                  |
 | ------------------------------------ | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |Foto aqui|  Nombre aqui       |            Descripción tuya aqui                                                                                                                                                                                                                                                                                                                                                                 |
-|     Foto aqui                                 |       Nombre aqui            |       Descripción tuya aqui                                                                                                                                                                                                                                                                                                                                                                       |
+|     Foto aqui                                 |       Sebastian Eduardo Hernandez Poma            |       Descripción tuya aqui                                                                                                                                                                                                                                                                                                                                                                       |
 | ![Kael_Foto](Imagenes/Kael_Foto.jpg) | Kael Lagos Rivera | Me llamo Kael Lagos, estudio en la UPC de Monterrico. Tengo muchas ganas de aprender, me considero una persona responsable que busca aprender de sus errores cada vez que puede y tambien me considero alguien que se centra en los detalles. Me comprometo a ayudar a mis compañeros para la elaboración de nuestro trabajo que nos pueda asegurar una buena nota al final. |
 |         Foto aqui                             |       Nombre aqui               |                 Descripción tuya aqui                                                                                                                                                                                                                                                                                                                                                             |
 |             Foto aqui                         |            Nombre aqui          |               Descripción tuya aqui                                                                                                                                                                                                                                                                                                                                                               |
@@ -396,3 +396,51 @@ El Lean UX Canvas es una herramienta empleada dentro del enfoque de diseño cent
 ![VeciApp_Lean Canvas](https://link.png)
 
 Enlace para acceder al [Canvas](https://link.com)
+
+
+<div id='1.'><h2>Capítulo II: Requirements Elicitation & Analysis</h2></div>
+
+<div id='1.1.'><h3> 2.1. Competidores</h3></div>
+<div id='1.1.'><h4>Nextdoor</h4></div>
+<p>Es una de las plataformas de vecindario más conocidas a nivel global. Funciona como una red social privada que conecta a residentes de una misma zona para compartir información local, alertas de seguridad, recomendaciones y eventos. Opera en países como Estados Unidos, Reino Unido, Francia, Alemania, España y Australia, y se distingue por promover comunidades seguras y colaborativas, trabajando incluso en alianza con municipios para emitir comunicaciones oficiales. Su gran ventaja es la amplia base de usuarios y su enfoque en privacidad y confianza vecinal.</p>
+
+<div id='1.1.'><h4>Neighbourly</h4></div>
+<p>Con base en el Reino Unido, conecta a empresas con comunidades locales para apoyar proyectos sociales y ambientales mediante donaciones, voluntariado y recursos. Aunque su enfoque no es exclusivo en vecinos como usuarios individuales, impacta directamente en la vida comunitaria, facilitando que organizaciones apoyen vecindarios en causas locales. Es una plataforma con fuerte enfoque en responsabilidad social y sostenibilidad, con gran tracción en el ámbito empresarial comunitario.</p>
+
+<div id='1.1.'><h4>Front Porch Forum</h4></div>
+<p>Opera principalmente en Vermont, Estados Unidos, y se basa en boletines electrónicos comunitarios que fomentan la comunicación entre vecinos sobre temas locales como recomendaciones, objetos perdidos, alertas y eventos. Aunque su escala es más local, su fortaleza radica en una comunidad altamente participativa que promueve relaciones de confianza y convivencia vecinal a través de una herramienta simple y efectiva.</p>
+
+<div id='1.1.'><h4>Patch</h4></div>
+<p>Es una plataforma de noticias hiperlocales activa en muchas ciudades de Estados Unidos. Aunque comenzó como un medio periodístico, ha evolucionado para permitir que los propios vecinos publiquen anuncios, discutan temas locales o difundan eventos. Esto la convierte en una fuente clave de comunicación comunitaria, integrando contenido generado por usuarios con actualizaciones relevantes para los vecindarios.</p>
+
+<div id='1.1.'><h4>MyCoop</h4></div>
+<p>Está enfocada en edificios residenciales multifamiliares y condominios, principalmente en ciudades estadounidenses. Su propuesta permite a los residentes gestionar tareas, comunicarse con los vecinos y compartir información importante sobre su edificio. Está diseñada para mejorar la convivencia dentro de comunidades verticales, facilitando desde anuncios del administrador hasta la coordinación de eventos internos entre residentes.</p>
+
+
+
+<div id='1.1.1.'><h4> 2.1.1. Análisis competitivo</h4></div>
+
+<div id='1.1.1.'><h4> 2.1.2. Estrategias y tacticas frente a competidores</h4></div>
+
+<div id='1.1.'><h3> 2.2. Entrevistas</h3></div>
+
+<div id='1.1.1.'><h4> 2.2.1. Diseño de entrevistas</h4></div>
+
+<div id='1.1.1.'><h4> 2.2.2. Registro de entrevistas</h4></div>
+
+<div id='1.1.1.'><h4> 2.2.3. Análisis de entrevistas</h4></div>
+
+<div id='1.1.'><h3> 2.3. Needfinding</h3></div>
+
+<div id='1.1.1.'><h4> 2.3.1. User Personas</h4></div>
+
+<div id='1.1.1.'><h4> 2.3.2. User Task Matrix</h4></div>
+
+<div id='1.1.1.'><h4> 2.3.3. User Journey Mapping</h4></div>
+
+<div id='1.1.1.'><h4> 2.3.4. Empathy Mapping</h4></div>
+
+<div id='1.1.1.'><h4> 2.3.5. As-is Scenario Mapping</h4></div>
+
+<div id='1.1.'><h3> 2.4. Ubiquitous Language</h3></div>
+
