@@ -23,7 +23,7 @@ Aplicaciones Web - 1ASI0730 <br>
 |    Lagos Rivera, Kael Valentino       |  U202210104 |
 |   Hernández Poma, Sebastián Eduardo   |  U20231C996 |
 |   Sanchez Silva, Luciana Celeste   | U202215979   |
-|    |  |
+|   Diestra Zambrano, Adriana Maria | U202218110   |
 
 </div>
 
@@ -204,7 +204,7 @@ En esta sección se presenta la descripción del startup y los perfiles de los m
 |     Foto aqui                                 |       Sebastian Eduardo Hernandez Poma            |       Descripción tuya aqui                                                                                                                                                                                                                                                                                                                                                                       |
 | ![Kael_Foto](Imagenes/Kael_Foto.jpg) | Kael Lagos Rivera | Me llamo Kael Lagos, estudio en la UPC de Monterrico. Tengo muchas ganas de aprender, me considero una persona responsable que busca aprender de sus errores cada vez que puede y tambien me considero alguien que se centra en los detalles. Me comprometo a ayudar a mis compañeros para la elaboración de nuestro trabajo que nos pueda asegurar una buena nota al final. |
 |         Foto aqui                             |       Nombre aqui               |                 Descripción tuya aqui                                                                                                                                                                                                                                                                                                                                                             |
-|             Foto aqui                         |            Nombre aqui          |               Descripción tuya aqui                                                                                                                                                                                                                                                                                                                                                               |
+|  ![Adriana](Imagenes/Adriana.png)   |    Adriana Maria Diestra Zambrano   |              Estudiante de la carrera Ingeniería de Software con interés en el desarrollo web, sobre todo en el lado frontend. Me gusta crear interfaces ordenadas, intuitivas y visualmente atractivas. Proactiva, con gran interés por aprender cosas nuevas y con una actitud positiva que favorece el trabajo en equipo.                                                                                                        |
 |            Foto aqui                          |            Nombre aqui          |                  Descripción tuya aqui                                                                                                                                                                                                                                                                                                                                                            |
 
 <div id='1.2.'><h3> 1.2. Solution Profile.</h3></div>
