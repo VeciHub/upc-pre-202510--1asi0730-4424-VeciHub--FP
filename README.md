@@ -418,29 +418,29 @@ Enlace para acceder al [Canvas](https://link.com)
 
 
 
-<div id='1.1.1.'><h4> 2.1.1. Análisis competitivo</h4></div>
+<div id='2.1.1.'><h4> 2.1.1. Análisis competitivo</h4></div>
 
-<div id='1.1.1.'><h4> 2.1.2. Estrategias y tacticas frente a competidores</h4></div>
+<div id='2.1.2.'><h4> 2.1.2. Estrategias y tacticas frente a competidores</h4></div>
 
-<div id='1.1.'><h3> 2.2. Entrevistas</h3></div>
+<div id='2.2.'><h3> 2.2. Entrevistas</h3></div>
 
-<div id='1.1.1.'><h4> 2.2.1. Diseño de entrevistas</h4></div>
+<div id='2.2.1.'><h4> 2.2.1. Diseño de entrevistas</h4></div>
 
-<div id='1.1.1.'><h4> 2.2.2. Registro de entrevistas</h4></div>
+<div id='2.2.2.'><h4> 2.2.2. Registro de entrevistas</h4></div>
 
-<div id='1.1.1.'><h4> 2.2.3. Análisis de entrevistas</h4></div>
+<div id='2.2.3.'><h4> 2.2.3. Análisis de entrevistas</h4></div>
 
-<div id='1.1.'><h3> 2.3. Needfinding</h3></div>
+<div id='2.3.'><h3> 2.3. Needfinding</h3></div>
 
-<div id='1.1.1.'><h4> 2.3.1. User Personas</h4></div>
+<div id='2.3.1.'><h4> 2.3.1. User Personas</h4></div>
 
-<div id='1.1.1.'><h4> 2.3.2. User Task Matrix</h4></div>
+<div id='2.3.2.'><h4> 2.3.2. User Task Matrix</h4></div>
 
-<div id='1.1.1.'><h4> 2.3.3. User Journey Mapping</h4></div>
+<div id='2.3.3..'><h4> 2.3.3. User Journey Mapping</h4></div>
 
-<div id='1.1.1.'><h4> 2.3.4. Empathy Mapping</h4></div>
+<div id='2.3.4.'><h4> 2.3.4. Empathy Mapping</h4></div>
 
-<div id='1.1.1.'><h4> 2.3.5. As-is Scenario Mapping</h4></div>
+<div id='2.3.5.'><h4> 2.3.5. As-is Scenario Mapping</h4></div>
 
-<div id='1.1.'><h3> 2.4. Ubiquitous Language</h3></div>
+<div id='2.4.'><h3> 2.4. Ubiquitous Language</h3></div>
 
