@@ -420,6 +420,133 @@ Enlace para acceder al [Canvas](https://link.com)
 
 <div id='2.1.1.'><h4> 2.1.1. Análisis competitivo</h4></div>
 
+<table border="1" cellpadding="6" cellspacing="0">
+  <tr>
+    <th colspan="7">Competitive Analysis Landscape</th>
+  </tr>
+  <tr>
+    <td colspan="2" rowspan="2">¿Por qué llevar a cabo este análisis?</td>
+    <td colspan="5">Identificar fortalezas, oportunidades y diferenciadores clave de VeciHub frente a plataformas internacionales de comunicación comunitaria y gestión vecinal.</td>
+  </tr>
+  <tr>
+    <td colspan="5">Comparación por criterios estratégicos, funcionales y de mercado.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Productos</td>
+    <td>VeciHub</td>
+    <td>Nextdoor</td>
+    <td>Neighbourly</td>
+    <td>Front Porch Forum</td>
+    <td>Patch</td>
+    <td>MyCoop</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Perfil</td>
+    <td>Overview</td>
+    <td>Plataforma digital que mejora la comunicación entre vecinos con foros, alertas, votaciones, agendas y verificación por residencia.</td>
+    <td>Red social privada de vecindarios para compartir noticias, eventos, recomendaciones y alertas.</td>
+    <td>Plataforma británica que conecta empresas con comunidades para apoyar causas locales mediante voluntariado y donaciones.</td>
+    <td>Boletín digital comunitario en Vermont que fomenta conversaciones vecinales simples y efectivas.</td>
+    <td>Medio digital de noticias hiperlocales con foros y publicaciones comunitarias.</td>
+    <td>App para edificios residenciales que gestiona tareas internas y comunicación entre residentes.</td>
+  </tr>
+  <tr>
+    <td>Ventaja competitiva</td>
+    <td>Participación local, verificación de vecinos, diseño intuitivo, enfoque comunitario adaptable a Latinoamérica.</td>
+    <td>Gran base de usuarios, enfoque en privacidad, alianzas municipales.</td>
+    <td>Fuerte enfoque en sostenibilidad y responsabilidad social empresarial.</td>
+    <td>Alta participación comunitaria, simpleza y fuerte conexión local.</td>
+    <td>Generación de contenido vecinal, noticias en tiempo real, comunicación pública.</td>
+    <td>Eficiencia administrativa para residentes en edificios multifamiliares.</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Perfil de Marketing</td>
+    <td>Mercado Objetivo</td>
+    <td>Vecinos urbanos/suburbanos, juntas vecinales, administradores de comunidades.</td>
+    <td>Residentes de barrios urbanos en países como EE.UU., Reino Unido y Alemania.</td>
+    <td>Empresas socialmente responsables y comunidades locales receptoras.</td>
+    <td>Vecinos de comunidades pequeñas o rurales.</td>
+    <td>Usuarios que buscan información vecinal confiable y actualizada.</td>
+    <td>Administradores y residentes de edificios residenciales verticales.</td>
+  </tr>
+  <tr>
+    <td>Estrategias de Marketing</td>
+    <td>Alianzas municipales, ferias comunitarias, campañas en redes sociales y referidos.</td>
+    <td>Publicidad segmentada por vecindario, integración con autoridades locales.</td>
+    <td>Campañas B2B con enfoque en impacto social, colaboración con ONGs.</td>
+    <td>Difusión directa y referencias entre vecinos.</td>
+    <td>Marketing de contenido local y monetización vía anuncios.</td>
+    <td>Promoción directa en edificios y alianzas con inmobiliarias.</td>
+  </tr>
+  <tr>
+    <td rowspan="3">Perfil de Producto</td>
+    <td>Productos & Servicios</td>
+    <td>Foros, votaciones, alertas, agendas comunitarias, validación de vecinos y panel para juntas.</td>
+    <td>Publicaciones, alertas, eventos, marketplace local, comunicación municipal.</td>
+    <td>Voluntariado, donaciones, recursos corporativos para proyectos comunitarios.</td>
+    <td>Boletines por correo, foros, anuncios clasificados y eventos.</td>
+    <td>Noticias locales, foros abiertos, alertas comunitarias.</td>
+    <td>Mensajería, anuncios internos, gestión de tareas y eventos residenciales.</td>
+  </tr>
+  <tr>
+    <td>Precios & Costos</td>
+    <td>Gratis para vecinos; modelo freemium para juntas y patrocinadores.</td>
+    <td>Gratuito para usuarios, ingresos por publicidad y servicios premium.</td>
+    <td>Gratuito para comunidades, financiado por empresas patrocinadoras.</td>
+    <td>Gratuito; financiado por donaciones y patrocinios locales.</td>
+    <td>Financiado por medios patrocinados, modelo publicitario.</td>
+    <td>Suscripciones según cantidad de usuarios o edificios registrados.</td>
+  </tr>
+  <tr>
+    <td>Canales de distribución</td>
+    <td>Web progresiva, app Android y versión iOS en desarrollo.</td>
+    <td>Web y app Android/iOS con cobertura global.</td>
+    <td>Sitio web con campañas digitales y alianzas.</td>
+    <td>Correo electrónico y plataforma web minimalista.</td>
+    <td>Sitio web y apps móviles para interacción rápida.</td>
+    <td>App móvil y panel web para administradores.</td>
+  </tr>
+  <tr>
+    <td rowspan="4">Análisis SWOT</td>
+    <td>Fortalezas</td>
+    <td>Diseño adaptado a cultura local, enfoque colaborativo, participación ciudadana real.</td>
+    <td>Base de usuarios consolidada, confianza institucional, presencia global.</td>
+    <td>Vínculo directo entre RSE empresarial y comunidades beneficiadas.</td>
+    <td>Altísima conexión comunitaria, simplicidad, alta participación.</td>
+    <td>Información útil y actualizada con enfoque hiperlocal.</td>
+    <td>Optimización en edificios, integración sencilla y control de eventos internos.</td>
+  </tr>
+  <tr>
+    <td>Debilidades</td>
+    <td>Baja adopción inicial, requiere masa crítica y cultura digital participativa.</td>
+    <td>Limitada localización cultural en Latinoamérica, posible desconfianza en privacidad.</td>
+    <td>No centrado en vecinos individuales; limitado en personalización barrial.</td>
+    <td>Escala local muy reducida; difícil aplicación en ciudades grandes.</td>
+    <td>No centrado en cohesión vecinal ni gobernanza comunitaria.</td>
+    <td>No aplicable fuera de residencias verticales; alcance restringido.</td>
+  </tr>
+  <tr>
+    <td>Oportunidades</td>
+    <td>Alianzas con municipios, ONGs y comunidades digitales post-pandemia.</td>
+    <td>Expansión geográfica y servicios dirigidos a gobiernos.</td>
+    <td>Aumento de exigencia social por prácticas ESG y sostenibilidad comunitaria.</td>
+    <td>Replicación en zonas rurales; uso en comunidades descentralizadas.</td>
+    <td>Mayor interés por periodismo ciudadano e información vecinal.</td>
+    <td>Crecimiento de ciudades verticales y servicios integrados.</td>
+  </tr>
+  <tr>
+    <td>Amenazas</td>
+    <td>Competencia con apps globales, resistencia digital, baja interacción comunitaria en ciertos contextos.</td>
+    <td>Saturación de apps similares y baja participación en comunidades desconectadas.</td>
+    <td>Falta de escalabilidad en zonas informales o con poco acceso empresarial.</td>
+    <td>Dependencia de la participación voluntaria sostenida en el tiempo.</td>
+    <td>Desplazamiento por redes sociales más generalistas como Facebook o X.</td>
+    <td>Competencia de soluciones integradas más amplias en el sector inmobiliario.</td>
+  </tr>
+</table>
+
+
+
 <div id='2.1.2.'><h4> 2.1.2. Estrategias y tacticas frente a competidores</h4></div>
 
 <div id='2.2.'><h3> 2.2. Entrevistas</h3></div>
