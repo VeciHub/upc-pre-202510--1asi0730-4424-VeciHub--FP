@@ -547,40 +547,90 @@ Enlace para acceder al [Canvas](https://link.com)
 
 
 
-<div id='2.1.2.'><h4> 2.1.2. Estrategias y tacticas frente a competidores</h4></div>
+<div id='2.1.2.'><h4> 2.1.2. Estrategias y tacticas frente a competidores</h4>
+
+
+  <p style="text-align: justify;">
+    Basándonos en el análisis competitivo frente a plataformas como Nextdoor, Neighbourly, Front Porch Forum, Patch y MyCoop, se proponen las siguientes estrategias y tácticas para posicionar a <strong>VeciHub</strong> como una solución diferenciada y adaptada al contexto latinoamericano:
+  </p>
+
+  <h4>Estrategia 1: Enfoque hiperlocal con adaptabilidad cultural</h4>
+  <ul>
+    <li>Implementar lenguaje inclusivo y familiar para las comunidades locales.</li>
+    <li>Adaptar el contenido y notificaciones al calendario cívico y eventos regionales.</li>
+    <li>Incorporar íconos y elementos visuales representativos de la cultura vecinal.</li>
+  </ul>
+
+  <h4>Estrategia 2: Participación comunitaria real y transparente</h4>
+  <ul>
+    <li>Diseñar votaciones digitales abiertas con verificación de residencia.</li>
+    <li>Permitir a los vecinos proponer y priorizar ideas comunitarias desde la app.</li>
+    <li>Implementar foros temáticos moderados por representantes vecinales.</li>
+  </ul>
+
+  <h4>Estrategia 3: Integración con municipalidades y juntas vecinales</h4>
+  <ul>
+    <li>Crear módulos para que las municipalidades publiquen alertas y campañas.</li>
+    <li>Ofrecer dashboards gratuitos a juntas vecinales para organizar actividades y comunicados.</li>
+    <li>Incluir mapas comunitarios con zonas de riesgo, puntos de reunión y servicios locales.</li>
+  </ul>
+
+  <h4>Estrategia 4: Accesibilidad tecnológica y educación digital</h4>
+  <ul>
+    <li>Diseño de interfaz sencilla con pasos guiados y asistencia vía WhatsApp.</li>
+    <li>Producción de tutoriales audiovisuales para facilitar el uso por todas las edades.</li>
+    <li>Capacitaciones comunitarias en coordinación con gobiernos locales.</li>
+  </ul>
+
+  <h4>Estrategia 5: Modelo de sostenibilidad freemium local</h4>
+  <ul>
+    <li>Mantener acceso gratuito para usuarios vecinos.</li>
+    <li>Ofrecer servicios premium para administradores o alianzas con pequeñas marcas locales.</li>
+    <li>Incluir módulos opcionales como votaciones ilimitadas o herramientas de seguridad avanzadas.</li>
+  </ul>
+
+  <h4>Estrategia 6: Posicionamiento como solución ciudadana de impacto</h4>
+  <ul>
+    <li>Recoger y difundir testimonios reales de usuarios beneficiados.</li>
+    <li>Participar en convocatorias de innovación ciudadana y eventos de gobierno abierto.</li>
+    <li>Medir e informar impacto mediante estadísticas de participación y resolución de alertas.</li>
+  </ul>
+</div>
+
 
 <div id='2.2.'><h3> 2.2. Entrevistas</h3></div>
 
-<div id='2.2.1.'><h4> 2.2.1. Diseño de entrevistas</h4></div>
+<div id='2.2.1.'><h4> 2.2.1. Diseño de entrevistas</h4>
 
-**Vecinos/residentes**
+  <p style="text-align: justify;">
+    Para identificar las necesidades reales de los usuarios de VeciHub, se han diseñado entrevistas semi-estructuradas divididas en dos segmentos clave: <strong>vecinos/residentes</strong> y <strong>administradores o miembros de juntas vecinales</strong>. Las entrevistas buscan entender sus hábitos de comunicación, problemáticas comunitarias y percepción sobre el uso de herramientas digitales para la gestión y participación comunitaria.
+  </p>
 
-1. ¿Cuál es su nombre?
-2. ¿Cuántos años tiene?
-3. ¿Dónde vive?
-4. ¿A qué se dedica?
-5. ¿Qué tan conectada sientes que está tu comunidad actualmente?
-6. ¿Cómo te enteras de lo que pasa en tu vecindario (avisos, emergencias, reuniones)?
-7. ¿Alguna vez has participado en una reunión vecinal o votación? ¿Cómo fue?
-8. ¿Alguna vez te enteraste tarde de algún ruido fuerte, evento o problema en tu vecindario que te hubiera gustado saber con anticipación?
-9. ¿Te gustaría tener una app donde puedas estar al tanto de lo que ocurre en tu comunidad? ¿Por qué sí o por qué no?
-10. ¿Qué funciones crees que debería tener una app vecinal para que realmente te sea útil?
-11. ¿Alguna vez has sentido que podrías contribuir más con tu comunidad si tuvieras un medio más fácil para hacerlo?
-12. ¿Te interesaría usar una app para coordinar con vecinos temas como campañas, alertas o permisos por ruidos?
+  <h4>Segmento 1: Vecinos / Residentes</h4>
+  <ol>
+    <li>¿Cómo sueles enterarte de noticias o situaciones que ocurren en tu vecindario?</li>
+    <li>¿Qué canales usas para comunicarte con tus vecinos o la junta vecinal (WhatsApp, redes sociales, reuniones)?</li>
+    <li>¿Has participado antes en alguna reunión vecinal o votación? ¿Cómo fue tu experiencia?</li>
+    <li>¿Qué problemas frecuentes identificas en la convivencia o comunicación con tus vecinos?</li>
+    <li>¿Te gustaría contar con una plataforma digital donde puedas ver alertas, eventos o proponer ideas vecinales?</li>
+    <li>¿Qué funcionalidades considerarías útiles en una aplicación como VeciHub (por ejemplo: votaciones, alertas, reclamos, anuncios)?</li>
+    <li>¿Qué tan probable sería que descargues y uses una app si esta te ayuda a estar más informado y conectado con tu comunidad?</li>
+    <li>¿Tienes alguna preocupación sobre la privacidad o el uso de tus datos personales en este tipo de plataformas?</li>
+  </ol>
 
-**Administradores**
+  <h4>Segmento 2: Administradores / Juntas Vecinales</h4>
+  <ol>
+    <li>¿Cómo se comunican actualmente con los vecinos para transmitir información o convocatorias?</li>
+    <li>¿Qué herramientas utilizan para organizar reuniones, votaciones o recibir sugerencias?</li>
+    <li>¿Qué problemas enfrentan para lograr que los vecinos participen en las actividades comunitarias?</li>
+    <li>¿Les resulta difícil organizar y mantener el orden en los canales actuales (como grupos de WhatsApp o llamadas)?</li>
+    <li>¿Qué tipo de información es más importante comunicar con rapidez a los vecinos (ej: seguridad, eventos, mantenimiento)?</li>
+    <li>¿Considerarían útil una plataforma digital que permita centralizar anuncios, votaciones, alertas y reclamos?</li>
+    <li>¿Qué funcionalidades necesitaría una aplicación como VeciHub para que sea realmente útil para ustedes como líderes o administradores?</li>
+    <li>¿Estarían dispuestos a implementar esta herramienta en su comunidad si se les brinda capacitación y soporte?</li>
+  </ol>
+</div>
 
-1. ¿Cuál es su nombre?
-2. ¿Cuántos años tiene?
-3. ¿Dónde vive?
-4. ¿A qué se dedica?
-5. ¿Qué herramientas usas actualmente para comunicarte con los vecinos?
-6. ¿Cuáles son los principales desafíos al gestionar una comunidad (reclamos, coordinación, asistencia a reuniones, etc)?
-7. ¿Cuántas veces organizas reuniones vecinales al año? ¿Suele haber buena participación?
-8. ¿Hay algún tipo de sistema para alertas o avisos urgentes en tu comunidad?
-9. ¿Te gustaría contar con una app donde puedas centralizar todo lo relacionado con la comunidad, como comunicaciones, votaciones y alertas?
-10. ¿Qué tipo de funcionalidades crees que facilitarían tu labor como administrador/líder?
-11. ¿Has probado alguna solución tecnológica antes? ¿Qué te funcionó o no te funcionó?
 
 <div id='2.2.2.'><h4> 2.2.2. Registro de entrevistas</h4></div>
 
