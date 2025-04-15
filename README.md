@@ -426,6 +426,35 @@ Enlace para acceder al [Canvas](https://link.com)
 
 <div id='2.2.1.'><h4> 2.2.1. Diseño de entrevistas</h4></div>
 
+**Vecinos/residentes**
+
+1. ¿Cuál es su nombre?
+2. ¿Cuántos años tiene?
+3. ¿Dónde vive?
+4. ¿A qué se dedica?
+5. ¿Qué tan conectada sientes que está tu comunidad actualmente?
+6. ¿Cómo te enteras de lo que pasa en tu vecindario (avisos, emergencias, reuniones)?
+7. ¿Alguna vez has participado en una reunión vecinal o votación? ¿Cómo fue?
+8. ¿Alguna vez te enteraste tarde de algún ruido fuerte, evento o problema en tu vecindario que te hubiera gustado saber con anticipación?
+9. ¿Te gustaría tener una app donde puedas estar al tanto de lo que ocurre en tu comunidad? ¿Por qué sí o por qué no?
+10. ¿Qué funciones crees que debería tener una app vecinal para que realmente te sea útil?
+11. ¿Alguna vez has sentido que podrías contribuir más con tu comunidad si tuvieras un medio más fácil para hacerlo?
+12. ¿Te interesaría usar una app para coordinar con vecinos temas como campañas, alertas o permisos por ruidos?
+
+**Administradores**
+
+1. ¿Cuál es su nombre?
+2. ¿Cuántos años tiene?
+3. ¿Dónde vive?
+4. ¿A qué se dedica?
+5. ¿Qué herramientas usas actualmente para comunicarte con los vecinos?
+6. ¿Cuáles son los principales desafíos al gestionar una comunidad (reclamos, coordinación, asistencia a reuniones, etc)?
+7. ¿Cuántas veces organizas reuniones vecinales al año? ¿Suele haber buena participación?
+8. ¿Hay algún tipo de sistema para alertas o avisos urgentes en tu comunidad?
+9. ¿Te gustaría contar con una app donde puedas centralizar todo lo relacionado con la comunidad, como comunicaciones, votaciones y alertas?
+10. ¿Qué tipo de funcionalidades crees que facilitarían tu labor como administrador/líder?
+11. ¿Has probado alguna solución tecnológica antes? ¿Qué te funcionó o no te funcionó?
+
 <div id='2.2.2.'><h4> 2.2.2. Registro de entrevistas</h4></div>
 
 <div id='2.2.3.'><h4> 2.2.3. Análisis de entrevistas</h4></div>
