@@ -739,7 +739,100 @@ Enlace para acceder al [Canvas](https://link.com)
 
 <div id='2.3.1.'><h4> 2.3.1. User Personas</h4></div>
 
+**Segmento 1: Vecinos / Residentes**
+
+![Adriana](Imagenes/Residente.png)
+
+**Segmento 2: Administradores / Juntas Vecinales**
+
+![Adriana](Imagenes/Administrador.png)
+
 <div id='2.3.2.'><h4> 2.3.2. User Task Matrix</h4></div>
+
+En esta sección se presenta el User Task Matrix para la plataforma VeciHub, considerando dos segmentos objetivos (Vecinos y Administradores). Las tareas están ordenadas de manera que cada segmento pueda entender sus prioridades y necesidades.
+
+<table>
+  <thead>
+    <tr>
+      <th>Tareas</th>
+      <th colspan="2">Vecinos / Residentes </th>
+      <th colspan="2">Administradores / Juntas Vecinales </th>
+    </tr>
+    <tr>
+      <th></th>
+      <th>Frecuencia</th>
+      <th>Importancia</th>
+      <th>Frecuencia</th>
+      <th>Importancia</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Leer avisos importantes de la comunidad</td>
+      <td>Siempre</td>
+      <td>Alta</td>
+      <td>Siempre</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Participar en votaciones vecinales</td>
+      <td>A veces</td>
+      <td>Alta</td>
+      <td>Casi siempre</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Publicar comentarios o dudas en foros</td>
+      <td>A veces</td>
+      <td>Media</td>
+      <td>A veces</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Crear alertas de seguridad</td>
+      <td>A veces</td>
+      <td>Alta</td>
+      <td>A veces</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Promover campañas vecinales</td>
+      <td>A veces</td>
+      <td>Media</td>
+      <td>A veces</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Reportar problemas o usuarios</td>
+      <td>A veces</td>
+      <td>Alta</td>
+      <td>Casi siempre</td>
+      <td>Alta</td>
+    </tr>
+  </tbody>
+</table>
+
+**Tareas con mayor frecuencia e importancia para los vecinos:**
+
+- Leer avisos importantes, esencial para mantenerse informados.
+
+- Crear alertas y reportar problemas son acciones de alta importancia, aunque se realizan solo a veces, especialmente ante situaciones puntuales.
+
+**Tareas clave para administradores / juntas vecinales:**
+
+- Leer avisos, reportar problemas y participar en votaciones son tareas de alta frecuencia e importancia, pues permiten una gestión activa.
+
+- Promover campañas y responder en foros también son importantes para fortalecer la participación vecinal.
+
+**Diferencias:**
+
+- Vecinos reaccionan ante situaciones y se informan.
+
+- Administradores se enfocan en la gestión y coordinación constante.
+
+**Coincidencias:**
+
+- Ambos consideran importante la comunicación, seguridad y participación en la comunidad.
 
 <div id='2.3.3..'><h4> 2.3.3. User Journey Mapping</h4></div>
 
