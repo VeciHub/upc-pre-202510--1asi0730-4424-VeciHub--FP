@@ -665,7 +665,73 @@ Enlace para acceder al [Canvas](https://link.com)
 </div>
 
 
-<div id='2.2.2.'><h4> 2.2.2. Registro de entrevistas</h4></div>
+<div id='2.2.2.'><h4> 2.2.2. Registro de entrevistas</h4>
+
+  <h4>Entrevista 1: Vecino / Residente</h4>
+  <table border="1" cellpadding="6" cellspacing="0">
+    <tr><td><strong>Nombre Entrevistado</strong></td><td>Mariana Reyes</td></tr>
+    <tr><td><strong>Edad</strong></td><td>42 años</td></tr>
+    <tr><td><strong>Profesión</strong></td><td>Madre de familia</td></tr>
+    <tr><td><strong>Departamento</strong></td><td>Lima, Perú</td></tr>
+    <tr><td><strong>Duración de la Entrevista</strong></td><td>13:45 min</td></tr>
+  </table>
+
+  <h5>Análisis de la Entrevista</h5>
+  <table border="1" cellpadding="6" cellspacing="0">
+    <tr><td><strong>Fuentes de Información</strong></td><td>WhatsApp y conversaciones vecinales; ocasionalmente Facebook.</td></tr>
+    <tr><td><strong>Canales de Comunicación</strong></td><td>Usa principalmente WhatsApp para contactar a la junta vecinal.</td></tr>
+    <tr><td><strong>Participación Comunitaria</strong></td><td>Ha asistido a reuniones, pero percibe desorganización.</td></tr>
+    <tr><td><strong>Problemas en la Comunidad</strong></td><td>Falta de información oficial y comunicación clara.</td></tr>
+    <tr><td><strong>Interés en Plataforma Digital</strong></td><td>Alta disposición a usar una app como VeciHub.</td></tr>
+    <tr><td><strong>Funcionalidades Relevantes</strong></td><td>Alertas, votaciones, buzón de sugerencias.</td></tr>
+    <tr><td><strong>Privacidad y Seguridad</strong></td><td>Preocupación por protección de datos personales.</td></tr>
+  </table>
+
+  <br>
+
+  <h4>Entrevista 2: Vecino / Residente</h4>
+  <table border="1" cellpadding="6" cellspacing="0">
+    <tr><td><strong>Nombre Entrevistado</strong></td><td>Rubén Alvarado</td></tr>
+    <tr><td><strong>Edad</strong></td><td>67 años</td></tr>
+    <tr><td><strong>Profesión</strong></td><td>Jubilado</td></tr>
+    <tr><td><strong>Departamento</strong></td><td>Arequipa, Perú</td></tr>
+    <tr><td><strong>Duración de la Entrevista</strong></td><td>11:12 min</td></tr>
+  </table>
+
+  <h5>Análisis de la Entrevista</h5>
+  <table border="1" cellpadding="6" cellspacing="0">
+    <tr><td><strong>Fuentes de Información</strong></td><td>Por vecinos directamente o a través de su hija.</td></tr>
+    <tr><td><strong>Canales de Comunicación</strong></td><td>Prefiere contacto presencial o llamadas.</td></tr>
+    <tr><td><strong>Participación Comunitaria</strong></td><td>Participa activamente, pero nota poca asistencia general.</td></tr>
+    <tr><td><strong>Problemas en la Comunidad</strong></td><td>Falta de compromiso vecinal.</td></tr>
+    <tr><td><strong>Interés en Plataforma Digital</strong></td><td>Interesado, si recibe orientación.</td></tr>
+    <tr><td><strong>Funcionalidades Relevantes</strong></td><td>Recordatorios, noticias resumidas y sugerencias.</td></tr>
+    <tr><td><strong>Privacidad y Seguridad</strong></td><td>Desea garantías de protección de sus datos.</td></tr>
+  </table>
+
+  <br>
+
+  <h4>Entrevista 3: Vecino / Residente</h4>
+  <table border="1" cellpadding="6" cellspacing="0">
+    <tr><td><strong>Nombre Entrevistado</strong></td><td>Camila Romero</td></tr>
+    <tr><td><strong>Edad</strong></td><td>24 años</td></tr>
+    <tr><td><strong>Profesión</strong></td><td>Estudiante universitaria</td></tr>
+    <tr><td><strong>Departamento</strong></td><td>Trujillo, Perú</td></tr>
+    <tr><td><strong>Duración de la Entrevista</strong></td><td>10:37 min</td></tr>
+  </table>
+
+  <h5>Análisis de la Entrevista</h5>
+  <table border="1" cellpadding="6" cellspacing="0">
+    <tr><td><strong>Fuentes de Información</strong></td><td>Redes sociales o comentarios familiares.</td></tr>
+    <tr><td><strong>Canales de Comunicación</strong></td><td>WhatsApp, aunque considera desorganizado el grupo vecinal.</td></tr>
+    <tr><td><strong>Participación Comunitaria</strong></td><td>Solo en reuniones virtuales, con problemas técnicos.</td></tr>
+    <tr><td><strong>Problemas en la Comunidad</strong></td><td>Desorganización, ruido y mascotas sin control.</td></tr>
+    <tr><td><strong>Interés en Plataforma Digital</strong></td><td>Alta. Considera urgente una solución como VeciHub.</td></tr>
+    <tr><td><strong>Funcionalidades Relevantes</strong></td><td>Alertas geolocalizadas, votaciones, y visibilidad de líderes vecinales.</td></tr>
+    <tr><td><strong>Privacidad y Seguridad</strong></td><td>No desea que su dirección o datos personales sean públicos.</td></tr>
+  </table>
+</div>
+
 
 <div id='2.2.3.'><h4> 2.2.3. Análisis de entrevistas</h4></div>
 
