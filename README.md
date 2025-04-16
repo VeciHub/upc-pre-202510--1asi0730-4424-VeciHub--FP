@@ -50,7 +50,7 @@ Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la im
 |-|-|
 |Marllely Arias||
 |Javier Nikaido||
-|Kael Lagos| Desarrollo de la introducción y modificación del documento para un mayor orden|
+|Kael Lagos| Desarrollo de la introducción, planteamiento de las hipotesis y modificación del documento para un mayor orden|
 |Sebastián Hernández||
 |Luciana Sanchez||
 |Adriana Diestra||
@@ -192,9 +192,10 @@ En esta sección se presenta la descripción del startup y los perfiles de los m
 
 
 ##### Logotipo de la Startup:
-![logotipo_start]()
+<img src="Imagenes/logotipo_start.png" alt="Logotipo_start" />
+
 ##### Logotipo del servicio
-![logotipo_servicio]()
+<img src="Imagenes/logotipo_servicio.png" alt="Logotipo_servicio" />
 
 <div id='1.1.2.'><h4> 1.1.2. Perfiles de los integrantes del equipo.</h4></div>
 
@@ -306,87 +307,119 @@ Esto incluye:
 
 ###### **Problem Statement:** 
 
-El propósito de ...
+1. Usuario objetivo:
+Vecinos y administradores de comunidades residenciales (edificios, condominios o urbanizaciones cerradas) que enfrentan problemas de comunicación, organización y seguridad en su entorno.
 
+2. Sus necesidades:
+Necesitan una forma efectiva, rápida y segura de mantenerse informados, expresar sus opiniones, coordinar actividades comunitarias y reaccionar ante situaciones urgentes (robos, conflictos, mantenimiento, etc.).
+
+3. Problemas que enfrentan:
+Actualmente, la comunicación entre vecinos es desorganizada y dispersa (usando grupos de WhatsApp, correos o pizarras físicas), lo que provoca desinformación, desconfianza, desinterés en la participación y retraso en la toma de decisiones importantes.
+
+4. Nuestra solución propuesta:
+Una aplicación móvil/web llamada VeciHub que centralice la comunicación comunitaria mediante foros, votaciones, alertas, reuniones virtuales, campañas vecinales, y acceso rápido a servicios de emergencia. Esta herramienta promueve la transparencia, el compromiso vecinal y la seguridad colectiva.
 
 <div id='1.2.2.2.'><h5> 1.2.2.2. Lean UX Assumptions.</h5></div>
 
 ###### **Business Assumptions:**
-1.  **Creemos que nuestros usuarios necesitan**  ...
-2.  **Estas necesidades se pueden satisfacer** ...
-3.  **Nuestros clientes iniciales serán** ...
-4.  **El valor más importante que un cliente quiere de nuestros servicios es** ...
-5.  **El cliente también va a obtener** ...
-6.  **Vamos a obtener la mayoría de los clientes mediante** ...
-7.  **Vamos a obtener ingresos mediante** ....
-8.  **Nuestra competencia en el mercado serán** ....
-9.  **Vamos a tener ventaja frente a nuestra competencia debido a** ....
-10.  **El mayor riesgo del servicio es** ....
-11.  **Lo resolveremos realizando** ....
+1.  **Creemos que nuestros usuarios necesitan** una plataforma eficiente, segura y sencilla para comunicarse con sus vecinos, organizarse y mantenerse informados en tiempo real sobre lo que ocurre en su comunidad.
+2.  **Estas necesidades se pueden satisfacer** a través de una aplicación móvil con foros, alertas, votaciones, eventos comunitarios y acceso directo a canales de emergencia.
+3.  **Nuestros clientes iniciales serán** juntas vecinales, administradores de condominios y residentes de comunidades cerradas que buscan mejorar su organización interna.
+4.  **El valor más importante que un cliente quiere de nuestros servicios es** la capacidad de mantener a toda la comunidad informada y conectada de forma ordenada y segura.
+5.  **El cliente también va a obtener** herramientas para prevenir conflictos, mejorar la seguridad vecinal y fortalecer el sentido de comunidad.
+6.  **Vamos a obtener la mayoría de los clientes mediante** alianzas con inmobiliarias, difusión en redes sociales, recomendaciones entre comunidades y presentaciones en ferias de vivienda o seguridad.
+7.  **Vamos a obtener ingresos mediante** suscripciones mensuales o anuales, servicios premium dentro de la app y publicidad local segmentada.
+8.  **Nuestra competencia en el mercado serán** grupos informales en redes sociales, apps como Nextdoor (en países anglosajones) y plataformas de gestión de condominios tradicionales.
+9.  **Vamos a tener ventaja frente a nuestra competencia debido a** una interfaz amigable, enfoque en comunicación vecinal, funciones adaptadas al contexto latinoamericano y herramientas de seguridad integradas.
+10.  **El mayor riesgo del servicio es** la baja adopción por parte de los vecinos o el desinterés por migrar desde canales informales como WhatsApp.
+11.  **Lo resolveremos realizando** pruebas piloto en comunidades pequeñas, campañas de concientización sobre los beneficios del orden digital, soporte constante, y una experiencia de usuario atractiva y accesible para todos.
 
 ###### **User Assumptions:**
 ###### **¿Quién es el usuario?**   
-....
+Los usuarios principales son vecinos residentes en edificios, condominios o urbanizaciones cerradas, así como administradores de estas comunidades. También pueden ser miembros de juntas vecinales u organizaciones locales interesadas en mejorar la comunicación y seguridad de su entorno.
 
-###### **¿Qué problemas tiene nuestro producto? ¿Resolver?**
-....
+###### **¿Qué problemas tiene nuestro producto que resolver?**
+- Falta de comunicación organizada entre vecinos.
+- Desinformación sobre actividades comunitarias, reuniones o situaciones urgentes.
+- Desconfianza o conflictos por mala gestión de decisiones vecinales.
+- Ausencia de canales seguros y centralizados para alertas o anuncios.
+- Dificultad para reaccionar ante emergencias o coordinar acciones vecinales.
 
 ###### **¿Qué características son importantes?**
-...
+- Foros vecinales organizados por temas.
+- Votaciones y encuestas rápidas.
+- Alertas de seguridad o emergencias.
+- Calendario de actividades y reuniones.
+- Accesos directos a contactos de emergencia.
+- Notificaciones personalizadas.
+- Registro de participación y trazabilidad de decisiones.
 
 ###### **¿Dónde encaja nuestro producto en su trabajo o vida?**
-...
+Encaja como una herramienta diaria de organización y conexión comunitaria. Puede ser parte de su rutina al revisar avisos, responder votaciones o reportar una situación. Para los administradores, es un instrumento de gestión operativa que mejora su eficiencia y transparencia.
 
-###### **¿Cuándo y cómo es nuestro producto? ¿Usado?**
-...
+###### **¿Cuándo y cómo es usado nuestro producto?**
+- Cuándo: Diariamente o según eventos relevantes (reuniones, alertas, votaciones).
+- Cómo: Desde el celular o tablet, por medio de notificaciones push o explorando la app activamente para informarse o participar.
 
 ###### **¿Cómo debe verse nuestro producto y cómo debe comportarse?**
-...
+- Debe verse limpio, moderno y amigable, con íconos intuitivos y colores suaves que generen confianza.
+- Debe comportarse de forma rápida, fluida y confiable, permitiendo navegar entre foros, avisos y funciones sin complicaciones.
+- La interfaz debe adaptarse a personas con poca experiencia digital, manteniendo la simplicidad sin perder funcionalidad.
 
 ###### **Feature Assumptions:**
 
-**Creemos que** ...
+**Creemos que** los usuarios necesitan una plataforma centralizada para enterarse de lo que ocurre en su comunidad sin depender de múltiples canales informales como grupos de WhatsApp, pizarras físicas o correos dispersos.
 
-**Creemos que** A...
+**Creemos que** a los vecinos les interesa participar más activamente en decisiones y actividades de su comunidad si se les brinda una herramienta accesible, transparente y ordenada para hacerlo.
 
-**Creemos que** la plataforma ...
+**Creemos que** la plataforma debe ofrecer funcionalidades clave como foros, votaciones, alertas de seguridad, calendario de eventos y accesos rápidos a emergencias, ya que estas características cubren las principales necesidades de convivencia, organización y prevención.
 
-**Creemos que** ...
+**Creemos que** la experiencia de usuario debe ser simple, intuitiva y adaptada al contexto local latinoamericano, para garantizar la adopción por parte de todo tipo de usuarios, incluso aquellos con bajo dominio tecnológico.
 
 
 <div id='1.2.2.3.'><h5> 1.2.2.3. Lean UX Hypothesis Statements.</h5></div>
 
 * **Hypothesis Statement 01:**
     
-    **Creemos que** l...
+    **Creemos que** los vecinos desean una forma más rápida y organizada de enterarse sobre lo que ocurre en su comunidad.
+
+    **Cuando** los vecinos ingresen a la aplicación desde su telefono, seleccionaran la pestaña de noticias más recientes.
+
+    **Entonces** la aplicación los llevará a una nueva pestaña en la cual puedan enterarse de las noticias más importantes de la semana.
   
-    **Sabremos** que hemos tenido éxito.
+    **Sabremos** que hemos tenido exito cuando los vecinos estén mejor enterados de las cosas que pasan en su vecindario.
     
-    **Cuando** ...
+    
   
 * **Hypothesis Statement 02:**
     
-    **Creemos que** ...
-    
-    **Sabremos** que hemos tenido éxito.
-    
-    **Cuando** a...
+    **Creemos que** los vecinos desean una forma de comunicarse con los miembros de su comunidad.
+
+    **Cuando** los vecinos quieran comunicarse entre sí, seleccionan la opción de chat grupal en el menú principal.
+
+    **Entonces** la aplicación los llevará a una pestaña en forma de chat en el cual pueden comunicarse entre sí.
+  
+    **Sabremos** que hemos tenido exito cuando veamos a los vecinos entablar una conversación más organizada entre ellos. 
 
 * **Hypothesis Statement 03:**
     
-    **Creemos que** ..s.
-    
-    **Sabremos** que hemos tenido éxito.
-    
-    **Cuando** ...
+  **Creemos que** los jefes de vecindario necesitan una herramienta que les permita enviar comunicados de forma más rápida y que tengan un mayor alcane entre los vecinos.
+
+  **Cuando** los jefes de vecindario ingresen al apartado de anuncios, seleccionaran la opción de "Escribir nuevo anuncio".
+
+  **Entonces** la aplicación los llevará a una pestaña especial en la cual pueden ya sea modificar, borrar o agregar anuncios al tablero principal.
+  
+  **Sabremos** que hemos tenido exito cuando los comunicados o noticias lleguén a tener un mayor alcance entre los vecinos.
 
 * **Hypothesis Statement 04:**
     
-    **Creemos que** ...
-    
-    **Sabremos** que hemos tenido éxito.
-    
-    **Cuando** ...
+   **Creemos que** los jefes de vecindario necesitan una herramienta que les permita notificar a los miembros de su comunidad sobre alguna emergencia que este pasando en esos momentos para que tomen sus precausiones.
+
+   **Cuando** los jefes de vecindario ingresen al apartado de anuncios, deben seleccionar la opción de "anuncios de emergencia".
+
+   **Entonces** la aplicación los enviará a una pestaña exclusiva en la cual pueden enviar un anuncio de emergencia masivo a todos los vecinos en forma de notificación sonora.
+  
+   **Sabremos** que hemos tenido exito cuando al momento de una emergencia, los vecinos puedan estar organizados en el momento al tomar todas las precausiones necesarias.
 
 
 <div id='1.2.2.4.'><h5> 1.2.2.4. Lean UX Canvas.</h5></div>
