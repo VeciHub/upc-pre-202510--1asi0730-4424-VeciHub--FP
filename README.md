@@ -667,6 +667,8 @@ Enlace para acceder al [Canvas](https://link.com)
 
 <div id='2.2.2.'><h4> 2.2.2. Registro de entrevistas</h4>
 
+**Segmento objetivo 1: Vecino / Residente**
+
   <h4>Entrevista 1: Vecino / Residente</h4>
   <table border="1" cellpadding="6" cellspacing="0">
     <tr><td><strong>Nombre Entrevistado</strong></td><td>Mariana Reyes</td></tr>
@@ -731,6 +733,45 @@ Enlace para acceder al [Canvas](https://link.com)
     <tr><td><strong>Privacidad y Seguridad</strong></td><td>No desea que su dirección o datos personales sean públicos.</td></tr>
   </table>
 </div>
+
+**Segmento objetivo 2: Administradores / Juntas Vecinales**
+
+Entrevista 1:
+----------------------
+Nombre del entrevistado: Cielo Rafaile
+
+Edad: 22 años
+
+Profesión: Emprendedora
+
+Departamento: Lima
+
+Duración de la Entrevista: 3:14 min
+
+Capturas: 
+![Administrador](Imagenes/EntrevistaCielo.png)
+
+Descripción: Se entrevistó a una administradora vecinal, quien compartió su experiencia gestionando la comunicación con los vecinos a través de juntas presenciales y grupos de WhatsApp. Comentó las dificultades para lograr la participación activa de la comunidad, el desorden en los canales actuales y la importancia de contar con una plataforma digital que centralice votaciones.
+
+Link de la entrevista: https://goo.su/ZpGs
+
+Entrevista 2:
+----------------------
+Nombre del entrevistado: 
+
+Edad: 
+
+Profesión:
+
+Departamento: 
+
+Duración de la Entrevista: 
+
+Capturas: 
+
+Descripción: 
+
+Link de la entrevista: 
 
 
 <div id='2.2.3.'><h4> 2.2.3. Análisis de entrevistas</h4></div>
