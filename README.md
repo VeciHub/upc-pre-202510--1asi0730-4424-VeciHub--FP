@@ -201,7 +201,7 @@ En esta sección se presenta la descripción del startup y los perfiles de los m
 
 | Foto                                 | Alumno            | Descripción                                                                                                                                                                                                                                                                                                                                                                  |
 | ------------------------------------ | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|Foto aqui|  Nombre aqui       |            Descripción tuya aqui                                                                                                                                                                                                                                                                                                                                                                 |
+|![Kael_Foto](Imagenes/masaru.jpg) |  Javier Masaru Nikaido Vargas      |          Estudiante de Ingenieria de Software de 5to ciclo de la Universidad Peruana de Ciencias. Me gusta hacer las cosas con tiempo y ordenadamente, trabajar con tranquilidad y terminar mis deberes a tiempo.                                                                                                                                                                                                                                                                        |
 |     ![Kael_Foto](Imagenes/sebastianh.png)                                 |       Sebastian Eduardo Hernandez Poma            |       Estudiante de 5to ciclo en Ingenieria de Software en la Universidad Peruana de Ciencias Aplicadas. Soy una persona trabajadora, capaz de liderar y colaborar en equipos, incluso bajo presión, lo que me hace hábil para resolver problemas y enfrentar diversas situaciones. Destaco por mi proactividad, responsabilidad y mi constante deseo de aprender.                                                                                                                                                                                                                                                                                                                                                                       |
 | ![Kael_Foto](Imagenes/Kael_Foto.jpg) | Kael Lagos Rivera | Me llamo Kael Lagos, estudio en la UPC de Monterrico. Tengo muchas ganas de aprender, me considero una persona responsable que busca aprender de sus errores cada vez que puede y tambien me considero alguien que se centra en los detalles. Me comprometo a ayudar a mis compañeros para la elaboración de nuestro trabajo que nos pueda asegurar una buena nota al final. |
 |         Foto aqui                             |       Nombre aqui               |                 Descripción tuya aqui                                                                                                                                                                                                                                                                                                                                                             |
@@ -994,9 +994,62 @@ Mediante este gráfico de Empathy Mapping, se reflejan las percepciones, pensami
 
 <div id='2.4.'><h3> 2.4. Ubiquitous Language</h3></div>
 
-<div id='3.'>Capítulo III: Requirements Specification.</div>
-<div id='3.1.'>3.1. To-Be Scenario Mapping.
-<div id='3.2.'>3.2. User Stories.
-<div id='3.3.'>3.3. Impact Mapping.
-<div id='3.4.'>3.4. Product Backlog.
+<div id='3.'><h2>Capítulo III: Requirements Specification</h2></div>
+
+<div id='3.1.'><h3>3.1. To-Be Scenario Mapping</h3></div>
+
+A partir del análisis de la situación actual (As-Is), se propone el siguiente escenario "To-Be" que muestra cómo cambiará la experiencia del usuario con la implementación de VeciHub:
+
+| Paso | Usuario       | Acción                                                   | Resultado Esperado                                                        |
+|------|---------------|----------------------------------------------------------|---------------------------------------------------------------------------|
+| 1    | Vecino        | Abre la app y revisa el tablero de noticias recientes   | Se informa rápidamente sobre las novedades en su comunidad.              |
+| 2    | Administrador | Publica un anuncio de mantenimiento                      | Todos los vecinos reciben una notificación clara y centralizada.         |
+| 3    | Vecino        | Participa en una votación sobre seguridad                | Se registra su opinión de forma segura y se suman los votos de otros.    |
+| 4    | Administrador | Envía una alerta de emergencia                           | Todos los vecinos reciben una alerta sonora inmediata.                   |
+| 5    | Vecino        | Reporta un incidente mediante un formulario              | El administrador recibe el reporte y puede gestionarlo eficientemente.   |
+
+---
+
+<div id='3.2.'><h3>3.2. User Stories</h3></div>
+
+Las siguientes historias de usuario fueron elaboradas tomando como referencia las entrevistas, los mapeos de usuario y las hipótesis propuestas.
+
+**Usuario: Vecino**
+
+- Como vecino, quiero recibir notificaciones importantes para estar informado sobre eventos o emergencias en mi comunidad.
+- Como vecino, quiero participar en votaciones comunitarias para expresar mi opinión en decisiones vecinales.
+- Como vecino, quiero reportar problemas desde la app para comunicarme directamente con los administradores.
+
+**Usuario: Administrador / Junta Vecinal**
+
+- Como administrador, quiero enviar anuncios masivos para informar rápidamente a toda la comunidad.
+- Como administrador, quiero crear votaciones seguras para recoger decisiones comunitarias.
+- Como administrador, quiero visualizar estadísticas de participación para evaluar el compromiso vecinal.
+
+---
+
+<div id='3.3.'><h3>3.3. Impact Mapping</h3></div>
+
+| Objetivo del Proyecto             | Actores        | Impacto Esperado                                        | Entregables                                         |
+|----------------------------------|----------------|----------------------------------------------------------|-----------------------------------------------------|
+| Mejorar la comunicación comunitaria | Vecinos        | Mayor participación en la vida comunitaria              | Foros, votaciones, notificaciones                   |
+| Optimizar la gestión vecinal     | Administradores | Menor desorganización y más orden en la comunicación    | Panel de gestión, historial de anuncios             |
+| Incrementar la seguridad vecinal | Todos los usuarios | Respuesta rápida ante emergencias                       | Alertas geolocalizadas, contactos de emergencia     |
+| Fomentar la colaboración y pertenencia | Vecinos     | Incremento en campañas y actividades locales            | Calendario de eventos, buzón de sugerencias         |
+
+---
+
+<div id='3.4.'><h3>3.4. Product Backlog</h3></div>
+
+| ID | Historia de Usuario                                              | Prioridad | Estimación (Story Points) | Sprint     |
+|----|------------------------------------------------------------------|-----------|---------------------------|------------|
+| 1  | Como vecino, quiero recibir notificaciones en tiempo real       | Alta      | 5                         | Sprint 1   |
+| 2  | Como administrador, quiero enviar anuncios masivos              | Alta      | 5                         | Sprint 1   |
+| 3  | Como vecino, quiero participar en votaciones                    | Alta      | 8                         | Sprint 1   |
+| 4  | Como administrador, quiero gestionar usuarios registrados       | Media     | 8                         | Sprint 2   |
+| 5  | Como vecino, quiero reportar incidentes mediante un formulario  | Media     | 5                         | Sprint 2   |
+| 6  | Como administrador, quiero ver estadísticas de uso             | Baja      | 13                        | Sprint 3   |
+| 7  | Como vecino, quiero acceder a un calendario de eventos          | Baja      | 3                         | Sprint 3   |
+| 8  | Como administrador, quiero validar cuentas nuevas               | Media     | 5                         | Sprint 2   |
+
 
