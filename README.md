@@ -992,6 +992,16 @@ Mediante este gráfico de Empathy Mapping, se reflejan las percepciones, pensami
 
 <div id='2.3.5.'><h4> 2.3.5. As-is Scenario Mapping</h4></div>
 
+Se describen los procesos actuales de los usuarios antes de la implementación de nuestra solución. Esto nos permite identificar ineficiencias y oportunidades para mejorar la comunicación comunitaria, la seguridad vecinal y la participación activa de los residentes mediante el uso de herramientas digitales eficientes y accesibles.
+
+**Segmento 1: Vecinos / Residentes**
+
+![Residente](Imagenes/Residente__.png)
+
+**Segmento 2: Administradores / Juntas Vecinales**
+
+![Administrador](Imagenes/Administradores__.png)
+
 <div id='2.4.'><h3> 2.4. Ubiquitous Language</h3></div>
 
 <div id='3.'><h2>Capítulo III: Requirements Specification</h2></div>
