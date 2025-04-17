@@ -680,16 +680,14 @@ Enlace para acceder al [Canvas](https://link.com)
 
   
 
-  <br>
-  <h4>Entrevista 2: Vecino / Residente</h4>
-  <table border="1" cellpadding="6" cellspacing="0">
-    <tr><td><strong>Nombre Entrevistado</strong></td><td>Rubén Alvarado</td></tr>
-    <tr><td><strong>Edad</strong></td><td>67 años</td></tr>
-    <tr><td><strong>Profesión</strong></td><td>Jubilado</td></tr>
-    <tr><td><strong>Departamento</strong></td><td>Arequipa, Perú</td></tr>
-    <tr><td><strong>Duración de la Entrevista</strong></td><td>11:12 min</td></tr>
-  </table>
-  <br>
+ <h4>Entrevista 2: Vecina / Residente</h4>
+<table border="1" cellpadding="6" cellspacing="0">
+  <tr><td><strong>Nombre Entrevistado</strong></td><td>Olivia Díaz</td></tr>
+  <tr><td><strong>Edad</strong></td><td>28 años</td></tr>
+  <tr><td><strong>Profesión</strong></td><td>Diseñadora Gráfica</td></tr>
+  <tr><td><strong>Departamento</strong></td><td>Lima, Perú</td></tr>
+  <tr><td><strong>Duración de la Entrevista</strong></td><td>12:03 min</td></tr>
+</table>
 
   <h4>Entrevista 3: Vecino / Residente</h4>
   <table border="1" cellpadding="6" cellspacing="0">
@@ -711,6 +709,15 @@ Enlace para acceder al [Canvas](https://link.com)
   <tr><td><strong>Rol</strong></td><td>Representante de Junta Vecinal</td></tr>
   <tr><td><strong>Departamento</strong></td><td>No especificado</td></tr>
   <tr><td><strong>Duración de la Entrevista</strong></td><td>3:01 min</td></tr>
+</table>
+
+<h4>Entrevista 5: Administrador / Junta Vecinal</h4>
+<table border="1" cellpadding="6" cellspacing="0">
+  <tr><td><strong>Nombre Entrevistado</strong></td><td>Luis Ramírez</td></tr>
+  <tr><td><strong>Edad</strong></td><td>48 años</td></tr>
+  <tr><td><strong>Profesión</strong></td><td>Abogado</td></tr>
+  <tr><td><strong>Departamento</strong></td><td>Barcelona</td></tr>
+  <tr><td><strong>Duración de la Entrevista</strong></td><td>09:17 min</td></tr>
 </table>
 
 
@@ -754,17 +761,39 @@ Link de la entrevista:
     <tr><td><strong>Funcionalidades Relevantes</strong></td><td>Alertas, votaciones, buzón de sugerencias.</td></tr>
     <tr><td><strong>Privacidad y Seguridad</strong></td><td>Preocupación por protección de datos personales.</td></tr>
   </table>
-
-    <h5>Análisis de la Entrevista - Ruben Alvarado</h5>
-  <table border="1" cellpadding="6" cellspacing="0">
-    <tr><td><strong>Fuentes de Información</strong></td><td>Por vecinos directamente o a través de su hija.</td></tr>
-    <tr><td><strong>Canales de Comunicación</strong></td><td>Prefiere contacto presencial o llamadas.</td></tr>
-    <tr><td><strong>Participación Comunitaria</strong></td><td>Participa activamente, pero nota poca asistencia general.</td></tr>
-    <tr><td><strong>Problemas en la Comunidad</strong></td><td>Falta de compromiso vecinal.</td></tr>
-    <tr><td><strong>Interés en Plataforma Digital</strong></td><td>Interesado, si recibe orientación.</td></tr>
-    <tr><td><strong>Funcionalidades Relevantes</strong></td><td>Recordatorios, noticias resumidas y sugerencias.</td></tr>
-    <tr><td><strong>Privacidad y Seguridad</strong></td><td>Desea garantías de protección de sus datos.</td></tr>
-  </table>
+<br>
+    <h5>Análisis de la Entrevista Olivia Díaz</h5>
+<table border="1" cellpadding="6" cellspacing="0">
+  <tr>
+    <td><strong>Fuentes de Información</strong></td>
+    <td>Se informa principalmente a través de WhatsApp y el grupo de Facebook del condominio, aunque nota que hay demasiados mensajes irrelevantes.</td>
+  </tr>
+  <tr>
+    <td><strong>Canales de Comunicación</strong></td>
+    <td>Usa WhatsApp para temas urgentes. No participa en reuniones presenciales por falta de tiempo, ya que trabaja desde casa.</td>
+  </tr>
+  <tr>
+    <td><strong>Participación Comunitaria</strong></td>
+    <td>Participación limitada. Tiene intención de involucrarse más si puede hacerlo mediante medios digitales.</td>
+  </tr>
+  <tr>
+    <td><strong>Problemas en la Comunidad</strong></td>
+    <td>Falta de comunicación clara y oportuna. A menudo se entera tarde de eventos o incidentes importantes.</td>
+  </tr>
+  <tr>
+    <td><strong>Interés en Plataforma Digital</strong></td>
+    <td>Muy interesada en contar con una plataforma como VeciHub para recibir alertas, participar en votaciones y estar más conectada con su comunidad.</td>
+  </tr>
+  <tr>
+    <td><strong>Funcionalidades Relevantes</strong></td>
+    <td>Votaciones digitales, notificaciones, buzón de sugerencias, alertas de seguridad y calendario de actividades.</td>
+  </tr>
+  <tr>
+    <td><strong>Privacidad y Seguridad</strong></td>
+    <td>Le preocupa que su información personal sea visible. Considera esencial que la app proteja su privacidad.</td>
+  </tr>
+</table>
+<br>
 
   <h5>Análisis de la Entrevista - Camila Romero</h5>
   <table border="1" cellpadding="6" cellspacing="0">
@@ -776,7 +805,7 @@ Link de la entrevista:
     <tr><td><strong>Funcionalidades Relevantes</strong></td><td>Alertas geolocalizadas, votaciones, y visibilidad de líderes vecinales.</td></tr>
     <tr><td><strong>Privacidad y Seguridad</strong></td><td>No desea que su dirección o datos personales sean públicos.</td></tr>
   </table>
-
+<br>
 <h5>Análisis de la Entrevista - Cielo Rafaile</h5>
 <table border="1" cellpadding="6" cellspacing="0">
   <tr>
@@ -812,7 +841,42 @@ Link de la entrevista:
     <td>Estarían dispuestos si reciben capacitación y soporte. Resalta que debe ser fácil de usar para todos los vecinos.</td>
   </tr>
 </table>
-
+<br>
+<h5>Análisis de la Entrevista - Luis Ramírez</h5>
+<table border="1" cellpadding="6" cellspacing="0">
+  <tr>
+    <td><strong>Medios de Comunicación</strong></td>
+    <td>Usa principalmente WhatsApp para avisos generales, aunque nota que muchos vecinos no leen los mensajes. También emplea Zoom para reuniones virtuales.</td>
+  </tr>
+  <tr>
+    <td><strong>Herramientas Actuales</strong></td>
+    <td>Coordina actividades y comunicaciones mediante WhatsApp, correo electrónico y llamadas directas a vecinos.</td>
+  </tr>
+  <tr>
+    <td><strong>Dificultades para la Participación</strong></td>
+    <td>Falta de respuesta o confirmación por parte de los vecinos. Se requiere insistencia para obtener participación activa.</td>
+  </tr>
+  <tr>
+    <td><strong>Problemas con los Canales Actuales</strong></td>
+    <td>Existe desorganización al manejar múltiples canales. Se pierde información importante y hay confusión entre anuncios oficiales y mensajes personales.</td>
+  </tr>
+  <tr>
+    <td><strong>Información Crítica a Comunicar</strong></td>
+    <td>Pagos, mantenimientos, fechas de reuniones, temas de seguridad. Requiere medios que garanticen visibilidad y lectura de estos avisos.</td>
+  </tr>
+  <tr>
+    <td><strong>Interés en Plataforma Digital</strong></td>
+    <td>Muy interesado. Busca centralizar avisos, votaciones, quejas y actividades en una sola herramienta digital.</td>
+  </tr>
+  <tr>
+    <td><strong>Funcionalidades Deseadas</strong></td>
+    <td>Confirmación de lectura de anuncios, votaciones en línea, calendario integrado, buzón de sugerencias, control de asistencia y reportes.</td>
+  </tr>
+  <tr>
+    <td><strong>Disposición a Implementar la App</strong></td>
+    <td>Totalmente dispuesto, siempre que sea sencilla de utilizar y le permita reducir carga operativa.</td>
+  </tr>
+</table>
 <div id='2.3.'><h3> 2.3. Needfinding</h3></div>
 
 <div id='2.3.1.'><h4> 2.3.1. User Personas</h4></div>
