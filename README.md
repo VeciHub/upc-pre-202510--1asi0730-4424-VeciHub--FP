@@ -755,7 +755,7 @@ Link de la entrevista:
     <tr><td><strong>Privacidad y Seguridad</strong></td><td>Preocupación por protección de datos personales.</td></tr>
   </table>
 
-    <h5>Análisis de la Entrevista - Rubén Alvarado</h5>
+    <h5>Análisis de la Entrevista - Ruben Alvarado</h5>
   <table border="1" cellpadding="6" cellspacing="0">
     <tr><td><strong>Fuentes de Información</strong></td><td>Por vecinos directamente o a través de su hija.</td></tr>
     <tr><td><strong>Canales de Comunicación</strong></td><td>Prefiere contacto presencial o llamadas.</td></tr>
