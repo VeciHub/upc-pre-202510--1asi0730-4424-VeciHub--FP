@@ -678,19 +678,9 @@ Enlace para acceder al [Canvas](https://link.com)
     <tr><td><strong>Duración de la Entrevista</strong></td><td>13:45 min</td></tr>
   </table>
 
-  <h5>Análisis de la Entrevista</h5>
-  <table border="1" cellpadding="6" cellspacing="0">
-    <tr><td><strong>Fuentes de Información</strong></td><td>WhatsApp y conversaciones vecinales; ocasionalmente Facebook.</td></tr>
-    <tr><td><strong>Canales de Comunicación</strong></td><td>Usa principalmente WhatsApp para contactar a la junta vecinal.</td></tr>
-    <tr><td><strong>Participación Comunitaria</strong></td><td>Ha asistido a reuniones, pero percibe desorganización.</td></tr>
-    <tr><td><strong>Problemas en la Comunidad</strong></td><td>Falta de información oficial y comunicación clara.</td></tr>
-    <tr><td><strong>Interés en Plataforma Digital</strong></td><td>Alta disposición a usar una app como VeciHub.</td></tr>
-    <tr><td><strong>Funcionalidades Relevantes</strong></td><td>Alertas, votaciones, buzón de sugerencias.</td></tr>
-    <tr><td><strong>Privacidad y Seguridad</strong></td><td>Preocupación por protección de datos personales.</td></tr>
-  </table>
+  
 
   <br>
-
   <h4>Entrevista 2: Vecino / Residente</h4>
   <table border="1" cellpadding="6" cellspacing="0">
     <tr><td><strong>Nombre Entrevistado</strong></td><td>Rubén Alvarado</td></tr>
@@ -699,18 +689,6 @@ Enlace para acceder al [Canvas](https://link.com)
     <tr><td><strong>Departamento</strong></td><td>Arequipa, Perú</td></tr>
     <tr><td><strong>Duración de la Entrevista</strong></td><td>11:12 min</td></tr>
   </table>
-
-  <h5>Análisis de la Entrevista</h5>
-  <table border="1" cellpadding="6" cellspacing="0">
-    <tr><td><strong>Fuentes de Información</strong></td><td>Por vecinos directamente o a través de su hija.</td></tr>
-    <tr><td><strong>Canales de Comunicación</strong></td><td>Prefiere contacto presencial o llamadas.</td></tr>
-    <tr><td><strong>Participación Comunitaria</strong></td><td>Participa activamente, pero nota poca asistencia general.</td></tr>
-    <tr><td><strong>Problemas en la Comunidad</strong></td><td>Falta de compromiso vecinal.</td></tr>
-    <tr><td><strong>Interés en Plataforma Digital</strong></td><td>Interesado, si recibe orientación.</td></tr>
-    <tr><td><strong>Funcionalidades Relevantes</strong></td><td>Recordatorios, noticias resumidas y sugerencias.</td></tr>
-    <tr><td><strong>Privacidad y Seguridad</strong></td><td>Desea garantías de protección de sus datos.</td></tr>
-  </table>
-
   <br>
 
   <h4>Entrevista 3: Vecino / Residente</h4>
@@ -722,31 +700,21 @@ Enlace para acceder al [Canvas](https://link.com)
     <tr><td><strong>Duración de la Entrevista</strong></td><td>10:37 min</td></tr>
   </table>
 
-  <h5>Análisis de la Entrevista</h5>
-  <table border="1" cellpadding="6" cellspacing="0">
-    <tr><td><strong>Fuentes de Información</strong></td><td>Redes sociales o comentarios familiares.</td></tr>
-    <tr><td><strong>Canales de Comunicación</strong></td><td>WhatsApp, aunque considera desorganizado el grupo vecinal.</td></tr>
-    <tr><td><strong>Participación Comunitaria</strong></td><td>Solo en reuniones virtuales, con problemas técnicos.</td></tr>
-    <tr><td><strong>Problemas en la Comunidad</strong></td><td>Desorganización, ruido y mascotas sin control.</td></tr>
-    <tr><td><strong>Interés en Plataforma Digital</strong></td><td>Alta. Considera urgente una solución como VeciHub.</td></tr>
-    <tr><td><strong>Funcionalidades Relevantes</strong></td><td>Alertas geolocalizadas, votaciones, y visibilidad de líderes vecinales.</td></tr>
-    <tr><td><strong>Privacidad y Seguridad</strong></td><td>No desea que su dirección o datos personales sean públicos.</td></tr>
-  </table>
+
 </div>
 
 **Segmento objetivo 2: Administradores / Juntas Vecinales**
+<h4>Entrevista 4: Administrador(a) / Junta Vecinal</h4>
+<table border="1" cellpadding="6" cellspacing="0">
+  <tr><td><strong>Nombre Entrevistado</strong></td><td>Cielo Rafaile</td></tr>
+  <tr><td><strong>Edad</strong></td><td>22 años</td></tr>
+  <tr><td><strong>Rol</strong></td><td>Representante de Junta Vecinal</td></tr>
+  <tr><td><strong>Departamento</strong></td><td>No especificado</td></tr>
+  <tr><td><strong>Duración de la Entrevista</strong></td><td>3:01 min</td></tr>
+</table>
 
-Entrevista 1:
-----------------------
-Nombre del entrevistado: Cielo Rafaile
 
-Edad: 22 años
 
-Profesión: Emprendedora
-
-Departamento: Lima
-
-Duración de la Entrevista: 3:14 min
 
 Capturas: 
 ![Administrador](Imagenes/EntrevistaCielo.png)
@@ -775,6 +743,75 @@ Link de la entrevista:
 
 
 <div id='2.2.3.'><h4> 2.2.3. Análisis de entrevistas</h4></div>
+
+<h5>Análisis de la Entrevista - Mariana Reyes</h5>
+  <table border="1" cellpadding="6" cellspacing="0">
+    <tr><td><strong>Fuentes de Información</strong></td><td>WhatsApp y conversaciones vecinales; ocasionalmente Facebook.</td></tr>
+    <tr><td><strong>Canales de Comunicación</strong></td><td>Usa principalmente WhatsApp para contactar a la junta vecinal.</td></tr>
+    <tr><td><strong>Participación Comunitaria</strong></td><td>Ha asistido a reuniones, pero percibe desorganización.</td></tr>
+    <tr><td><strong>Problemas en la Comunidad</strong></td><td>Falta de información oficial y comunicación clara.</td></tr>
+    <tr><td><strong>Interés en Plataforma Digital</strong></td><td>Alta disposición a usar una app como VeciHub.</td></tr>
+    <tr><td><strong>Funcionalidades Relevantes</strong></td><td>Alertas, votaciones, buzón de sugerencias.</td></tr>
+    <tr><td><strong>Privacidad y Seguridad</strong></td><td>Preocupación por protección de datos personales.</td></tr>
+  </table>
+
+    <h5>Análisis de la Entrevista - Rubén Alvarado</h5>
+  <table border="1" cellpadding="6" cellspacing="0">
+    <tr><td><strong>Fuentes de Información</strong></td><td>Por vecinos directamente o a través de su hija.</td></tr>
+    <tr><td><strong>Canales de Comunicación</strong></td><td>Prefiere contacto presencial o llamadas.</td></tr>
+    <tr><td><strong>Participación Comunitaria</strong></td><td>Participa activamente, pero nota poca asistencia general.</td></tr>
+    <tr><td><strong>Problemas en la Comunidad</strong></td><td>Falta de compromiso vecinal.</td></tr>
+    <tr><td><strong>Interés en Plataforma Digital</strong></td><td>Interesado, si recibe orientación.</td></tr>
+    <tr><td><strong>Funcionalidades Relevantes</strong></td><td>Recordatorios, noticias resumidas y sugerencias.</td></tr>
+    <tr><td><strong>Privacidad y Seguridad</strong></td><td>Desea garantías de protección de sus datos.</td></tr>
+  </table>
+
+  <h5>Análisis de la Entrevista - Camila Romero</h5>
+  <table border="1" cellpadding="6" cellspacing="0">
+    <tr><td><strong>Fuentes de Información</strong></td><td>Redes sociales o comentarios familiares.</td></tr>
+    <tr><td><strong>Canales de Comunicación</strong></td><td>WhatsApp, aunque considera desorganizado el grupo vecinal.</td></tr>
+    <tr><td><strong>Participación Comunitaria</strong></td><td>Solo en reuniones virtuales, con problemas técnicos.</td></tr>
+    <tr><td><strong>Problemas en la Comunidad</strong></td><td>Desorganización, ruido y mascotas sin control.</td></tr>
+    <tr><td><strong>Interés en Plataforma Digital</strong></td><td>Alta. Considera urgente una solución como VeciHub.</td></tr>
+    <tr><td><strong>Funcionalidades Relevantes</strong></td><td>Alertas geolocalizadas, votaciones, y visibilidad de líderes vecinales.</td></tr>
+    <tr><td><strong>Privacidad y Seguridad</strong></td><td>No desea que su dirección o datos personales sean públicos.</td></tr>
+  </table>
+
+<h5>Análisis de la Entrevista - Cielo Rafaile</h5>
+<table border="1" cellpadding="6" cellspacing="0">
+  <tr>
+    <td><strong>Medios de Comunicación</strong></td>
+    <td>Reuniones presenciales en el patio del conjunto y avisos enviados por WhatsApp.</td>
+  </tr>
+  <tr>
+    <td><strong>Herramientas Actuales</strong></td>
+    <td>Utilizan WhatsApp y llamadas telefónicas para coordinar decisiones o contactar a vecinos que no están en el grupo.</td>
+  </tr>
+  <tr>
+    <td><strong>Dificultades para la Participación</strong></td>
+    <td>Algunos vecinos no revisan el grupo o no tienen conexión constante, lo que afecta su participación.</td>
+  </tr>
+  <tr>
+    <td><strong>Problemas con los Canales Actuales</strong></td>
+    <td>Los grupos de WhatsApp se llenan de mensajes irrelevantes, lo que dificulta encontrar información importante como las votaciones.</td>
+  </tr>
+  <tr>
+    <td><strong>Información Crítica a Comunicar</strong></td>
+    <td>Seguridad (robos, sospechosos), mantenimiento de áreas comunes y actividades comunitarias.</td>
+  </tr>
+  <tr>
+    <td><strong>Interés en una Plataforma Digital</strong></td>
+    <td>Alta disposición. Considera útil tener la información centralizada, organizada y con notificaciones claras.</td>
+  </tr>
+  <tr>
+    <td><strong>Funcionalidades Deseadas</strong></td>
+    <td>Votaciones, alertas, buzón de sugerencias/reclamos, calendario de actividades, publicación de avisos, reportes de incidencias y encuestas rápidas.</td>
+  </tr>
+  <tr>
+    <td><strong>Disposición a Implementar la App</strong></td>
+    <td>Estarían dispuestos si reciben capacitación y soporte. Resalta que debe ser fácil de usar para todos los vecinos.</td>
+  </tr>
+</table>
 
 <div id='2.3.'><h3> 2.3. Needfinding</h3></div>
 
