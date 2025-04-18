@@ -1283,14 +1283,14 @@ En VeciHub, la selección tipográfica cumple un rol fundamental para transmitir
 </p>
 
 <div>
-    <h4>- Icons</h4>
+    <h4>Icons</h4>
 </div>
 <p>Los íconos utilizados en VeciHub tienen un diseño limpio y coherente con la identidad visual de la marca. Siguen un estilo minimalista y se presentan en un único color: blanco (#FFFFFF).</p>
 
 ![Iconos](Imagenes/iconos.jpeg)
 
 <div>
-    <h4>- Misc</h4>
+    <h4> Misc</h4>
 </div>
 <p>Barra de navegación: <br>
 La barra de navegación de VeciHub mantiene la coherencia visual de la marca. Utiliza como fondo el color #FDFAF6 (fondo de encabezado) y presenta las secciones de Inicio, Sobre VeciHub, Planes, Testimonios, Contacto. Además, incluye los botones Crear cuenta e Iniciar sesión, facilitando el acceso a los usuarios para iniciar su experiencia en la VeciHub.</p>
@@ -1303,62 +1303,123 @@ En esta sección se muestra la propuesta de interfaz de usuario (UI) para la Lan
 Esta sección presenta los wireframes del Landing Page de VeciHub para navegadores web en Desktop.
 <div>
     <h4>Wireframe - Seccion Hero </h4>
-</div>>
-
+</div>
 Representa la primera impresión del usuario al ingresar a la plataforma. En esta sección principal se buscó destacar el mensaje clave del proyecto y facilitar el acceso inmediato a las funcionalidades más relevantes. El encabezado incluye un menú de navegación con los siguientes enlaces: Inicio, Sobre VeciHub, Testimonios, Contacto, Crear Cuenta e Iniciar Sesion permitiendo una exploración rápida y ordenada del sitio web.
 
 
 ![Wireframe Hero](Imagenes/wm-Hero.png)
 
+
 <div>
     <h4>Wireframe - Seccion "Acerca de VeciHub"</h4>
-</div>>
+</div>
 Luego de hacer clic en el botón "Ver más" en la sección Hero, el usuario es dirigido a una sección interna del mismo Landing Page donde se presenta VeciHub. Esta sección tiene como objetivo brindar una introducción clara sobre la plataforma y explicar su propósito principal.
 
 
 ![Wireframe Acerca de VeciHub](Imagenes/wm-VerMas.png)
 
+
 <div>
     <h4>Wireframe - Seccion "Sobre VeciHub"</h4>
-</div>>
+</div>
 La sección "Sobre VeciHub" del Landing Page está diseñada para brindar al usuario una explicación más detallada sobre las funcionalidades principales que ofrece la plataforma.
 
 
 ![Wireframe Sobre VeciHub](Imagenes/wm-Caracteristicas.png)
 
+
 <div>
     <h4>Wireframe – Sección "Planes de Pago"</h4>
-</div>>
+</div>
 La sección "Planes de Pago" del Landing Page está pensada para presentar de manera clara y atractiva las distintas opciones que VeciHub ofrece a sus usuarios. Este bloque del diseño permite comparar fácilmente los beneficios de cada plan.
 
 
 ![Wireframe Planes de Pago](Imagenes/wm-Planes.png)
 
+
 <div>
     <h4>Wireframe – Sección "Testimonios"</h4>
-</div>>
+</div>
 La sección "Testimonios" tiene como objetivo reforzar la confiabilidad de VeciHub a través de experiencias reales de usuarios. Este bloque presenta reseñas breves que destacan el impacto positivo que ha tenido la plataforma en distintas comunidades.
 
 
 ![Wireframe Testimonios](Imagenes/wm-Testimonios.png)
 
+
 <div>
     <h4>Wireframe – Sección "Contacto"</h4>
-</div>>
+</div>
 La sección "Contacto" está diseñada para que los usuarios puedan comunicarse fácilmente con el equipo de VeciHub, ya sea para resolver dudas, enviar sugerencias o solicitar soporte.
 
 
 ![Wireframe Contacto](Imagenes/wm-Contacto.png)
 
+
 <div>
     <h4>Wireframe – Sección "Footer"</h4>
-</div>>
+</div>
 La sección "Footer" es el cierre informativo del sitio web de VeciHub diseñada para ofrecer acceso rápido a información relevante y enlaces clave.
 
 
 ![Wireframe Footer](Imagenes/wm-Footer.png)
 
 <div id='4.3.2.'><h4> 4.3.2 Landing Page Mock-up </h4></div>
+Esta sección presenta los Mock-up del Landing Page de VeciHub para navegadores web en Desktop.
+<div>
+    <h4>Mock-up - Seccion Hero </h4>
+</div>
+
+
+![Mock-up Hero](Imagenes/mk-Hero.png)
+
+
+<div>
+    <h4>Mock-up - Seccion "Acerca de VeciHub"</h4>
+</div>
+
+
+![Mock-up Acerca de VeciHub](Imagenes/mk-VerMas.png)
+
+
+<div>
+    <h4>Mock-up - Seccion "Sobre VeciHub"</h4>
+</div>
+
+
+![Mock-up Sobre VeciHub](Imagenes/mk-SobreVecihub.png)
+
+
+<div>
+    <h4>Mock-up – Sección "Planes de Pago"</h4>
+</div>
+
+
+![Mock-up Planes de Pago](Imagenes/mk-Planes.png)
+
+
+<div>
+    <h4>Mock-up – Sección "Testimonios"</h4>
+</div>
+
+
+![Mock-up Testimonios](Imagenes/mk-Testimonios.png)
+
+
+<div>
+    <h4>Mock-up – Sección "Contacto"</h4>
+</div>
+
+
+![Mock-up Contacto](Imagenes/mk-Contacto.png)
+
+
+<div>
+    <h4>Mock-up – Sección "Footer"</h4>
+</div>
+
+
+![Mock-up Footer](Imagenes/mk-Footer.png)
+
 
 <div id='4.5.'><h3> 4.5 Web Applications Prototyping. </h3></div>
 
