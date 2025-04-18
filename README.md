@@ -63,7 +63,7 @@ Github también presenta un timeline de las ramas principales y los procesos de 
 
 Los integrantes son:
 
-* Marllely Arias ()
+* Marllely Arias (kuwuk0)
 * Javier Nikaido ()
 * Kael Lagos ()
 * Sebastián Hernández (M1sterDG)
@@ -204,7 +204,9 @@ En esta sección se presenta la descripción del startup y los perfiles de los m
 |![Kael_Foto](Imagenes/masaru.jpg) |  Javier Masaru Nikaido Vargas      |          Estudiante de Ingenieria de Software de 5to ciclo de la Universidad Peruana de Ciencias. Me gusta hacer las cosas con tiempo y ordenadamente, trabajar con tranquilidad y terminar mis deberes a tiempo.                                                                                                                                                                                                                                                                        |
 |     ![Kael_Foto](Imagenes/sebastianh.png)                                 |       Sebastian Eduardo Hernandez Poma            |       Estudiante de 5to ciclo en Ingenieria de Software en la Universidad Peruana de Ciencias Aplicadas. Soy una persona trabajadora, capaz de liderar y colaborar en equipos, incluso bajo presión, lo que me hace hábil para resolver problemas y enfrentar diversas situaciones. Destaco por mi proactividad, responsabilidad y mi constante deseo de aprender.                                                                                                                                                                                                                                                                                                                                                                       |
 | ![Kael_Foto](Imagenes/Kael_Foto.jpg) | Kael Lagos Rivera | Me llamo Kael Lagos, estudio en la UPC de Monterrico. Tengo muchas ganas de aprender, me considero una persona responsable que busca aprender de sus errores cada vez que puede y tambien me considero alguien que se centra en los detalles. Me comprometo a ayudar a mis compañeros para la elaboración de nuestro trabajo que nos pueda asegurar una buena nota al final. |
-|         Foto aqui                             |       Nombre aqui               |                 Descripción tuya aqui                                                                                                                                                                                                                                                                                                                                                             |
+
+| ![Marllely](Imagenes/marlle.jpg) | Marllely Anahi Arias Segil | Hola, mi nombre es [Tu Nombre]. Soy estudiante de Ingeniería de Software, una persona empática, responsable y comprometida con mi crecimiento profesional. Me gusta trabajar en equipo y siempre busco dar lo mejor de mí en cada proyecto. |
+
 |  ![Adriana](Imagenes/Adriana.png)   |    Adriana Maria Diestra Zambrano   |              Estudiante de la carrera Ingeniería de Software con interés en el desarrollo web, sobre todo en el lado frontend. Me gusta crear interfaces ordenadas, intuitivas y visualmente atractivas. Proactiva, con gran interés por aprender cosas nuevas y con una actitud positiva que favorece el trabajo en equipo.                                                                                                        |
 |            Foto aqui                          |            Nombre aqui          |                  Descripción tuya aqui                                                                                                                                                                                                                                                                                                                                                            |
 
@@ -1062,4 +1064,234 @@ Las siguientes historias de usuario fueron elaboradas tomando como referencia la
 | 7  | Como vecino, quiero acceder a un calendario de eventos          | Baja      | 1                         | Sprint 3   |
 | 8  | Como administrador, quiero validar cuentas nuevas               | Media     | 2                         | Sprint 2   |
 
+div id='1.'><h2>Capítulo IV: Product Design </h2></div>
 
+<div id='4.1.'><h3> 4.1 Style Guidelines.</h3></div>
+En esta sección, el equipo de Vecihub establece un repositorio centralizado y organizado que incluye recursos comunes como assets, tipografías y otros elementos visuales. El objetivo es asegurar una presentación consistente y alineada en todas las plataformas, siguiendo las General Style Guidelines y Web Style Guidelines, para mantener un diseño enfocado y profesional a lo largo del proyecto.
+
+<div id='4.1.1.'><h4> 4.1.1. General Style Guidelines.</h4></div>
+Esta sección presenta las bases visuales y comunicacionales de VeciHub, alineadas con su propósito de fortalecer la conexión y seguridad en comunidades vecinales. Se definen lineamientos sobre branding, tipografía, colores, espaciado y tono de comunicación, buscando un estilo claro, cercano y confiable. Las decisiones se inspiran en principios de diseño centrado en el usuario, adaptados a las necesidades de la app.
+
+<div><h4> Colores </h4></div>
+Se muestra la paleta de colores definida para **VeciHub**, la cual guía el diseño visual de la aplicación. 
+
+| Hex Code  | Uso                                                          |
+|-----------|--------------------------------------------------------------|
+| #328E6E   | Color principal                                              |
+| #FDFAF6   | Fondo de encabezado                                           |
+| #000000   | Texto principal                                               |
+| #67AE6E   | Botones                                                      |
+| #90C67C   | Fondo de secciones secundarias                                |
+| #FFFFFF   | Texto sobre botones o fondos oscuros y Fondo de campos de entrada |
+| #FAF1E6   | Fondo Principal                                               |
+| #D9D9D9   | Fondo de campos de entrada                                    |
+
+[Paleta de Colores](Imagenes/paleta.png)
+
+<div><h4> Tipografía </h4></div>
+En VeciHub, la selección tipográfica cumple un rol fundamental para transmitir cercanía, confianza y orden en la comunicación visual. Se emplean dos fuentes principales: 
+
+<h4>1. Raleway</h4>
+<p>Moderna y elegante, se utiliza en los elementos de texto más representativos:</p>
+<ul>
+  <li><strong>Pantalla de inicio</strong>: 96px – para captar la atención con mensajes destacados.</li>
+  <li><strong>Títulos principales</strong>: 48px – usados en secciones claves como encabezados de secciones.</li>
+  <li><strong>Subtítulos</strong>: 32px – aportan estructura visual en bloques de contenido.</li>
+  <li><strong>Textos descriptivos o informativos</strong>: 20px – utilizados para párrafos, instrucciones o llamados a la acción.</li>
+</ul>
+
+<h4>2. Nunito Sans</h4>
+<p>Amigable y de fácil lectura, ideal para mostrar información clara:</p>
+<ul>
+  <li><strong>Precios o datos numéricos</strong>: 36px – usados en secciones como planes, estadísticas o métricas.</li>
+  <li><strong>Datos de contacto (ej. teléfono)</strong>: 20px – para mostrar información personal o formularios con legibilidad.</li>
+</ul>
+
+<div>
+    <h4>Marca</h4>
+</div>
+<p>VeciHub es una combinación de las palabras "vecino" y "hub", que representa una plataforma central para la comunicación y colaboración entre vecinos. El logo incluye un ícono de una casa con un mensaje, simbolizando la comunicación directa entre vecinos en un entorno seguro y cercano. El diseño utiliza el color verde (#67AE6E), el cual transmite armonía, confianza y un estilo de vida saludable.</p>
+
+<div>
+    <h4>Background</h4>
+</div>
+<p>La interfaz de VeciHub utiliza una paleta de colores suaves y armónicos para crear una experiencia visual clara, amigable y organizada. Los fondos han sido seleccionados estratégicamente para diferenciar secciones, mejorar la legibilidad y aportar una sensación de cercanía.</p>
+
+<div>
+    <h4>Color</h4>
+</div>
+<table style="margin: 0 auto; border-collapse: collapse; width: 60%; text-align: left; border: 1px solid #ddd;">
+    <tr>
+        <th style="padding: 12px; background-color: #f2f2f2;">Color</th>
+        <th style="padding: 12px; background-color: #f2f2f2;">Hex</th>
+        <th style="padding: 12px; background-color: #f2f2f2;">Uso específico</th>
+    </tr>
+    <tr>
+        <td style="padding: 8px;">Crema Claro</td>
+        <td style="padding: 8px;">#FDFAF6</td>
+        <td style="padding: 8px;">Fondo de encabezado: aporta claridad y distinción en la parte superior.</td>
+    </tr>
+    <tr>
+        <td style="padding: 8px;">Blanco</td>
+        <td style="padding: 8px;">#FFFFFF</td>
+        <td style="padding: 8px;">Fondo de secciones secundarias: mantiene la limpieza y organización visual.</td>
+    </tr>
+    <tr>
+        <td style="padding: 8px;">Gris Claro</td>
+        <td style="padding: 8px;">#D9D9D9</td>
+        <td style="padding: 8px;">Fondo principal: base neutra para toda la interfaz.</td>
+    </tr>
+    <tr>
+        <td style="padding: 8px;">Crema Suave</td>
+        <td style="padding: 8px;">#FAF1E6</td>
+        <td style="padding: 8px;">Fondo de campos de entrada y textos sobre fondos oscuros: mejora contraste.</td>
+    </tr>
+</table>
+
+<div>
+    <h4>Text Styles</h4>
+</div>
+<p>La identidad tipográfica de VeciHub está pensada para transmitir cercanía, orden y modernidad. Se utilizan dos fuentes principales que permiten jerarquizar el contenido y adaptarse a diferentes contextos visuales dentro de la aplicación.</p>
+
+<div>
+    <h4>Elemento</h4>
+</div>
+<table style="margin: 0 auto; border-collapse: collapse; width: 60%; text-align: left; border: 1px solid #ddd;">
+    <tr>
+        <th style="padding: 12px; background-color: #f2f2f2;">Elemento</th>
+        <th style="padding: 12px; background-color: #f2f2f2;">Fuente</th>
+        <th style="padding: 12px; background-color: #f2f2f2;">Tamaño</th>
+        <th style="padding: 12px; background-color: #f2f2f2;">Peso</th>
+    </tr>
+    <tr>
+        <td style="padding: 8px;">Mensajes de pantalla inicio</td>
+        <td style="padding: 8px;">Raleway</td>
+        <td style="padding: 8px;">96px</td>
+        <td style="padding: 8px;">ExtraBold</td>
+    </tr>
+    <tr>
+        <td style="padding: 8px;">Títulos principales</td>
+        <td style="padding: 8px;">Raleway</td>
+        <td style="padding: 8px;">48px</td>
+        <td style="padding: 8px;">ExtraBold</td>
+    </tr>
+    <tr>
+        <td style="padding: 8px;">Subtítulos</td>
+        <td style="padding: 8px;">Raleway</td>
+        <td style="padding: 8px;">32px</td>
+        <td style="padding: 8px;">Bold</td>
+    </tr>
+    <tr>
+        <td style="padding: 8px;">Textos descriptivos e informativos</td>
+        <td style="padding: 8px;">Raleway</td>
+        <td style="padding: 8px;">20px</td>
+        <td style="padding: 8px;">Medium</td>
+    </tr>
+    <tr>
+        <td style="padding: 8px;">Precios</td>
+        <td style="padding: 8px;">Nunito Sans</td>
+        <td style="padding: 8px;">36px</td>
+        <td style="padding: 8px;">Bold</td>
+    </tr>
+    <tr>
+        <td style="padding: 8px;">Datos de contacto / Formularios</td>
+        <td style="padding: 8px;">Nunito Sans</td>
+        <td style="padding: 8px;">20px</td>
+        <td style="padding: 8px;">SemiBold</td>
+    </tr>
+</table>
+
+<div>
+    <h4>Button Styles</h4>
+</div>
+<p>Los botones de VeciHub están diseñados para ser consistentes, accesibles y reflejar el tono amigable y confiable de la marca. Cada uno tiene un propósito claro dentro de la navegación y experiencia del usuario.</p>
+
+<div>
+    <h4>Botón</h4>
+</div>
+<table style="margin: 0 auto; border-collapse: collapse; width: 80%; text-align: left; border: 1px solid #ddd;">
+    <tr>
+        <th style="padding: 12px; background-color: #f2f2f2;">Botón</th>
+        <th style="padding: 12px; background-color: #f2f2f2;">Color de fondo</th>
+        <th style="padding: 12px; background-color: #f2f2f2;">Color de texto</th>
+        <th style="padding: 12px; background-color: #f2f2f2;">Fuente</th>
+        <th style="padding: 12px; background-color: #f2f2f2;">Uso</th>
+    </tr>
+    <tr>
+        <td style="padding: 8px;">Crear cuenta</td>
+        <td style="padding: 8px;">#FFFFFF</td>
+        <td style="padding: 8px;">#000000</td>
+        <td style="padding: 8px;">Raleway Medium</td>
+        <td style="padding: 8px;">Registro de nuevos usuarios.</td>
+    </tr>
+    <tr>
+        <td style="padding: 8px;">Iniciar sesión</td>
+        <td style="padding: 8px;">#67AE6E</td>
+        <td style="padding: 8px;">#FFFFFF</td>
+        <td style="padding: 8px;">Raleway Bold</td>
+        <td style="padding: 8px;">Acceso de usuarios existentes.</td>
+    </tr>
+    <tr>
+        <td style="padding: 8px;">Empieza ahora</td>
+        <td style="padding: 8px;">#67AE6E</td>
+        <td style="padding: 8px;">#FFFFFF</td>
+        <td style="padding: 8px;">Raleway Bold</td>
+        <td style="padding: 8px;">Página de Inicio.</td>
+    </tr>
+    <tr>
+        <td style="padding: 8px;">Ver más</td>
+        <td style="padding: 8px;">#FFFFFF</td>
+        <td style="padding: 8px;">#000000</td>
+        <td style="padding: 8px;">Nunito Sans</td>
+        <td style="padding: 8px;">Expansión de contenido.</td>
+    </tr>
+    <tr>
+        <td style="padding: 8px;">Aplicar – Básico/Profesional</td>
+        <td style="padding: 8px;">#67AE6E</td>
+        <td style="padding: 8px;">#FFFFFF</td>
+        <td style="padding: 8px;">Raleway Bold</td>
+        <td style="padding: 8px;">Aplicar a los planes Básico o Profesional.</td>
+    </tr>
+    <tr>
+        <td style="padding: 8px;">Aplicar – Premium</td>
+        <td style="padding: 8px;">#FFFFFF</td>
+        <td style="padding: 8px;">#000000</td>
+        <td style="padding: 8px;">Raleway Bold</td>
+        <td style="padding: 8px;">Aplicar al plan Premium.</td>
+    </tr>
+    <tr>
+        <td style="padding: 8px;">Enviar a VeciHub</td>
+        <td style="padding: 8px;">#67AE6E</td>
+        <td style="padding: 8px;">#FFFFFF</td>
+        <td style="padding: 8px;">Raleway Bold</td>
+        <td style="padding: 8px;">Envío de formulario de contacto.</td>
+    </tr>
+    <tr>
+        <td style="padding: 8px;">Suscribirse (Footer)</td>
+        <td style="padding: 8px;">#67AE6E</td>
+        <td style="padding: 8px;">#FFFFFF</td>
+        <td style="padding: 8px;">Raleway Bold</td>
+        <td style="padding: 8px;">Suscripción.</td>
+    </tr>
+</table>
+
+[Botones](Imagenes/boton1.jpeg)
+[Botones](Imagenes/boton2.jpeg)
+[Botones](Imagenes/boton3.jpeg)
+[Botones](Imagenes/boton4.jpeg)
+[Botones](Imagenes/boton5.jpeg)
+
+<div>
+    <h4>Icons</h4>
+</div>
+<p>Los íconos utilizados en VeciHub tienen un diseño limpio y coherente con la identidad visual de la marca. Siguen un estilo minimalista y se presentan en un único color: blanco (#FFFFFF).</p>
+
+[Iconos](Imagenes/iconos.jpeg)
+
+<div>
+    <h4>Misc</h4>
+</div>
+<p>Barra de navegación: <br>
+La barra de navegación de VeciHub mantiene la coherencia visual de la marca. Utiliza como fondo el color #FDFAF6 (fondo de encabezado) y presenta las secciones de Inicio, Sobre VeciHub, Planes, Testimonios, Contacto. Además, incluye los botones Crear cuenta e Iniciar sesión, facilitando el acceso a los usuarios para iniciar su experiencia en la VeciHub.</p>
+
+[Banner](Imagenes/banner.jpeg)
