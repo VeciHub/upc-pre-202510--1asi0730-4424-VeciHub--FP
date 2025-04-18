@@ -205,7 +205,7 @@ En esta sección se presenta la descripción del startup y los perfiles de los m
 |     ![Kael_Foto](Imagenes/sebastianh.png)                                 |       Sebastian Eduardo Hernandez Poma            |       Estudiante de 5to ciclo en Ingenieria de Software en la Universidad Peruana de Ciencias Aplicadas. Soy una persona trabajadora, capaz de liderar y colaborar en equipos, incluso bajo presión, lo que me hace hábil para resolver problemas y enfrentar diversas situaciones. Destaco por mi proactividad, responsabilidad y mi constante deseo de aprender.                                                                                                                                                                                                                                                                                                                                                                       |
 | ![Kael_Foto](Imagenes/Kael_Foto.jpg) | Kael Lagos Rivera | Me llamo Kael Lagos, estudio en la UPC de Monterrico. Tengo muchas ganas de aprender, me considero una persona responsable que busca aprender de sus errores cada vez que puede y tambien me considero alguien que se centra en los detalles. Me comprometo a ayudar a mis compañeros para la elaboración de nuestro trabajo que nos pueda asegurar una buena nota al final. |
 
-|  <img src="Imagenes/marlle.jpg" width="100" height="130">  | Marllely Anahi Arias Segil | Hola, mi nombre es [Tu Nombre]. Soy estudiante de Ingeniería de Software, una persona empática, responsable y comprometida con mi crecimiento profesional. Me gusta trabajar en equipo y siempre busco dar lo mejor de mí en cada proyecto. |
+|  <img src="Imagenes/marlle.jpg" width="100" height="130">  | Marllely Anahi Arias Segil | Hola, mi nombre es Marllely Arias Segil. Soy estudiante de Ingeniería de Software, una persona empática, responsable y comprometida con mi crecimiento profesional. Me gusta trabajar en equipo y siempre busco dar lo mejor de mí en cada proyecto. |
 
 |  ![Adriana](Imagenes/Adriana.png)   |    Adriana Maria Diestra Zambrano   |              Estudiante de la carrera Ingeniería de Software con interés en el desarrollo web, sobre todo en el lado frontend. Me gusta crear interfaces ordenadas, intuitivas y visualmente atractivas. Proactiva, con gran interés por aprender cosas nuevas y con una actitud positiva que favorece el trabajo en equipo.                                                                                                        |
 |            Foto aqui                          |            Nombre aqui          |                  Descripción tuya aqui                                                                                                                                                                                                                                                                                                                                                            |
@@ -1064,7 +1064,7 @@ Las siguientes historias de usuario fueron elaboradas tomando como referencia la
 | 7  | Como vecino, quiero acceder a un calendario de eventos          | Baja      | 1                         | Sprint 3   |
 | 8  | Como administrador, quiero validar cuentas nuevas               | Media     | 2                         | Sprint 2   |
 
-div id='1.'><h2>Capítulo IV: Product Design </h2></div>
+<h2>Capítulo IV: Product Design </h2></div>
 
 <div id='4.1.'><h3> 4.1 Style Guidelines.</h3></div>
 En esta sección, el equipo de Vecihub establece un repositorio centralizado y organizado que incluye recursos comunes como assets, tipografías y otros elementos visuales. El objetivo es asegurar una presentación consistente y alineada en todas las plataformas, siguiendo las General Style Guidelines y Web Style Guidelines, para mantener un diseño enfocado y profesional a lo largo del proyecto.
@@ -1073,7 +1073,7 @@ En esta sección, el equipo de Vecihub establece un repositorio centralizado y o
 Esta sección presenta las bases visuales y comunicacionales de VeciHub, alineadas con su propósito de fortalecer la conexión y seguridad en comunidades vecinales. Se definen lineamientos sobre branding, tipografía, colores, espaciado y tono de comunicación, buscando un estilo claro, cercano y confiable. Las decisiones se inspiran en principios de diseño centrado en el usuario, adaptados a las necesidades de la app.
 
 <div><h4> Colores </h4></div>
-Se muestra la paleta de colores definida para **VeciHub**, la cual guía el diseño visual de la aplicación. 
+Se muestra la paleta de colores definida para VeciHub, la cual guía el diseño visual de la aplicación. 
 
 | Hex Code  | Uso                                                          |
 |-----------|--------------------------------------------------------------|
@@ -1086,7 +1086,7 @@ Se muestra la paleta de colores definida para **VeciHub**, la cual guía el dise
 | #FAF1E6   | Fondo Principal                                               |
 | #D9D9D9   | Fondo de campos de entrada                                    |
 
-[Paleta de Colores](Imagenes/paleta.png)
+![Paleta de Colores](Imagenes/paleta.png)
 
 <div><h4> Tipografía </h4></div>
 En VeciHub, la selección tipográfica cumple un rol fundamental para transmitir cercanía, confianza y orden en la comunicación visual. Se emplean dos fuentes principales: 
@@ -1117,9 +1117,6 @@ En VeciHub, la selección tipográfica cumple un rol fundamental para transmitir
 </div>
 <p>La interfaz de VeciHub utiliza una paleta de colores suaves y armónicos para crear una experiencia visual clara, amigable y organizada. Los fondos han sido seleccionados estratégicamente para diferenciar secciones, mejorar la legibilidad y aportar una sensación de cercanía.</p>
 
-<div>
-    <h4>Color</h4>
-</div>
 <table style="margin: 0 auto; border-collapse: collapse; width: 60%; text-align: left; border: 1px solid #ddd;">
     <tr>
         <th style="padding: 12px; background-color: #f2f2f2;">Color</th>
@@ -1153,9 +1150,6 @@ En VeciHub, la selección tipográfica cumple un rol fundamental para transmitir
 </div>
 <p>La identidad tipográfica de VeciHub está pensada para transmitir cercanía, orden y modernidad. Se utilizan dos fuentes principales que permiten jerarquizar el contenido y adaptarse a diferentes contextos visuales dentro de la aplicación.</p>
 
-<div>
-    <h4>Elemento</h4>
-</div>
 <table style="margin: 0 auto; border-collapse: collapse; width: 60%; text-align: left; border: 1px solid #ddd;">
     <tr>
         <th style="padding: 12px; background-color: #f2f2f2;">Elemento</th>
@@ -1206,9 +1200,6 @@ En VeciHub, la selección tipográfica cumple un rol fundamental para transmitir
 </div>
 <p>Los botones de VeciHub están diseñados para ser consistentes, accesibles y reflejar el tono amigable y confiable de la marca. Cada uno tiene un propósito claro dentro de la navegación y experiencia del usuario.</p>
 
-<div>
-    <h4>Botón</h4>
-</div>
 <table style="margin: 0 auto; border-collapse: collapse; width: 80%; text-align: left; border: 1px solid #ddd;">
     <tr>
         <th style="padding: 12px; background-color: #f2f2f2;">Botón</th>
@@ -1275,18 +1266,18 @@ En VeciHub, la selección tipográfica cumple un rol fundamental para transmitir
     </tr>
 </table>
 
-[Botones](Imagenes/boton1.jpeg)
-[Botones](Imagenes/boton2.jpeg)
-[Botones](Imagenes/boton3.jpeg)
-[Botones](Imagenes/boton4.jpeg)
-[Botones](Imagenes/boton5.jpeg)
+![Botones](Imagenes/boton1.jpeg)
+![Botones](Imagenes/boton2.jpeg)
+![Botones](Imagenes/boton3.jpeg)
+![Botones](Imagenes/boton4.jpeg)
+![Botones](Imagenes/boton5.jpeg)
 
 <div>
     <h4>Icons</h4>
 </div>
 <p>Los íconos utilizados en VeciHub tienen un diseño limpio y coherente con la identidad visual de la marca. Siguen un estilo minimalista y se presentan en un único color: blanco (#FFFFFF).</p>
 
-[Iconos](Imagenes/iconos.jpeg)
+![Iconos](Imagenes/iconos.jpeg)
 
 <div>
     <h4>Misc</h4>
@@ -1294,4 +1285,66 @@ En VeciHub, la selección tipográfica cumple un rol fundamental para transmitir
 <p>Barra de navegación: <br>
 La barra de navegación de VeciHub mantiene la coherencia visual de la marca. Utiliza como fondo el color #FDFAF6 (fondo de encabezado) y presenta las secciones de Inicio, Sobre VeciHub, Planes, Testimonios, Contacto. Además, incluye los botones Crear cuenta e Iniciar sesión, facilitando el acceso a los usuarios para iniciar su experiencia en la VeciHub.</p>
 
-[Banner](Imagenes/banner.jpg)
+![Banner](Imagenes/banner.jpg)
+
+<div id='4.3.'><h3> 4.3 Landing Page UI Design.</h3></div>
+En esta sección se muestra la propuesta de interfaz de usuario (UI) para la Landing Page de VeciHub
+<div id='4.3.1.'><h4> 4.3.1 Landing Page Wireframe </h4></div>
+Esta sección presenta los wireframes del Landing Page de VeciHub para navegadores web en Desktop.
+<div>
+    <h4>Wireframe - Seccion Hero </h4>
+</div>
+Representa la primera impresión del usuario al ingresar a la plataforma. En esta sección principal se buscó destacar el mensaje clave del proyecto y facilitar el acceso inmediato a las funcionalidades más relevantes. El encabezado incluye un menú de navegación con los siguientes enlaces: Inicio, Sobre VeciHub, Testimonios, Contacto, Crear Cuenta e Iniciar Sesion permitiendo una exploración rápida y ordenada del sitio web.
+
+![Wireframe Hero](Imagenes/wm-Hero.png)
+
+<div>
+    <h4>Wireframe - Seccion "Acerca de VeciHub"</h4>
+</div>
+Luego de hacer clic en el botón "Ver más" en la sección Hero, el usuario es dirigido a una sección interna del mismo Landing Page donde se presenta VeciHub. Esta sección tiene como objetivo brindar una introducción clara sobre la plataforma y explicar su propósito principal.
+
+![Wireframe Acerca de VeciHub](Imagenes/wm-Ver mas.png)
+
+<div>
+    <h4>Wireframe - Seccion "Sobre VeciHub"</h4>
+</div>>
+La sección "Sobre VeciHub" del Landing Page está diseñada para brindar al usuario una explicación más detallada sobre las funcionalidades principales que ofrece la plataforma.
+
+![Wireframe Sobre VeciHub](Imagenes/wm-Caracteristicas.png)
+
+<div>
+    <h4>Wireframe – Sección "Planes de Pago"</h4>
+</div>>
+La sección "Planes de Pago" del Landing Page está pensada para presentar de manera clara y atractiva las distintas opciones que VeciHub ofrece a sus usuarios. Este bloque del diseño permite comparar fácilmente los beneficios de cada plan.
+
+![Wireframe Planes de Pago](Imagenes/wm-Planes.png)
+
+<div>
+    <h4>Wireframe – Sección "Testimonios"</h4>
+</div>>
+La sección "Testimonios" tiene como objetivo reforzar la confiabilidad de VeciHub a través de experiencias reales de usuarios. Este bloque presenta reseñas breves que destacan el impacto positivo que ha tenido la plataforma en distintas comunidades.
+
+![Wireframe Testimonios](Imagenes/wm-Testimonios.png)
+
+<div>
+    <h4>Wireframe – Sección "Contacto"</h4>
+</div>>
+La sección "Contacto" está diseñada para que los usuarios puedan comunicarse fácilmente con el equipo de VeciHub, ya sea para resolver dudas, enviar sugerencias o solicitar soporte.
+
+![Wireframe Contacto](Imagenes/wm-Contacto.png)
+
+<div>
+    <h4>Wireframe – Sección "Footer"</h4>
+</div>>
+La sección "Footer" es el cierre informativo del sitio web de VeciHub diseñada para ofrecer acceso rápido a información relevante y enlaces clave.
+
+![Wireframe Footer](Imagenes/wm-Footer.png)
+
+<div id='4.3.2.'><h4> 4.3.2 Landing Page Mock-up </h4></div>
+
+<div id='4.5.'><h3> 4.5 Web Applications Prototyping. </h3></div>
+
+<div id='4.7.'><h3> 4.7 Software Object-Oriented Design.</h3></div>
+<div id='4.7.1.'><h4> 4.7.1 Class Diagrams </h4></div>
+<div id='4.7.2.'><h4> 4.7.2 Class Dictionary </h4></div>
+
