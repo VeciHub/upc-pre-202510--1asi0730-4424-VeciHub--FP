@@ -889,7 +889,7 @@ Link de la entrevista:
 
 **Segmento 2: Administradores / Juntas Vecinales**
 
-![Administrador](Imagenes/Administrador.png)
+![Administrador](Imagenes/CieloRafaile_UserPersona.png)
 
 <div id='2.3.2.'><h4> 2.3.2. User Task Matrix</h4></div>
 
