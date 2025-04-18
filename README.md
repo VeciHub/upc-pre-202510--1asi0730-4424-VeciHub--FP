@@ -1026,17 +1026,94 @@ A partir del análisis de la situación actual (As-Is), se propone el siguiente 
 
 Las siguientes historias de usuario fueron elaboradas tomando como referencia las entrevistas, los mapeos de usuario y las hipótesis propuestas.
 
-**Usuario: Vecino**
+<h2>Epic ID: EP001 - Registro e Inicio de Sesión</h2>
+<p><strong>Descripción:</strong> Como usuario o residente, quiero registrarme e iniciar sesión en la plataforma para tener acceso personalizado a las funcionalidades de VeciHub.</p>
+<table>
+  <tr><th>Story ID</th><th>Título</th><th>Descripción</th><th>Criterios de Aceptación</th></tr>
+  <tr><td>US001</td><td>Registro de usuario</td><td>Como nuevo usuario, quiero crear una cuenta para acceder a la comunidad.</td><td>E01: Registro exitoso tras completar datos.<br>E02: Error por datos incompletos.</td></tr>
+  <tr><td>US002</td><td>Inicio de sesión</td><td>Como usuario registrado, quiero acceder con mis credenciales para entrar a la app.</td><td>E01: Acceso exitoso.<br>E02: Mensaje por credenciales erradas.</td></tr>
+  <tr><td>US003</td><td>Recuperar contraseña</td><td>Como usuario, quiero recuperar mi contraseña si la olvido.</td><td>E01: Correo de recuperación enviado.<br>E02: Error por correo no registrado.</td></tr>
+</table>
 
-- Como vecino, quiero recibir notificaciones importantes para estar informado sobre eventos o emergencias en mi comunidad.
-- Como vecino, quiero participar en votaciones comunitarias para expresar mi opinión en decisiones vecinales.
-- Como vecino, quiero reportar problemas desde la app para comunicarme directamente con los administradores.
+<h2>Epic ID: EP002 - Comunicación Comunitaria</h2>
+<p><strong>Descripción:</strong> Como residente o administrador, quiero acceder a canales de comunicación comunitaria para estar informado en tiempo real.</p>
+<table>
+  <tr><th>Story ID</th><th>Título</th><th>Descripción</th><th>Criterios de Aceptación</th></tr>
+  <tr><td>US004</td><td>Publicar anuncios</td><td>Como administrador, quiero publicar anuncios para informar a los vecinos.</td><td>E01: Anuncio visible para todos.<br>E02: Error al publicar.</td></tr>
+  <tr><td>US005</td><td>Ver alertas comunitarias</td><td>Como vecino, quiero recibir alertas para reaccionar ante emergencias.</td><td>E01: Notificación en tiempo real.</td></tr>
+  <tr><td>US006</td><td>Acceder a foro vecinal</td><td>Como usuario, quiero participar en foros para debatir temas vecinales.</td><td>E01: Publicación exitosa.<br>E02: Moderación de contenido inapropiado.</td></tr>
+</table>
 
-**Usuario: Administrador / Junta Vecinal**
+<h2>Epic ID: EP003 - Organización Vecinal</h2>
+<p><strong>Descripción:</strong> Como administrador, quiero crear y gestionar reuniones vecinales para coordinar eventos o decisiones.</p>
+<table>
+  <tr><th>Story ID</th><th>Título</th><th>Descripción</th><th>Criterios de Aceptación</th></tr>
+  <tr><td>US007</td><td>Crear reuniones</td><td>Como administrador, quiero agendar reuniones vecinales.</td><td>E01: Notificación enviada.<br>E02: Fecha registrada en el calendario.</td></tr>
+  <tr><td>US008</td><td>Confirmar asistencia</td><td>Como vecino, quiero confirmar mi asistencia a eventos o reuniones.</td><td>E01: Asistencia marcada.</td></tr>
+</table>
 
-- Como administrador, quiero enviar anuncios masivos para informar rápidamente a toda la comunidad.
-- Como administrador, quiero crear votaciones seguras para recoger decisiones comunitarias.
-- Como administrador, quiero visualizar estadísticas de participación para evaluar el compromiso vecinal.
+<h2>Epic ID: EP004 - Votaciones y Participación</h2>
+<p><strong>Descripción:</strong> Como vecino, quiero participar en votaciones vecinales desde mi celular para tomar decisiones comunitarias.</p>
+<table>
+  <tr><th>Story ID</th><th>Título</th><th>Descripción</th><th>Criterios de Aceptación</th></tr>
+  <tr><td>US009</td><td>Crear votación</td><td>Como administrador, quiero crear votaciones digitales.</td><td>E01: Opciones visibles y votación abierta.</td></tr>
+  <tr><td>US010</td><td>Votar en encuestas</td><td>Como residente, quiero emitir mi voto desde la app.</td><td>E01: Voto registrado.<br>E02: Solo se permite 1 voto.</td></tr>
+</table>
+
+<h2>Epic ID: EP005 - Seguridad y Emergencias</h2>
+<p><strong>Descripción:</strong> Como usuario, quiero contar con funciones de seguridad para comunicar incidentes y emergencias vecinales.</p>
+<table>
+  <tr><th>Story ID</th><th>Título</th><th>Descripción</th><th>Criterios de Aceptación</th></tr>
+  <tr><td>US011</td><td>Reportar incidente</td><td>Como residente, quiero reportar situaciones sospechosas.</td><td>E01: Reporte enviado a administradores.</td></tr>
+  <tr><td>US012</td><td>Acceso a teléfonos de emergencia</td><td>Como usuario, quiero tener acceso rápido a números de emergencia.</td><td>E01: Lista visible y clickeable.</td></tr>
+</table>
+
+<h2>Epic ID: EP006 - Perfil del Usuario y Configuraciones</h2>
+<p><strong>Descripción:</strong> Como usuario o administrador, quiero poder editar mi perfil y configuraciones para personalizar la experiencia.</p>
+<table>
+  <tr><th>Story ID</th><th>Título</th><th>Descripción</th><th>Criterios de Aceptación</th></tr>
+  <tr><td>US013</td><td>Editar perfil</td><td>Como usuario, quiero modificar mi información personal.</td><td>E01: Cambios guardados correctamente.</td></tr>
+  <tr><td>US014</td><td>Configurar notificaciones</td><td>Como usuario, quiero ajustar mis preferencias de notificación.</td><td>E01: Configuración guardada.</td></tr>
+</table>
+
+<h2>Epic ID: EP007 - Accesibilidad para adultos mayores</h2>
+<p><strong>Descripción:</strong> Como adulto mayor, quiero usar una interfaz sencilla para no tener dificultades al usar VeciHub.</p>
+<table>
+  <tr><th>Story ID</th><th>Título</th><th>Descripción</th><th>Criterios de Aceptación</th></tr>
+  <tr><td>US015</td><td>Activar modo simplificado</td><td>Como usuario mayor, quiero ver opciones con texto grande y pocos botones.</td><td>E01: Activación del modo desde ajustes.</td></tr>
+  <tr><td>US016</td><td>Guías paso a paso</td><td>Como usuario, quiero ver tutoriales sencillos para aprender a usar la app.</td><td>E01: Acceso a guía desde el inicio.</td></tr>
+</table>
+
+<h2>Epic ID: EP008 - Colaboración Comunitaria</h2>
+<p><strong>Descripción:</strong> Como vecino, quiero colaborar con propuestas e ideas para mejorar mi comunidad.</p>
+<table>
+  <tr><th>Story ID</th><th>Título</th><th>Descripción</th><th>Criterios de Aceptación</th></tr>
+  <tr><td>US017</td><td>Proponer idea vecinal</td><td>Como usuario, quiero publicar ideas de mejora para mi comunidad.</td><td>E01: Propuesta publicada y comentada.</td></tr>
+  <tr><td>US018</td><td>Comentar ideas de otros</td><td>Como vecino, quiero opinar sobre ideas de otros residentes.</td><td>E01: Comentario visible en la propuesta.</td></tr>
+</table>
+
+<h2>Epic ID: EP009 - Soporte y Ayuda Técnica</h2>
+<p><strong>Descripción:</strong> Como usuario, quiero tener soporte en caso de dudas o errores dentro de la app.</p>
+<table>
+  <tr><th>Story ID</th><th>Título</th><th>Descripción</th><th>Criterios de Aceptación</th></tr>
+  <tr><td>US019</td><td>Contactar soporte</td><td>Como usuario, quiero contactar al soporte técnico.</td><td>E01: Ticket creado correctamente.</td></tr>
+  <tr><td>US020</td><td>Reportar bug</td><td>Como usuario, quiero notificar errores en la app.</td><td>E01: Bug registrado para revisión.</td></tr>
+</table>
+
+<h2>Epic ID: EP010 - Valoraciones y Feedback</h2>
+<p><strong>Descripción:</strong> Como vecino, quiero valorar las publicaciones o decisiones para dar retroalimentación constructiva.</p>
+<table>
+  <tr><th>Story ID</th><th>Título</th><th>Descripción</th><th>Criterios de Aceptación</th></tr>
+  <tr><td>US021</td><td>Valorar anuncios o decisiones</td><td>Como residente, quiero dar feedback a anuncios importantes.</td><td>E01: Valoración registrada.</td></tr>
+  <tr><td>US022</td><td>Sugerir mejoras</td><td>Como usuario, quiero dejar sugerencias a los administradores.</td><td>E01: Sugerencia enviada y guardada.</td></tr>
+  <tr><td>US023</td><td>Ver estadísticas de participación</td><td>Como administrador, quiero ver el nivel de participación vecinal.</td><td>E01: Métricas visibles en panel de gestión.</td></tr>
+  <tr><td>US024</td><td>Encuesta de satisfacción</td><td>Como usuario, quiero completar encuestas para mejorar la app.</td><td>E01: Respuesta almacenada.</td></tr>
+  <tr><td>US025</td><td>Evaluar reuniones</td><td>Como asistente, quiero calificar reuniones vecinales.</td><td>E01: Evaluación registrada.</td></tr>
+</table>
+
+</body>
+</html>
+
 
 ---
 
