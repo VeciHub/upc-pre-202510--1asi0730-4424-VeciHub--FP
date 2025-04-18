@@ -990,7 +990,7 @@ Mediante este gráfico de Empathy Mapping, se reflejan las percepciones, pensami
 
 **Segmento 2: Administradores / Juntas Vecinales**
 
-![Administrador](Imagenes/Administrador_.png)
+![Administrador](Imagenes/Empathy_map_cielo.png)
 
 <div id='2.3.5.'><h4> 2.3.5. As-is Scenario Mapping</h4></div>
 
