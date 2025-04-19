@@ -1381,10 +1381,86 @@ La barra de navegación de VeciHub mantiene la coherencia visual de la marca. Ut
 <div id='4.2.'><h3> 4.2 Information Architecture</h3></div>
 
 <div id='4.2.1.'><h4> 4.2.1 Organization Systems</h4></div>
+
+En esta sección, se han implementado sistemas de organización adaptados a las necesidades de las comunidades vecinales, facilitando el acceso y la comprensión de la información relevante para los usuarios. La estructura visual del contenido ha sido organizada de la siguiente manera:
+
+- **Jerárquica (visual hierarchy):** Para resaltar módulos clave como alertas comunitarias, votaciones y eventos importantes, asegurando que los usuarios puedan identificar rápidamente las funciones más relevantes para su participación activa.
+
+- **Organización secuencial (step-by-step):** Se ha aplicado en procesos que requieren seguimiento, como la organización de reuniones o la gestión de alertas, permitiendo que los usuarios mantengan un registro claro y lógico de los eventos y acciones tomadas en su comunidad.
+
+Además, se ha categorizado el contenido según las funcionalidades de la plataforma: módulos de comunicación (alertas, votaciones, noticias), tipo de usuario (vecino, administrador, moderador), y acceso a recursos informativos (videos educativos, guías, mensajes de seguridad). Estas estructuras aseguran una navegación intuitiva y adaptada a las necesidades de las comunidades urbanas y suburbanas.
+
 <div id='4.2.2.'><h4> 4.2.2 Labeling Systems</h4></div>
+
+Se han definido sistemas de etiquetado claros para asegurar que los usuarios naveguen de forma eficiente en la plataforma, implementando lo siguiente:
+
+- **Jerarquía visual:** Aplicada en la estructura de módulos clave como "Seguridad", "Reuniones" y "Votaciones", destacando la información más relevante (por ejemplo, alertas de seguridad o convocatorias urgentes). Esto permite que los usuarios tomen decisiones informadas de manera rápida.
+
+- **Organización secuencial:** Utilizada en procesos como la organización de eventos comunitarios o la gestión de votaciones, donde los pasos siguen una lógica temporal clara y guiada. Esto evita confusiones y mejora la experiencia del usuario.
+
+- **Organización matricial:** Empleada en paneles de reportes y análisis, donde los usuarios pueden comparar datos sobre la participación comunitaria, la seguridad en diversas zonas o el historial de reuniones, con etiquetas claras que facilitan la interpretación visual.
+
+Estos esquemas de etiquetado se han diseñado utilizando un lenguaje sencillo y accesible para todos los usuarios, empleando términos familiares como "Reunión Comunitaria", "Alerta de Seguridad" o "Propuesta Vecinal", para que cualquier usuario pueda comprender y utilizar la plataforma sin dificultades, sin importar su nivel de conocimiento tecnológico.
+
 <div id='4.2.3.'><h4> 4.2.3 SEO Tags and Meta Tags</h4></div>
+
+<h5 style="text-align:center;">Landing Page</h5>
+
+- **Title:** VeciHub - Plataforma Digital para la Gestión y Comunicación Vecinal
+
+- **Description:** VeciHub es una plataforma accesible que facilita la comunicación y organización dentro de las comunidades, permitiendo a los vecinos estar informados, votar, organizar reuniones y recibir alertas de seguridad en tiempo real.
+
+- **Keywords:** comunicación vecinal, plataforma comunitaria, VeciHub, organización vecinal, seguridad vecinal, participación comunitaria, aplicaciones vecinales, tecnología comunitaria, gestión de vecindarios.
+
+- **Author:** VeciHub Team
+
+<h5 style="text-align:center;">Aplicación Web</h5>
+
+
+- **Title:** VeciHub - Gestión Completa para la Comunicación Vecinal
+
+- **Description:** Accede a VeciHub, la plataforma web que digitaliza la gestión y comunicación vecinal, con módulos de seguridad, votaciones, reuniones y alertas comunitarias para mejorar la interacción entre vecinos.
+
+- **Keywords:** plataforma vecinal, software para comunidades, VeciHub, gestión de vecindarios, seguridad comunitaria, participación vecinal, gestión de reuniones, aplicaciones para vecinos, comunicación digital, tecnología comunitaria, vecinos, comunidad.
+
+- **Author:** VeciHub Team
+
 <div id='4.2.4.'><h4> 4.2.4 Searching Systems</h4></div>
+
+El sistema de búsqueda en VeciHub debe ser intuitivo y eficiente para que los usuarios encuentren rápidamente la información relevante para su comunidad. Las opciones de búsqueda y los filtros disponibles incluyen:
+
+- **Barra de búsqueda por eventos:** Los usuarios podrán buscar información sobre eventos específicos, como reuniones, votaciones o alertas, con filtros como tipo de evento, fecha, o ubicación.
+- **Barra de búsqueda por usuario:** Los administradores podrán buscar información sobre vecinos específicos, como historial de participación, registros de votaciones, o reportes de seguridad.
+- **Filtro por categorías:** Los usuarios podrán filtrar por diferentes módulos como "Seguridad", "Reuniones" o "Votaciones", mejorando la accesibilidad a la información más relevante.
+- **Opciones de ordenación:** Los resultados de búsqueda se pueden ordenar por criterios como relevancia, fecha o tipo de evento, para facilitar la localización de la información.
+
 <div id='4.2.5.'><h4> 4.2.5 Navigation Systems</h4></div>
+
+Los sistemas de navegación en VeciHub deben estar diseñados para ser fáciles de usar y adaptados al contexto de los usuarios, incluso para aquellos con poca experiencia en tecnología. Los aspectos a considerar incluyen:
+
+<h5 style="text-align:center;">Menú Principal:</h5>
+
+- **Inicio:** Acceso rápido a la página principal donde se visualizan las últimas noticias y alertas de la comunidad.
+- **Reuniones:** Sección para consultar y organizar reuniones comunitarias, con opciones para confirmar asistencia y ver detalles.
+- **Votaciones:** Consulta de votaciones en curso o pasadas, con la posibilidad de emitir votos directamente desde la app.
+- **Alertas de Seguridad:** Acceso a las alertas de seguridad emitidas por los vecinos o administradores.
+- **Academia Vecinal:** Recursos educativos sobre seguridad, participación comunitaria y el uso de la plataforma.
+
+<h5 style="text-align:center;">Menú Secundario:</h5>
+
+- **Notificaciones:** Visualización de todas las notificaciones recientes relacionadas con la comunidad (alertas, reuniones, votos).
+- **Soporte:** Acceso a preguntas frecuentes, tutoriales y asistencia técnica.
+
+<h5 style="text-align:center;">Menú para Iniciar Sesión (Sign In):</h5>
+
+- El diseño del menú debe ser limpio y directo, permitiendo a los usuarios acceder rápidamente a sus funciones sin complicaciones.
+- Opción para nuevos usuarios que aún no tienen cuenta en VeciHub.
+- Página de ayuda y preguntas frecuentes.
+
+<h5 style="text-align:center;">Menú para Crear Cuenta (Sign Up):</h5>
+
+- El diseño del menú debe estar diseñado para ser accesible y fácil de usar.
+- El menú debe basarse en la idea de una navegación intuitiva.
 
 <div id='4.3.'><h3> 4.3 Landing Page UI Design.</h3></div>
 En esta sección se muestra la propuesta de interfaz de usuario (UI) para la Landing Page de VeciHub.
