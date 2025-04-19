@@ -94,8 +94,8 @@ Los siguientes gráficos representan analíticos de commits en el repositorio de
 ## Student Outcomes
 |Criterio especifico|Acciones realizadas|Conclusiones|
 |-|:-|-|
-|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería|**Marllely Arias** <br> TB1: En esta entrega se realizaron . <br> **Javier Nikaido** <br> TB1: Realizó . <br> **Kael Lagos** <br> TB1: Para el trabajo se hizo la introducción y la modificación de ciertos elementos del doc como lo puede ser el cuadro de los integrantes. <br> **Sebastián Hernández** <br> TB1: En el informe comuniqué de forma clara y objetiva los hallazgos del análisis competitivo, las estrategias frente a competidores y los resultados obtenidos en entrevistas con usuarios y administradores. Además, estructuré el proceso de identificación de necesidades mediante herramientas como User Personas y Journey Mapping, permitiendo que distintos perfiles del equipo comprendan y tomen decisiones informadas en el contexto del proyecto de ingeniería . <br> **Luciana Sanchez** <br> TB1: Para el trabajo se hizo . <br> **Adriana Diestra** <br> TB1: Para culminar la entrega de esta primera versión del trabajo final, resultó necesario .|El documento redactado...|
-|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.| **Marllely Arias** <br> TB1: Se llevó a cabo . <br> **Javier Nikaido** <br> TB1: Encargado de realizar. <br> **Kael Lagos** <br> TB1: A lo hora de realizar el trabajo mostró compromiso por arreglar los errores iniciales del informe, brindo indicaciones para sus compañeros y aportó la idea de arreglar el estado del informe inicial. <br> **Sebastián Hernández** <br> TB1: Durante las presentaciones del proyecto, expuse con claridad los resultados del análisis competitivo, las entrevistas realizadas y el proceso de identificación de necesidades, adaptando el lenguaje según el público. Logré transmitir ideas clave a compañeros, docentes y posibles usuarios, facilitando la comprensión de los avances del proyecto VeciHub desde una perspectiva técnica y estratégica. . <br> **Luciana Sanchez** <br> TB1: Para  . <br> **Adriana Diestra** <br> TB1: Para culminar la entrega de esta primera versión del trabajo final, resultó necesario . |Como equipo pudimos establecer... |
+|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería|**Marllely Arias** <br> TB1: En esta entrega se realizaron . <br> **Javier Nikaido** <br> TB1: Realizó . <br> **Kael Lagos** <br> TB1: Para el trabajo se hizo la introducción y la modificación de ciertos elementos del doc como lo puede ser el cuadro de los integrantes. <br> **Sebastián Hernández** <br> TB1: En el informe comuniqué de forma clara y objetiva los hallazgos del análisis competitivo, las estrategias frente a competidores y los resultados obtenidos en entrevistas con usuarios y administradores. Además, estructuré el proceso de identificación de necesidades mediante herramientas como User Personas y Journey Mapping, permitiendo que distintos perfiles del equipo comprendan y tomen decisiones informadas en el contexto del proyecto de ingeniería . <br> **Luciana Sanchez** <br> TB1: Para el trabajo se comunicó de forma clara y organizada la arquitectura de la informacion de la aplicacion. De igual forma, el diseño y diagrama de la base de datos a usar. <br> **Adriana Diestra** <br> TB1: Para culminar la entrega de esta primera versión del trabajo final, resultó necesario .|El documento redactado...|
+|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.| **Marllely Arias** <br> TB1: Se llevó a cabo . <br> **Javier Nikaido** <br> TB1: Encargado de realizar. <br> **Kael Lagos** <br> TB1: A lo hora de realizar el trabajo mostró compromiso por arreglar los errores iniciales del informe, brindo indicaciones para sus compañeros y aportó la idea de arreglar el estado del informe inicial. <br> **Sebastián Hernández** <br> TB1: Durante las presentaciones del proyecto, expuse con claridad los resultados del análisis competitivo, las entrevistas realizadas y el proceso de identificación de necesidades, adaptando el lenguaje según el público. Logré transmitir ideas clave a compañeros, docentes y posibles usuarios, facilitando la comprensión de los avances del proyecto VeciHub desde una perspectiva técnica y estratégica. . <br> **Luciana Sanchez** <br> TB1: Para la entrega de este trabajo fue necesario detallar la arquitectura de la información para la producción de los wireframes y mock-ups de la aplicación web. <br> **Adriana Diestra** <br> TB1: Para culminar la entrega de esta primera versión del trabajo final, resultó necesario . |Como equipo pudimos establecer... |
 
 ## Contenido
 1. [**Capítulo I: Introducción.**](#1.) <br>
@@ -1187,9 +1187,10 @@ En VeciHub, la selección tipográfica cumple un rol fundamental para transmitir
   <li><strong>Datos de contacto (ej. teléfono)</strong>: 20px – para mostrar información personal o formularios con legibilidad.</li>
 </ul>
 
-<div>
-    <h4>Marca</h4>
-</div>
+<div id='4.1.2.'><h4> 4.1.2. Web Style Guiddelines.</h4></div>
+
+<div><h4>Marca</h4></div>
+
 <p>VeciHub es una combinación de las palabras "vecino" y "hub", que representa una plataforma central para la comunicación y colaboración entre vecinos. El logo incluye un ícono de una casa con un mensaje, simbolizando la comunicación directa entre vecinos en un entorno seguro y cercano. El diseño utiliza el color verde (#67AE6E), el cual transmite armonía, confianza y un estilo de vida saludable.</p>
 
 <div>
@@ -1376,6 +1377,14 @@ En VeciHub, la selección tipográfica cumple un rol fundamental para transmitir
 La barra de navegación de VeciHub mantiene la coherencia visual de la marca. Utiliza como fondo el color #FDFAF6 (fondo de encabezado) y presenta las secciones de Inicio, Sobre VeciHub, Planes, Testimonios, Contacto. Además, incluye los botones Crear cuenta e Iniciar sesión, facilitando el acceso a los usuarios para iniciar su experiencia en la VeciHub.</p>
 
 ![Banner](Imagenes/banner.jpg)
+
+<div id='4.2.'><h3> 4.2 Information Architecture</h3></div>
+
+<div id='4.2.1.'><h4> 4.2.1 Organization Systems</h4></div>
+<div id='4.2.2.'><h4> 4.2.2 Labeling Systems</h4></div>
+<div id='4.2.3.'><h4> 4.2.3 SEO Tags and Meta Tags</h4></div>
+<div id='4.2.4.'><h4> 4.2.4 Searching Systems</h4></div>
+<div id='4.2.5.'><h4> 4.2.5 Navigation Systems</h4></div>
 
 <div id='4.3.'><h3> 4.3 Landing Page UI Design.</h3></div>
 En esta sección se muestra la propuesta de interfaz de usuario (UI) para la Landing Page de VeciHub.
