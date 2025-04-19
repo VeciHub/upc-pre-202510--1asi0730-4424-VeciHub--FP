@@ -1010,8 +1010,8 @@ Se describen los procesos actuales de los usuarios antes de la implementación d
 
 <div id='3.1.'><h3>3.1. To-Be Scenario Mapping</h3></div>
 
+![tobescenario](Imagenes/tobescenariomapping.jpg)
 
-<img src="tobescenariomapping.jpg" alt="ToBeScenarioMapping" width="300" height="200">
 
 
 
