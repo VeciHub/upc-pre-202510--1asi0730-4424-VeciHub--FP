@@ -1010,17 +1010,10 @@ Se describen los procesos actuales de los usuarios antes de la implementación d
 
 <div id='3.1.'><h3>3.1. To-Be Scenario Mapping</h3></div>
 
-A partir del análisis de la situación actual (As-Is), se propone el siguiente escenario "To-Be" que muestra cómo cambiará la experiencia del usuario con la implementación de VeciHub:
 
-| Paso | Usuario       | Acción                                                   | Resultado Esperado                                                        |
-|------|---------------|----------------------------------------------------------|---------------------------------------------------------------------------|
-| 1    | Vecino        | Abre la app y revisa el tablero de noticias recientes   | Se informa rápidamente sobre las novedades en su comunidad.              |
-| 2    | Administrador | Publica un anuncio de mantenimiento                      | Todos los vecinos reciben una notificación clara y centralizada.         |
-| 3    | Vecino        | Participa en una votación sobre seguridad                | Se registra su opinión de forma segura y se suman los votos de otros.    |
-| 4    | Administrador | Envía una alerta de emergencia                           | Todos los vecinos reciben una alerta sonora inmediata.                   |
-| 5    | Vecino        | Reporta un incidente mediante un formulario              | El administrador recibe el reporte y puede gestionarlo eficientemente.   |
+<img src="tobescenariomapping.jpg" alt="ToBeScenarioMapping" width="300" height="200">
 
----
+
 
 <div id='3.2.'><h3>3.2. User Stories</h3></div>
 
