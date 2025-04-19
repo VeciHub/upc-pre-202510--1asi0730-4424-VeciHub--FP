@@ -426,10 +426,7 @@ Encaja como una herramienta diaria de organización y conexión comunitaria. Pue
 
 El Lean UX Canvas es una herramienta empleada dentro del enfoque de diseño centrado en el usuario (UX) y la metodología Lean, destinada a facilitar la creación y evolución de productos de forma ágil y eficiente. Su finalidad es ofrecer una estructura organizada que promueva la colaboración entre equipos multidisciplinarios. A continuación, se muestra el Lean UX Canvas desarrollado por el equipo mediante el uso de la plataforma digital **Mural**:
 
-![VeciApp_Lean Canvas](https://link.png)
-
-Enlace para acceder al [Canvas](https://link.com)
-
+![Canvas](Imagenes/LeanCanvas.png)
 
 <div id='2.'><h2>Capítulo II: Requirements Elicitation & Analysis</h2></div>
 
@@ -978,6 +975,10 @@ En esta sección se presenta el User Task Matrix para la plataforma VeciHub, con
 
 <div id='2.3.3..'><h4> 2.3.3. User Journey Mapping</h4></div>
 
+Este gráfico ilustra cómo los usuarios interactúan con nuestra solución a lo largo del tiempo, resaltando tanto las experiencias clave como las oportunidades de mejora. Este análisis detallado permite asegurar que la solución esté perfectamente alineada con los flujos de trabajo de los usuarios y responda de manera efectiva a sus necesidades, mejorando así su experiencia general.
+
+![UserMapping](Imagenes/UJM.png)
+
 <div id='2.3.4.'><h4> 2.3.4. Empathy Mapping</h4></div>
 
 Mediante este gráfico de Empathy Mapping, se reflejan las percepciones, pensamientos y sentimientos de los usuarios al interactuar con nuestra plataforma. Este análisis nos permite comprender de manera más profunda sus experiencias, expectativas y desafíos, lo cual es fundamental para diseñar una solución más alineada con sus necesidades y que ofrezca una experiencia de usuario mejorada y centrada en el cliente.
@@ -1003,6 +1004,16 @@ Se describen los procesos actuales de los usuarios antes de la implementación d
 ![Administrador](Imagenes/Administradores__.png)
 
 <div id='2.4.'><h3> 2.4. Ubiquitous Language</h3></div>
+
+En esta sección, se definen los términos clave utilizados en el dominio de negocio de VeciHub, una plataforma digital orientada a fortalecer la comunicación y colaboración entre vecinos. Siguiendo el enfoque de Ubiquitous Language propuesto por Eric Evans en Domain-Driven Design, estas definiciones buscan establecer un lenguaje común, claro y coherente entre todos los involucrados en el proyecto: equipo de desarrollo, diseñadores, stakeholders y usuarios finales. Este lenguaje compartido permite alinear la visión del producto con las necesidades reales de la comunidad, facilitando la toma de decisiones, el diseño funcional y el desarrollo de soluciones efectivas y centradas en el usuario.
+
+1. **Vecino:** Usuario registrado de la comunidad. Puede participar en foros, votaciones, reuniones y reportes.
+2. **Administrador:** Usuario con permisos especiales para gestionar contenidos, moderar foros, aprobar reuniones o verificar alertas.
+3. **Formularios:** Herramientas interactivas para recoger opiniones, registrar encuestas o propuestas dentro de la comunidad.
+4. **Reporte:** Registro de un evento (por ejemplo, un robo, acto sospechoso o accidente) enviado por un vecino.
+5. **Botón de pánico:** Funcionalidad de emergencia que permite al usuario enviar una alerta inmediata a contactos y autoridades locales.
+6. **Agendamiento de reuniones:** Funcionalidad que permite crear, programar y gestionar reuniones comunitarias desde la app.
+7. **Asignación de cargos:** Módulo para establecer roles comunitarios (como presidente, tesorero, etc.)
 
 <div id='3.'><h2>Capítulo III: Requirements Specification</h2></div>
 
