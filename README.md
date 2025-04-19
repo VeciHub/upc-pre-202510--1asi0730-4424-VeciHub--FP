@@ -1132,17 +1132,16 @@ Las siguientes historias de usuario fueron elaboradas tomando como referencia la
 
 <div id='3.4.'><h3>3.4. Product Backlog</h3></div>
 
-| ID | Historia de Usuario                                              | Prioridad | Estimación (Story Points) | Sprint     |
-|----|------------------------------------------------------------------|-----------|---------------------------|------------|
-| 1  | Como vecino, quiero recibir notificaciones en tiempo real       | Alta      | 3                         | Sprint 1   |
-| 2  | Como administrador, quiero enviar anuncios masivos              | Alta      | 3                         | Sprint 1   |
-| 3  | Como vecino, quiero participar en votaciones                    | Alta      | 3                         | Sprint 1   |
-| 4  | Como administrador, quiero gestionar usuarios registrados       | Media     | 2                         | Sprint 2   |
-| 5  | Como vecino, quiero reportar incidentes mediante un formulario  | Media     | 2                         | Sprint 2   |
-| 6  | Como administrador, quiero ver estadísticas de uso              | Baja      | 1                         | Sprint 3   |
-| 7  | Como vecino, quiero acceder a un calendario de eventos          | Baja      | 1                         | Sprint 3   |
-| 8  | Como administrador, quiero validar cuentas nuevas               | Media     | 2                         | Sprint 2   |
+A partir de lo hecho en las User Stories se ha establecido un orden de importancia según el valor obtenido tras el análisis. Para ello utilizaremos la herramienta Pivotal Tracker para realizar un Backlog, en el cual priorizaremos el producto ordenando las User Stories usando la escala de Fibonacci 
 
+
+![productbacklog](Imagenes/productbacklog.jpg)
+ 
+
+
+<a href=" https://www.pivotaltracker.com/projects/2740488" target="_blank">Link del PivotalTracker </a>
+ -------------------------------------------------
+https://www.pivotaltracker.com/projects/2740488
 <h2>Capítulo IV: Product Design </h2></div>
 
 <div id='4.1.'><h3> 4.1 Style Guidelines.</h3></div>
