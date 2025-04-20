@@ -1620,6 +1620,13 @@ En esta sección se presentan y explican los mock-ups de la aplicación web de V
 ![MockUp03](Imagenes/AppWeb/MockUp03.png)
 ![MockUp04](Imagenes/AppWeb/MockUp04.png)
 ![MockUp05](Imagenes/AppWeb/MockUp05.png)
+![MockUp06](Imagenes/AppWeb/MockUp06.png)
+![MockUp07](Imagenes/AppWeb/MockUp07.png)
+![MockUp08](Imagenes/AppWeb/MockUp08.png)
+![MockUp09](Imagenes/AppWeb/MockUp09.png)
+![MockUp10](Imagenes/AppWeb/MockUp10.png)
+![MockUp11](Imagenes/AppWeb/MockUp11.png)
+![MockUp12](Imagenes/AppWeb/MockUp12.png)
 
 <div id='4.4.4.'><h4> 4.4.1 Web Applications User Flow Diagrams </h4></div>
 
