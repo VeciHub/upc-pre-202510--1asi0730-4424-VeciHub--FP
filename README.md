@@ -94,8 +94,8 @@ Los siguientes gráficos representan analíticos de commits en el repositorio de
 ## Student Outcomes
 |Criterio especifico|Acciones realizadas|Conclusiones|
 |-|:-|-|
-|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería|**Marllely Arias** <br> TB1: En esta entrega se realizaron . <br> **Javier Nikaido** <br> TB1: Realizó . <br> **Kael Lagos** <br> TB1: Para el trabajo se hizo la introducción y la modificación de ciertos elementos del doc como lo puede ser el cuadro de los integrantes. <br> **Sebastián Hernández** <br> TB1: En el informe comuniqué de forma clara y objetiva los hallazgos del análisis competitivo, las estrategias frente a competidores y los resultados obtenidos en entrevistas con usuarios y administradores. Además, estructuré el proceso de identificación de necesidades mediante herramientas como User Personas y Journey Mapping, permitiendo que distintos perfiles del equipo comprendan y tomen decisiones informadas en el contexto del proyecto de ingeniería . <br> **Luciana Sanchez** <br> TB1: Para el trabajo se comunicó de forma clara y organizada la arquitectura de la informacion de la aplicacion. De igual forma, el diseño y diagrama de la base de datos a usar. <br> **Adriana Diestra** <br> TB1: Para culminar la entrega de esta primera versión del trabajo final, resultó necesario .|El documento redactado...|
-|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.| **Marllely Arias** <br> TB1: Se llevó a cabo . <br> **Javier Nikaido** <br> TB1: Encargado de realizar. <br> **Kael Lagos** <br> TB1: A lo hora de realizar el trabajo mostró compromiso por arreglar los errores iniciales del informe, brindo indicaciones para sus compañeros y aportó la idea de arreglar el estado del informe inicial. <br> **Sebastián Hernández** <br> TB1: Durante las presentaciones del proyecto, expuse con claridad los resultados del análisis competitivo, las entrevistas realizadas y el proceso de identificación de necesidades, adaptando el lenguaje según el público. Logré transmitir ideas clave a compañeros, docentes y posibles usuarios, facilitando la comprensión de los avances del proyecto VeciHub desde una perspectiva técnica y estratégica. . <br> **Luciana Sanchez** <br> TB1: Para la entrega de este trabajo fue necesario detallar la arquitectura de la información para la producción de los wireframes y mock-ups de la aplicación web. <br> **Adriana Diestra** <br> TB1: Para culminar la entrega de esta primera versión del trabajo final, resultó necesario . |Como equipo pudimos establecer... |
+|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería|**Marllely Arias** <br> TB1: En esta entrega se realizaron . <br> **Javier Nikaido** <br> TB1: Realizó . <br> **Kael Lagos** <br> TB1: Para el trabajo se hizo la introducción y la modificación de ciertos elementos del doc como lo puede ser el cuadro de los integrantes. <br> **Sebastián Hernández** <br> TB1: En el informe comuniqué de forma clara y objetiva los hallazgos del análisis competitivo, las estrategias frente a competidores y los resultados obtenidos en entrevistas con usuarios y administradores. Además, estructuré el proceso de identificación de necesidades mediante herramientas como User Personas y Journey Mapping, permitiendo que distintos perfiles del equipo comprendan y tomen decisiones informadas en el contexto del proyecto de ingeniería . <br> **Luciana Sanchez** <br> TB1: Para el trabajo se comunicó de forma clara y organizada la arquitectura de la informacion de la aplicacion. De igual forma, el diseño y diagrama de la base de datos a usar. <br> **Adriana Diestra** <br> TB1: Para culminar la entrega de esta primera versión del trabajo final, resultó necesario .|**TB1:** En el desarrollo de VeciHub, se comunicaron de manera clara y objetiva los avances y resultados del proyecto a usuarios y stakeholders, asegurando que las funcionalidades de la plataforma cumplieran con las expectativas y necesidades de todos los involucrados.|
+|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.| **Marllely Arias** <br> TB1: Se llevó a cabo . <br> **Javier Nikaido** <br> TB1: Encargado de realizar. <br> **Kael Lagos** <br> TB1: A lo hora de realizar el trabajo mostró compromiso por arreglar los errores iniciales del informe, brindo indicaciones para sus compañeros y aportó la idea de arreglar el estado del informe inicial. <br> **Sebastián Hernández** <br> TB1: Durante las presentaciones del proyecto, expuse con claridad los resultados del análisis competitivo, las entrevistas realizadas y el proceso de identificación de necesidades, adaptando el lenguaje según el público. Logré transmitir ideas clave a compañeros, docentes y posibles usuarios, facilitando la comprensión de los avances del proyecto VeciHub desde una perspectiva técnica y estratégica. . <br> **Luciana Sanchez** <br> TB1: Para la entrega de este trabajo fue necesario detallar la arquitectura de la información para la producción de los wireframes y mock-ups de la aplicación web. <br> **Adriana Diestra** <br> TB1: Para culminar la entrega de esta primera versión del trabajo final, resultó necesario . | **TB1:** Como equipo, establecimos canales de comunicación eficaces para entregar el proyecto en los plazos establecidos. Compartimos los resultados con la comunidad y administradores, quienes, a través de entrevistas y reuniones, expresaron su satisfacción con la plataforma. Estas interacciones nos permitieron mejorar el diseño y las funcionalidades de VeciHub, alineándolo con las necesidades de los usuarios.|
 
 ## Contenido
 1. [**Capítulo I: Introducción.**](#1.) <br>
@@ -1585,8 +1585,47 @@ Esta sección presenta los Mock-up del Landing Page de VeciHub para navegadores 
 
 ![Mock-up Footer](Imagenes/mk-Footer.png)
 
+<div id='4.4.'><h3> 4.4 Web Applications UX/UI Design</h3></div>
 
-<div id='4.5.'><h3> 4.5 Web Applications Prototyping. </h3></div>
+En esta sección se muestra la propuesta de interfaz de usuario (UI) para la aplicación web de VeciHub.
+
+<div id='4.4.1.'><h4> 4.4.1 Web Applications Wireframes </h4></div>
+
+Los wireframes de la aplicación web de VeciHub representan la estructura y organización de las pantallas clave orientadas a la gestión y comunicación vecinal. Estos esquemas visuales muestran la disposición de los elementos de la interfaz y la navegación entre secciones, brindando una guía clara para el diseño final. De esta manera, se asegura una experiencia de usuario intuitiva, eficiente y adaptada a las necesidades reales de las comunidades vecinales. Los wireframes fueron desarrollados utilizando Figma. Enlace para acceder al diseño final: [Figma Link] ()
+
+<div id='4.4.2.'><h4> 4.4.1 Web Applications Wireflow Diagrams </h4></div>
+
+En esta sección se presentan los Wireflows para cada objetivo del usuario. Para ello se consideró los User Persona correspondientes. Cada diagrama muestra el flujo de interacción.
+
+<div id='4.4.3.'><h4> 4.4.1 Web Applications Mock-ups </h4></div>
+
+En esta sección se presentan y explican los mock-ups de la aplicación web de VeciHub, orientada a la mejora de la comunicación y organización dentro de las comunidades vecinales. Se destacan los principios clave de diseño visual, accesibilidad, arquitectura de la información y el Design System desarrollado para este producto digital. Cada mock-up refleja cómo estos conceptos se integran en una interfaz pensada para facilitar la participación comunitaria, la gestión de alertas de seguridad y la organización de eventos dentro de la comunidad. Enlace para acceder al Diseño: [Figma Link] () 
+
+<div id='4.4.4.'><h4> 4.4.1 Web Applications User Flow Diagrams </h4></div>
+
+En esta sección se presentan los diagramas de flujo de usuario para las aplicaciones web de VeciHub, los cuales ilustran el recorrido que sigue un usuario dentro de la plataforma. 
+
+<div id='4.5.'><h3> 4.5 Web Applications Prototyping </h3></div>
+
+
+<div id='4.6.'><h3> 4.6 Domain-Driven Software Architecture </h3></div>
+
+Se presentan los tres niveles del modelo C4 trabajado con Visual Paradigm para el proyecto con el que veremos un mejor enfoque de lo que se está desarrollando
+
+<div id='4.6.1.'><h4> 4.6.1 Software Architecture Context Diagram </h4></div>
+
+![Context Diagram](Imagenes/DomainDriven/veciHub-DiagramaContexto.png)
+
+<div id='4.6.2.'><h4> 4.6.2 Software Architecture Container Diagrams </h4></div>
+
+![Container Diagrams](Imagenes/DomainDriven/veciHub-DiagramaContenedores.png)
+
+<div id='4.6.3.'><h4> 4.6.3 Software Architecture Components Diagrams </h4></div>
+
+- Diagrama de componentes de la aplicación API:
+![Components Diagrams 1](Imagenes/DomainDriven/veciHub-DCompon1.png)
+- Diagrama de componentes del gestor de reportes inteligentes:
+![Components Diagrams 2](Imagenes/DomainDriven/veciHub-DCompon2.png)
 
 <div id='4.7.'><h3> 4.7 Software Object-Oriented Design.</h3></div>
 <div id='4.7.1.'><h4> 4.7.1 Class Diagrams </h4></div>
