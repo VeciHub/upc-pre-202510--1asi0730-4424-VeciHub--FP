@@ -1538,11 +1538,11 @@ Esta sección presenta los wireframes del Landing Page de VeciHub para Mobile We
 
 <p align="center">
   <img src="Imagenes/WMMobile/iPhone1.png" alt="Wireframe1" width="200"><br>
-  <img src="Imagenes/WMMobile/iPhone1.png" alt="Wireframe2" width="200"><br>
+  <img src="Imagenes/WMMobile/iPhone2.png" alt="Wireframe2" width="200"><br>
   <img src="Imagenes/WMMobile/iPhone3.png" alt="Wireframe3" width="200"><br>
-  <img src="Imagenes/WMMobile/iPhone4.png" alt="Wireframe4" width="200"><br>
+  <img src="Imagenes/WMMobile/iPhone4.jpeg" alt="Wireframe4" width="200"><br>
   <img src="Imagenes/WMMobile/iPhone5.png" alt="Wireframe5" width="200"><br>
-  <img src="Imagenes/WMMobile/iPhone6.png" alt="Wireframe06" width="200"><br>
+  <img src="Imagenes/WMMobile/iPhone6.jpeg" alt="Wireframe06" width="200"><br>
   <img src="Imagenes/WMMobile/iPhone7.png" alt="Wireframe07" width="200"><br>
 </p>
 
@@ -1607,6 +1607,15 @@ Esta sección presenta los Mock-up del Landing Page de VeciHub para Desktop Web 
 
 Esta sección presenta los Mock-up del Landing Page de VeciHub para Mobile Web Browser.
 
+<p align="center">
+  <img src="Imagenes/WMMobile/iPhone11.png" alt="Wireframe1" width="200"><br>
+  <img src="Imagenes/WMMobile/iPhone22.png" alt="Wireframe2" width="200"><br>
+  <img src="Imagenes/WMMobile/iPhone33.png" alt="Wireframe3" width="200"><br>
+  <img src="Imagenes/WMMobile/iPhone44.jpeg" alt="Wireframe4" width="200"><br>
+  <img src="Imagenes/WMMobile/iPhone55.png" alt="Wireframe5" width="200"><br>
+  <img src="Imagenes/WMMobile/iPhone66.jpeg" alt="Wireframe06" width="200"><br>
+  <img src="Imagenes/WMMobile/iPhone77.png" alt="Wireframe07" width="200"><br>
+</p>
 
 
 <div id='4.4.'><h3> 4.4 Web Applications UX/UI Design</h3></div>
