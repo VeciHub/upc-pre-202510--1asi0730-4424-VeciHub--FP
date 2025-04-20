@@ -670,23 +670,29 @@ El Lean UX Canvas es una herramienta empleada dentro del enfoque de diseño cent
 
   <h4>Entrevista 1: Vecino / Residente</h4>
   <table border="1" cellpadding="6" cellspacing="0">
-    <tr><td><strong>Nombre Entrevistado</strong></td><td>Mariana Reyes</td></tr>
-    <tr><td><strong>Edad</strong></td><td>42 años</td></tr>
-    <tr><td><strong>Profesión</strong></td><td>Madre de familia</td></tr>
+    <tr><td><strong>Nombre Entrevistado</strong></td><td>Sebastian Rubio</td></tr>
+    <tr><td><strong>Edad</strong></td><td>20 años</td></tr>
+    <tr><td><strong>Profesión</strong></td><td>Estudiante Universitario</td></tr>
     <tr><td><strong>Departamento</strong></td><td>Lima, Perú</td></tr>
     <tr><td><strong>Duración de la Entrevista</strong></td><td>13:45 min</td></tr>
   </table>
+
+<p>
+  Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c996_upc_edu_pe/EYicFbIC0ehLqKKLTEiyWhABNnfdwshVb2NTb0PLQVqJ9w?e=iVov2c&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+</p>
 
   
 
  <h4>Entrevista 2: Vecina / Residente</h4>
 <table border="1" cellpadding="6" cellspacing="0">
-  <tr><td><strong>Nombre Entrevistado</strong></td><td>Olivia Díaz</td></tr>
-  <tr><td><strong>Edad</strong></td><td>28 años</td></tr>
-  <tr><td><strong>Profesión</strong></td><td>Diseñadora Gráfica</td></tr>
+  <tr><td><strong>Nombre Entrevistado</strong></td><td>Arnold Quispe</td></tr>
+  <tr><td><strong>Edad</strong></td><td>22 años</td></tr>
+  <tr><td><strong>Profesión</strong></td><td>Veterinario</td></tr>
   <tr><td><strong>Departamento</strong></td><td>Lima, Perú</td></tr>
-  <tr><td><strong>Duración de la Entrevista</strong></td><td>12:03 min</td></tr>
+  <tr><td><strong>Duración de la Entrevista</strong></td><td>2:47 min</td></tr>
 </table>
+
+<p>Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c996_upc_edu_pe/EXXuOCnYRv5DszBkkLFXH8EBBODemMApdKDYZpIV7YpSrA?e=9N0P3A&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D </p>
 
   <h4>Entrevista 3: Vecino / Residente</h4>
   <table border="1" cellpadding="6" cellspacing="0">
@@ -694,7 +700,7 @@ El Lean UX Canvas es una herramienta empleada dentro del enfoque de diseño cent
     <tr><td><strong>Edad</strong></td><td>24 años</td></tr>
     <tr><td><strong>Profesión</strong></td><td>Estudiante universitaria</td></tr>
     <tr><td><strong>Departamento</strong></td><td>Trujillo, Perú</td></tr>
-    <tr><td><strong>Duración de la Entrevista</strong></td><td>10:37 min</td></tr>
+    <tr><td><strong>Duración de la Entrevista</strong></td><td>2:37 min</td></tr>
   </table>
 
 
@@ -750,7 +756,7 @@ Link de la entrevista:
 
 <div id='2.2.3.'><h4> 2.2.3. Análisis de entrevistas</h4></div>
 
-<h5>Análisis de la Entrevista - Mariana Reyes</h5>
+<h5>Análisis de la Entrevista - Sebastian Rubio</h5>
   <table border="1" cellpadding="6" cellspacing="0">
     <tr><td><strong>Fuentes de Información</strong></td><td>WhatsApp y conversaciones vecinales; ocasionalmente Facebook.</td></tr>
     <tr><td><strong>Canales de Comunicación</strong></td><td>Usa principalmente WhatsApp para contactar a la junta vecinal.</td></tr>
@@ -761,7 +767,7 @@ Link de la entrevista:
     <tr><td><strong>Privacidad y Seguridad</strong></td><td>Preocupación por protección de datos personales.</td></tr>
   </table>
 <br>
-    <h5>Análisis de la Entrevista Olivia Díaz</h5>
+    <h5>Análisis de la Entrevista Arnold Quispe</h5>
 <table border="1" cellpadding="6" cellspacing="0">
   <tr>
     <td><strong>Fuentes de Información</strong></td>
