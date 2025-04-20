@@ -1470,7 +1470,7 @@ Los sistemas de navegación en VeciHub deben estar diseñados para ser fáciles 
 <div id='4.3.'><h3> 4.3 Landing Page UI Design.</h3></div>
 En esta sección se muestra la propuesta de interfaz de usuario (UI) para la Landing Page de VeciHub.
 <div id='4.3.1.'><h4> 4.3.1 Landing Page Wireframe </h4></div>
-Esta sección presenta los wireframes del Landing Page de VeciHub para navegadores web en Desktop.
+Esta sección presenta los wireframes del Landing Page de VeciHub para Desktop Web Browser.
 <div>
     <h4>Wireframe - Seccion Hero </h4>
 </div>
@@ -1533,8 +1533,22 @@ La sección "Footer" es el cierre informativo del sitio web de VeciHub diseñada
 
 ![Wireframe Footer](Imagenes/wm-Footer.png)
 
+
+Esta sección presenta los wireframes del Landing Page de VeciHub para Mobile Web Browser.
+
+<p align="center">
+  <img src="Imagenes/WMMobile/iPhone1.png" alt="Wireframe1" width="200">
+  <img src="Imagenes/WMMobile/iPhone1.png" alt="Wireframe2" width="200">
+  <img src="Imagenes/WMMobile/iPhone3.png" alt="Wireframe3" width="200">
+  <img src="Imagenes/WMMobile/iPhone4.jpeg" alt="Wireframe4" width="200">
+  <img src="Imagenes/WMMobile/iPhone5.png" alt="Wireframe5" width="200">
+  <img src="Imagenes/WMMobile/iPhone6.jpeg" alt="Wireframe06" width="200">
+  <img src="Imagenes/WMMobile/iPhone7.png" alt="Wireframe07" width="200">
+</p>
+
+
 <div id='4.3.2.'><h4> 4.3.2 Landing Page Mock-up </h4></div>
-Esta sección presenta los Mock-up del Landing Page de VeciHub para navegadores web en Desktop.
+Esta sección presenta los Mock-up del Landing Page de VeciHub para Desktop Web Browser.
 <div>
     <h4>Mock-up - Seccion Hero </h4>
 </div>
