@@ -1591,7 +1591,13 @@ En esta sección se muestra la propuesta de interfaz de usuario (UI) para la apl
 
 <div id='4.4.1.'><h4> 4.4.1 Web Applications Wireframes </h4></div>
 
-Los wireframes de la aplicación web de VeciHub representan la estructura y organización de las pantallas clave orientadas a la gestión y comunicación vecinal. Estos esquemas visuales muestran la disposición de los elementos de la interfaz y la navegación entre secciones, brindando una guía clara para el diseño final. De esta manera, se asegura una experiencia de usuario intuitiva, eficiente y adaptada a las necesidades reales de las comunidades vecinales. Los wireframes fueron desarrollados utilizando Figma. Enlace para acceder al diseño final: [Figma Link] ()
+Los wireframes de la aplicación web de VeciHub representan la estructura y organización de las pantallas clave orientadas a la gestión y comunicación vecinal. Estos esquemas visuales muestran la disposición de los elementos de la interfaz y la navegación entre secciones, brindando una guía clara para el diseño final. De esta manera, se asegura una experiencia de usuario intuitiva, eficiente y adaptada a las necesidades reales de las comunidades vecinales. Los wireframes fueron desarrollados utilizando Figma. Enlace para acceder al diseño final: [Figma Link](https://www.figma.com/design/XTyJhfQqXY1GsnkyTzIla1/VeciHub-Web-Application?node-id=0-1&t=C4Jopi282sxpxBBL-1)
+
+![Wireframe1](Imagenes/AppWeb/Wireframe1.png)
+![Wireframe2](Imagenes/AppWeb/Wireframe2.png)
+![Wireframe3](Imagenes/AppWeb/Wireframe3.png)
+![Wireframe4](Imagenes/AppWeb/Wireframe4.png)
+![Wireframe5](Imagenes/AppWeb/Wireframe5.png)
 
 <div id='4.4.2.'><h4> 4.4.1 Web Applications Wireflow Diagrams </h4></div>
 
@@ -1623,8 +1629,11 @@ Se presentan los tres niveles del modelo C4 trabajado con Visual Paradigm para e
 <div id='4.6.3.'><h4> 4.6.3 Software Architecture Components Diagrams </h4></div>
 
 - Diagrama de componentes de la aplicación API:
+
 ![Components Diagrams 1](Imagenes/DomainDriven/veciHub-DCompon1.png)
+
 - Diagrama de componentes del gestor de reportes inteligentes:
+
 ![Components Diagrams 2](Imagenes/DomainDriven/veciHub-DCompon2.png)
 
 <div id='4.7.'><h3> 4.7 Software Object-Oriented Design.</h3></div>
