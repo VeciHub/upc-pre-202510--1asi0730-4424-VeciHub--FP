@@ -993,7 +993,7 @@ Mediante este gráfico de Empathy Mapping, se reflejan las percepciones, pensami
 
 **Segmento 1: Vecinos / Residentes**
 
-![Residente](Imagenes/Residente_.png)
+![Residente](Imagenes/Arnold_E.png)
 
 **Segmento 2: Administradores / Juntas Vecinales**
 
