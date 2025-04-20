@@ -1667,3 +1667,40 @@ En esta sección se podrá visualizar el diagrama de clases del sistema VeciHub,
 
 <div id='4.7.2.'><h4> 4.7.2 Class Dictionary </h4></div>
 
+A continuación, se presenta una descripción de las 12 entidades principales que forman parte del sistema VeciHub:
+
+■ Usuario
+Entidad abstracta que representa a cualquier persona que utiliza la aplicación. Contiene los atributos y métodos generales que comparten todos los usuarios registrados, ya sea vecino o administrador.
+
+■ Vecino
+Subclase de Usuario. Representa a los residentes del vecindario. Su rol en la aplicación es principalmente participativo: pueden votar, enviar reportes, visualizar eventos y alertas, recibir notificaciones y participar en chats grupales.
+
+■ Administrador
+Subclase de Usuario. Representa a los encargados o líderes vecinales. Tienen funciones adicionales como crear y gestionar votaciones, eventos, alertas y notificaciones, así como moderar los chats grupales.
+
+■ Suscripción
+Define el plan activo que tiene un usuario en la plataforma (gratuito o de pago). Contiene información sobre el tipo de plan, duración y estado. Cada usuario puede tener una única suscripción activa.
+
+■ Pago
+Registra los pagos realizados por los usuarios para adquirir o renovar una suscripción. Incluye detalles como el monto, fecha, medio de pago y el ID de la suscripción asociada.
+
+■ Votación
+Permite a los usuarios participar en encuestas comunitarias sobre temas relevantes del vecindario. Los administradores pueden crear votaciones y los vecinos emitir su voto.
+
+■ Alerta
+Canal de comunicación utilizado por los administradores para notificar rápidamente situaciones importantes como emergencias, robos o avisos urgentes a los vecinos.
+
+■ Evento
+Representa actividades o reuniones comunitarias organizadas en el vecindario. Los administradores pueden crear eventos y los vecinos pueden visualizarlos y participar.
+
+■ Reporte
+Permite a los vecinos comunicar problemas o incidencias dentro de la comunidad (como luminarias malogradas, ruidos molestos, entre otros). Los administradores gestionan los reportes recibidos.
+
+■ Notificación
+Mecanismo que informa a los usuarios sobre nuevas alertas, eventos, mensajes, o cambios importantes. Las notificaciones se generan automáticamente o pueden ser enviadas por los administradores.
+
+■ Chat Grupal
+Espacio común de conversación entre vecinos y administradores. Permite la comunicación en tiempo real sobre temas comunitarios. Puede estar moderado por un administrador.
+
+■ Mensaje
+Cada mensaje enviado dentro de un chat grupal. Contiene el contenido, fecha, hora y el usuario que lo envió. Es parte esencial de la interacción social dentro de la plataforma.
