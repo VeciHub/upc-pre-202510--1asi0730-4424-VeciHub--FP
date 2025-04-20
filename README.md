@@ -1666,7 +1666,7 @@ En esta sección se presentan los diagramas de flujo de usuario para las aplicac
 
 <div id='4.5.'><h3> 4.5 Web Applications Prototyping </h3></div>
 
-[MockUp01](Imagenes/WMMobile/seccion4.5.png)
+![MockUp01](Imagenes/WMMobile/seccion4.5.png)
 
 Link del video: [Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223984_upc_edu_pe/ERqfBPh_4LRKiRTRvm8BWMgBZhf6xIZ24XxcMre-5hxieA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Ggk1AP)
 
