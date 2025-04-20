@@ -1598,6 +1598,13 @@ Los wireframes de la aplicación web de VeciHub representan la estructura y orga
 ![Wireframe3](Imagenes/AppWeb/Wireframe3.png)
 ![Wireframe4](Imagenes/AppWeb/Wireframe4.png)
 ![Wireframe5](Imagenes/AppWeb/Wireframe5.png)
+![Wireframe06](Imagenes/AppWeb/Wireframes06.png)
+![Wireframe07](Imagenes/AppWeb/Wireframes07.png)
+![Wireframe08](Imagenes/AppWeb/Wireframes08.png)
+![Wireframe09](Imagenes/AppWeb/Wireframes09.png)
+![Wireframe10](Imagenes/AppWeb/Wireframes10.png)
+![Wireframe11](Imagenes/AppWeb/Wireframes11.png)
+![Wireframe12](Imagenes/AppWeb/Wireframes12.png)
 
 <div id='4.4.2.'><h4> 4.4.1 Web Applications Wireflow Diagrams </h4></div>
 
