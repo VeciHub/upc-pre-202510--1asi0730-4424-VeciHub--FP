@@ -1130,6 +1130,8 @@ Las siguientes historias de usuario fueron elaboradas tomando como referencia la
 <div id='3.3.'><h3>3.3. Impact Mapping</h3></div>
 
 
+![impactmapping](Imagenes/impactmapping.jpg)
+
 
 ---
 
