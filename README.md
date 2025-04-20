@@ -1659,5 +1659,11 @@ Se presentan los tres niveles del modelo C4 trabajado con Visual Paradigm para e
 
 <div id='4.7.'><h3> 4.7 Software Object-Oriented Design.</h3></div>
 <div id='4.7.1.'><h4> 4.7.1 Class Diagrams </h4></div>
+En esta sección se podrá visualizar el diagrama de clases del sistema VeciHub, el cual representa la estructura principal del sistema mediante clases, sus atributos, métodos y las relaciones entre ellas. 
+
+
+![Diagrama de Clase](Imagenes/diagrama_de_clase.jpg)
+
+
 <div id='4.7.2.'><h4> 4.7.2 Class Dictionary </h4></div>
 
