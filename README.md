@@ -1381,7 +1381,7 @@ En VeciHub, la selección tipográfica cumple un rol fundamental para transmitir
 <p>Barra de navegación: <br>
 La barra de navegación de VeciHub mantiene la coherencia visual de la marca. Utiliza como fondo el color #FDFAF6 (fondo de encabezado) y presenta las secciones de Inicio, Sobre VeciHub, Planes, Testimonios, Contacto. Además, incluye los botones Crear cuenta e Iniciar sesión, facilitando el acceso a los usuarios para iniciar su experiencia en la VeciHub.</p>
 
-![Banner](Imagenes/banner.jpg)
+![Banner](Imagenes/banner2.jpeg)
 
 <div id='4.2.'><h3> 4.2 Information Architecture</h3></div>
 
