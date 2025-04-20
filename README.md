@@ -50,7 +50,7 @@ Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la im
 |Integrante|Tareas Asignadas|
 |-|-|
 |Marllely Arias||
-|Javier Nikaido||
+|Javier Nikaido|Desarrollo del capítulo 3|
 |Kael Lagos| Desarrollo de la introducción, planteamiento de las hipotesis y modificación del documento para un mayor orden|
 |Sebastián Hernández||
 |Luciana Sanchez|Desarrollo del capitulo 4|
@@ -1123,12 +1123,7 @@ Las siguientes historias de usuario fueron elaboradas tomando como referencia la
 
 <div id='3.3.'><h3>3.3. Impact Mapping</h3></div>
 
-| Objetivo del Proyecto             | Actores        | Impacto Esperado                                        | Entregables                                         |
-|----------------------------------|----------------|----------------------------------------------------------|-----------------------------------------------------|
-| Mejorar la comunicación comunitaria | Vecinos        | Mayor participación en la vida comunitaria              | Foros, votaciones, notificaciones                   |
-| Optimizar la gestión vecinal     | Administradores | Menor desorganización y más orden en la comunicación    | Panel de gestión, historial de anuncios             |
-| Incrementar la seguridad vecinal | Todos los usuarios | Respuesta rápida ante emergencias                       | Alertas geolocalizadas, contactos de emergencia     |
-| Fomentar la colaboración y pertenencia | Vecinos     | Incremento en campañas y actividades locales            | Calendario de eventos, buzón de sugerencias         |
+
 
 ---
 
