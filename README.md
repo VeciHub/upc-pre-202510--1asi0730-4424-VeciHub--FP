@@ -1543,7 +1543,7 @@ Esta sección presenta los wireframes del Landing Page de VeciHub para Mobile We
   <img src="Imagenes/WMMobile/iPhone4.jpeg" alt="Wireframe4" width="200"><br>
   <img src="Imagenes/WMMobile/iPhone5.png" alt="Wireframe5" width="200"><br>
   <img src="Imagenes/WMMobile/iPhone6.jpeg" alt="Wireframe06" width="200"><br>
-  <img src="Imagenes/WMMobile/iPhone7.png" alt="Wireframe07" width="200"><br>
+  <img src="Imagenes/WMMobile/iPhone07.png" alt="Wireframe07" width="200"><br>
 </p>
 
 
@@ -1665,6 +1665,10 @@ En esta sección se presentan y explican los mock-ups de la aplicación web de V
 En esta sección se presentan los diagramas de flujo de usuario para las aplicaciones web de VeciHub, los cuales ilustran el recorrido que sigue un usuario dentro de la plataforma. 
 
 <div id='4.5.'><h3> 4.5 Web Applications Prototyping </h3></div>
+
+[MockUp01](Imagenes/WMMobile/seccion4.5.png)
+
+Link del video: [Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223984_upc_edu_pe/ERqfBPh_4LRKiRTRvm8BWMgBZhf6xIZ24XxcMre-5hxieA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Ggk1AP)
 
 
 <div id='4.6.'><h3> 4.6 Domain-Driven Software Architecture </h3></div>
