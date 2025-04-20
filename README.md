@@ -1194,6 +1194,10 @@ En VeciHub, la selección tipográfica cumple un rol fundamental para transmitir
 
 <p>VeciHub es una combinación de las palabras "vecino" y "hub", que representa una plataforma central para la comunicación y colaboración entre vecinos. El logo incluye un ícono de una casa con un mensaje, simbolizando la comunicación directa entre vecinos en un entorno seguro y cercano. El diseño utiliza el color verde (#67AE6E), el cual transmite armonía, confianza y un estilo de vida saludable.</p>
 
+<p align="center">
+  <img src="Imagenes/marca-vecihub.jpeg" width="300">
+</p>
+
 <div>
     <h4>Background</h4>
 </div>
