@@ -888,7 +888,7 @@ Link de la entrevista:
 
 **Segmento 1: Vecinos / Residentes**
 
-![Residente](Imagenes/Residente.png)
+![Residente](Imagenes/Arnold.png)
 
 **Segmento 2: Administradores / Juntas Vecinales**
 
