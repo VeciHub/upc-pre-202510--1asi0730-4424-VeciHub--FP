@@ -1645,6 +1645,7 @@ Los wireframes de la aplicación web de VeciHub representan la estructura y orga
 
 En esta sección se presentan los Wireflows para cada objetivo del usuario. Para ello se consideró los User Persona correspondientes. Cada diagrama muestra el flujo de interacción.
 
+
 <div id='4.4.3.'><h4> 4.4.3 Web Applications Mock-ups </h4></div>
 
 En esta sección se presentan y explican los mock-ups de la aplicación web de VeciHub, orientada a la mejora de la comunicación y organización dentro de las comunidades vecinales. Se destacan los principios clave de diseño visual, accesibilidad, arquitectura de la información y el Design System desarrollado para este producto digital. Cada mock-up refleja cómo estos conceptos se integran en una interfaz pensada para facilitar la participación comunitaria, la gestión de alertas de seguridad y la organización de eventos dentro de la comunidad. Enlace para acceder al Diseño: [ Figma Link](https://www.figma.com/design/XTyJhfQqXY1GsnkyTzIla1/VeciHub-Web-Application?node-id=5-755&t=C4Jopi282sxpxBBL-1) 
@@ -1665,6 +1666,8 @@ En esta sección se presentan y explican los mock-ups de la aplicación web de V
 <div id='4.4.4.'><h4> 4.4.4 Web Applications User Flow Diagrams </h4></div>
 
 En esta sección se presentan los diagramas de flujo de usuario para las aplicaciones web de VeciHub, los cuales ilustran el recorrido que sigue un usuario dentro de la plataforma. 
+
+![UserFlow](Imagenes/AppWeb/UserFlow.png)
 
 <div id='4.5.'><h3> 4.5 Web Applications Prototyping </h3></div>
 
