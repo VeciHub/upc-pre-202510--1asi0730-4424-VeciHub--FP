@@ -1645,6 +1645,25 @@ Los wireframes de la aplicación web de VeciHub representan la estructura y orga
 
 En esta sección se presentan los Wireflows para cada objetivo del usuario. Para ello se consideró los User Persona correspondientes. Cada diagrama muestra el flujo de interacción.
 
+- **Gestionar cuenta: Inicio de Sesión / Crear Cuenta**: El usuario desea registrarse o iniciar sesión en la plataforma para acceder a sus funcionalidades. El usuario ve opciones para "Iniciar sesión" o "Crear cuenta". Si selecciona "Crear cuenta", el usuario completa un formulario con su nombre, correo electrónico, teléfono, etc. Si ya tiene una cuenta, el usuario ingresa su correo electrónico y contraseña. Finalmente, el sistema valida los datos ingresados y es redirigido al Dashboard.
+
+![Wireflow1](Imagenes/AppWeb/Wireflow1.png)
+
+- **Consultar Foros y Participar**: El usuario desea participar en la comunicación de la comunidad mediante foros temáticos. El usuario ve los foros disponibles (por ejemplo, "Seguridad", "Actividades", "Propuestas"), selecciona un foro de interés y el sistema muestra los mensajes o publicaciones en ese foro. Además, podrá agregar un nuevo mensaje o comentar en un mensaje existente.
+
+![Wireflow2](Imagenes/AppWeb/Wireflow2.png)
+
+- **Realizar Votación Comunitaria**:  El usuario (administrador o moderador) desea crear y gestionar una votación comunitaria. Los vecinos votan de manera digital en la plataforma. 
+
+![Wireflow3](Imagenes/AppWeb/Wireflow3.png)
+
+- **Alertas de Seguridad**: El usuario (cualquier miembro de la comunidad) desea recibir alertas sobre incidentes de seguridad en la comunidad. El usuario ve alertas de seguridad destacadas en la página de "Alertas". El usuario hace clic en una alerta para ver más detalles sobre el incidente. El sistema envía notificaciones en tiempo real sobre nuevas alertas de seguridad.
+
+![Wireflow4](Imagenes/AppWeb/Wireflow4.png)
+
+- **Ver Actividades Programadas**: El usuario (vecino o administrador) desea consultar las actividades programadas en la comunidad, como inauguraciones, campañas de donación, eventos sociales, entre otros. El usuario en el apartado de "Actividades" podrá ver un resumen de las actividades programadas o eventos destacados de la comunidad.
+
+![Wireflow5](Imagenes/AppWeb/Wireflow5.png)
 
 <div id='4.4.3.'><h4> 4.4.3 Web Applications Mock-ups </h4></div>
 
