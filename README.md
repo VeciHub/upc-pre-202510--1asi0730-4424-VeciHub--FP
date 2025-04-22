@@ -1744,3 +1744,59 @@ Mensaje:
 Cada mensaje enviado dentro de un chat grupal. Contiene el contenido, fecha, hora y el usuario que lo envió. Es parte esencial de la interacción social dentro de la plataforma.
 
 <div id='5.'><h2>Capítulo V: Profuct Implementation Validation & Deployment</h2></div>
+
+<div id='5.1.'><h3> 5.1. Software Configuration Management.</h3></div>
+
+<div id='5.1.1.'><h4> 5.1.1. Software Development Environment Configuration. </h4></div>
+
+<div id='5.1.2.'><h4> 5.1.2. Source Code Management. </h4></div>
+
+<div id='5.1.3.'><h4> 5.1.3. Source Code Style Guide & Conventions. </h4></div>
+
+<div id='5.1.4.'><h4> 5.1.4. Software Deployment Configuration. </h4></div>
+
+<div id='5.2.'><h3> 5.2. Landing Page, Services & Applications Implementation.</h3></div>
+
+<div id='5.2.1.'><h4> 5.2.1. Sprint 1. </h4></div>
+
+<div id='5.2.1.1.'><h4> 5.2.1.1. Sprint Planning 1. </h4></div>
+
+<div id='5.2.1.2.'><h4> 5.2.1.2. Sprint Backlog 1. </h4></div>
+
+<div id='5.2.1.3.'><h4> 5.2.1.3. Development Evidence for Sprint Review. </h4></div>
+
+<div id='5.2.1.4.'><h4> 5.2.1.4. Testing Suite Evidence for Sprint Review. </h4></div>
+
+<div id='5.2.1.5.'><h4> 5.2.1.5. Execution Evidence for Sprint Review. </h4></div>
+
+<div id='5.2.1.6.'><h4> 5.2.1.6. Services Documentation Evidence for Sprint Review. </h4></div>
+
+<div id='5.2.1.7.'><h4> 5.2.1.7. Software Deployment Evidence for Sprint Review. </h4></div>
+
+<div id='5.2.1.8.'><h4> 5.2.1.8. Team Collaboration Insights during Sprint. </h4></div>
+
+<div id='6.'><h2>Conclusiones</h2></div>
+
+<div id='7.'><h2>Bibliografia</h2></div>
+
+<h3> Errores comunes en las asambleas de propietarios y como solucionarlos </h3>
+
+Link: https://www.propiedata.com/blog/errores-comunes-en-las-asambleas-de-propietarios-y-como-evitarlos/
+
+<h3> ¿Principales problemas de las comunidades de vecinos? </h3>
+
+Link: https://blog.eagora.app/problemas-comunidades-vecinos
+
+<h3> ¿Qué problemas son más comunes en una comunidad de vecinos? </h3>
+
+Link: https://www.solfinc.com/es/blog/problemas-mas-comunes-comunidad-de-vecinos/
+
+<h3> ¿Cómo organizar las juntas de vecinos y facilitar la participación? </h3>
+
+Link: https://www.aon.es/site/segurocomunidades/como-organizar-juntas-vecinos-facilitar-participacion/
+
+<h3> ¿Cómo organizar juntas de propietarios de manera eficiente? </h3>
+
+Link: https://www.grupocean.com/como-organizar-juntas-de-propietarios-de-manera-eficiente/
+
+<div id='8.'><h2>Anexos</h2></div>
