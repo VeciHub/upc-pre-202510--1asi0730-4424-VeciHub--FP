@@ -1805,25 +1805,13 @@ Cada mensaje enviado dentro de un chat grupal. Contiene el contenido, fecha, hor
 
 <div id='7.'><h2>Bibliografia</h2></div>
 
-<h3> Errores comunes en las asambleas de propietarios y como solucionarlos </h3>
+<h4> eAgora. (2025, 18 enero). ¿Principales problemas de las comunidades de vecinos? Problemas en comunidades. https://blog.eagora.app/problemas-comunidades-vecinos </h4>
 
-Link: https://www.propiedata.com/blog/errores-comunes-en-las-asambleas-de-propietarios-y-como-evitarlos/
+<h4> Contenido. (2025, 5 febrero). ¿Qué problemas son más comunes en una comunidad de vecinos? Grup Solfinc. https://www.solfinc.com/es/blog/problemas-mas-comunes-comunidad-de-vecinos/ </h4>
 
-<h3> ¿Principales problemas de las comunidades de vecinos? </h3>
+<h4> Pentralgo. (2024, 2 octubre). Cómo organizar las juntas de vecinos y facilitar la participación. Aon Comunidades. https://www.aon.es/site/segurocomunidades/como-organizar-juntas-vecinos-facilitar-participacion/ </h4>
 
-Link: https://blog.eagora.app/problemas-comunidades-vecinos
-
-<h3> ¿Qué problemas son más comunes en una comunidad de vecinos? </h3>
-
-Link: https://www.solfinc.com/es/blog/problemas-mas-comunes-comunidad-de-vecinos/
-
-<h3> ¿Cómo organizar las juntas de vecinos y facilitar la participación? </h3>
-
-Link: https://www.aon.es/site/segurocomunidades/como-organizar-juntas-vecinos-facilitar-participacion/
-
-<h3> ¿Cómo organizar juntas de propietarios de manera eficiente? </h3>
-
-Link: https://www.grupocean.com/como-organizar-juntas-de-propietarios-de-manera-eficiente/
+<h4> Jaime. (2024, 11 diciembre). Cómo organizar juntas de propietarios de manera eficiente. Grupo Ocean. https://www.grupocean.com/como-organizar-juntas-de-propietarios-de-manera-eficiente/ </h4>
 
 <div id='8.'><h2>Anexos</h2></div>
 
