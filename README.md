@@ -750,7 +750,7 @@ Capturas:
 
 Descripción: En esta entrevista presentamos a Mario Augusto como lider de su vecindario o localidad en la que vive actualmente. Le cuestionamos acerca de las dificultades que atraviezan las personas como él al momento de organizar reuniones vecinales, informar acerca de incidentes que pasan en la localidad, el casi nulo alcance que tienen sus mensajes al momento de ser enviados y la falta de un canal de mensajes que sepa diferenciar entre los mensajes importantes con los mundanos. Fueron un total de 8 preguntas y sus respuestas fueron tomadas encuenta para el desarrollo del trabajo con tal de satisfacer las necesidades de este grupo de individuos como lo pueden ser los líderes de vecindario.
 
-<p>Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210104_upc_edu_pe/EX2SnDzyMdVFuxQx-5oUhaEBOxLP-PK1CD0BO0kcja7zpQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=U45kXj</p>
+<p>Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210104_upc_edu_pe/EX2SnDzyMdVFuxQx-5oUhaEBOxLP-PK1CD0BO0kcja7zpQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=c1FJBm</p>
 
 <h4>Entrevista 3: Administrador / Junta Vecinal</h4>
 <table border="1" cellpadding="6" cellspacing="0">
