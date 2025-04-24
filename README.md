@@ -572,7 +572,7 @@ El Lean UX Canvas es una herramienta empleada dentro del enfoque de diseño cent
     <td>Saturación de apps similares y baja participación en comunidades desconectadas.</td>
     <td>Falta de escalabilidad en zonas informales o con poco acceso empresarial.</td>
     <td>Dependencia de la participación voluntaria sostenida en el tiempo.</td>
-    <td>Desplazamiento por redes sociales más generalistas como Facebook o X.</td>
+    <td>Desplazamiento por redes sociales más generalistas como Facebook o X (Twitter).</td>
     <td>Competencia de soluciones integradas más amplias en el sector inmobiliario.</td>
   </tr>
 </table>
@@ -706,8 +706,10 @@ El Lean UX Canvas es una herramienta empleada dentro del enfoque de diseño cent
 
 </div>
 
+-------
+
 **Segmento objetivo 2: Administradores / Juntas Vecinales**
-<h4>Entrevista 4: Administrador(a) / Junta Vecinal</h4>
+<h4>Entrevista 1: Administrador(a) / Junta Vecinal</h4>
 <table border="1" cellpadding="6" cellspacing="0">
   <tr><td><strong>Nombre Entrevistado</strong></td><td>Cielo Rafaile</td></tr>
   <tr><td><strong>Edad</strong></td><td>22 años</td></tr>
@@ -716,7 +718,7 @@ El Lean UX Canvas es una herramienta empleada dentro del enfoque de diseño cent
   <tr><td><strong>Duración de la Entrevista</strong></td><td>3:01 min</td></tr>
 </table>
 
-<h4>Entrevista 5: Administrador / Junta Vecinal</h4>
+<h4>Entrevista 2: Administrador / Junta Vecinal</h4>
 <table border="1" cellpadding="6" cellspacing="0">
   <tr><td><strong>Nombre Entrevistado</strong></td><td>Luis Ramírez</td></tr>
   <tr><td><strong>Edad</strong></td><td>48 años</td></tr>
