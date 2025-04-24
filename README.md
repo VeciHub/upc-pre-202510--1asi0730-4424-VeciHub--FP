@@ -51,7 +51,7 @@ Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la im
 |-|-|
 |Marllely Arias||
 |Javier Nikaido|Desarrollo del capítulo 3|
-|Kael Lagos| Desarrollo de la introducción, planteamiento de las hipotesis y modificación del documento para un mayor orden|
+|Kael Lagos| Desarrollo de la introducción, planteamiento de las hipotesis, inclusión de la bibliografía con links a paginas que se tomaron como referencia y modificación del documento para tener un mayor orden en la entrega.|
 |Sebastián Hernández||
 |Luciana Sanchez|Desarrollo del capitulo 4|
 |Adriana Diestra||
