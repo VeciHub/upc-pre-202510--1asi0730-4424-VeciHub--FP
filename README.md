@@ -709,7 +709,13 @@ Capturas:
     <tr><td><strong>Departamento</strong></td><td>Trujillo, Perú</td></tr>
     <tr><td><strong>Duración de la Entrevista</strong></td><td>2:03 min</td></tr>
   </table>
-  
+
+Capturas:
+
+![Administrador](Imagenes/Captura_EntrevistaCarlos.png)
+
+Descripción: Para el desarrollo de esta entrevista se le cuestionó a Carlos Gonzales sobre las dificultades que atraviesan los miembros de una comunidad de vecinos con respecto a la falta de comunicación al momento de leer comunicados importantes enviados por el lider de la comunidad vecinal, la falta de una plataforma que sepa destacar mensajes importantes en vez de que estos se pierdan por culpa de los mensajes mundanos y la carencia de un servicio que pueda ser usados por todos incluyendo las personas de la tercera edad tomando en cuenta sus dificultades al momento de utilizar este tipo de servicios tecnológicos.
+
 <p> Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c996_upc_edu_pe/EXf-L8xPFddJqU3nn1sbcjYBXhlYlrTYxP2_w_k2CeWOcw?e=WFOmDZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</p>
 
 
