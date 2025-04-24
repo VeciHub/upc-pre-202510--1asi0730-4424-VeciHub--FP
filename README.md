@@ -710,6 +710,9 @@ Capturas:
     <tr><td><strong>Duración de la Entrevista</strong></td><td>2:37 min</td></tr>
   </table>
 
+Capturas:
+
+<p>Link de la entrevista: </p>
 
 </div>
 
@@ -740,6 +743,10 @@ Link de la entrevista: https://goo.su/ZpGs
   <tr><td><strong>Departamento</strong></td><td>Barcelona</td></tr>
   <tr><td><strong>Duración de la Entrevista</strong></td><td>09:17 min</td></tr>
 </table>
+
+Capturas:
+
+<p>Link de la entrevista: </p>
 
 <h4>Entrevista 3: Administrador / Junta Vecinal</h4>
 <table border="1" cellpadding="6" cellspacing="0">
