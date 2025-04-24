@@ -1826,3 +1826,16 @@ Link: https://www.aon.es/site/segurocomunidades/como-organizar-juntas-vecinos-fa
 Link: https://www.grupocean.com/como-organizar-juntas-de-propietarios-de-manera-eficiente/
 
 <div id='8.'><h2>Anexos</h2></div>
+
+- Video (Mediación: Los problemas más comunes entre vecinos):
+https://youtu.be/k_hTu9tiZBQ?si=KUy4RykzvdKO9Yx6
+
+- Sitio Web (10 Ejemplos de Conflictos en la Comunidad: Conflicto Vecinal
+):
+https://blog.neivor.com/10-ejemplos-conflictos-comunidad-conflicto-vecinal
+
+- Sitio Web (¿Cómo resolver conflictos con vecinos y mejorar la convivencia?):
+https://grupolar.pe/blog/resolver-conflictos-vecinos-convivencia/
+
+- Video (¿Vecinos conflictivos? Recursos psicológicos para el manejo eficiente):
+https://www.youtube.com/live/IwGcWpS7KsM?si=77cy_HdVa836ewxT
