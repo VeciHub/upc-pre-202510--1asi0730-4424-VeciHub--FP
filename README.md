@@ -681,6 +681,8 @@ El Lean UX Canvas es una herramienta empleada dentro del enfoque de diseño cent
 
 ![Vecino](Imagenes/Captura_EntrevistaSebastian.png)
 
+Descripción: Para el desarrollo de esta entrevista contamos con el apoyo de Sebastian Rubio, quien nos comenta un poco sobre las dificultades que atravaiezan los vecinos al momento de organizar reuniones ya sea por llamadas grupales o al momento de recibir comunicados importantes por parte del lider de la comunidad vecinal via mensajes de texto. Con sus respuestas nos llegamos a hacer una idea sobre las cosas que deberiamos implementar en nuestro proyecto para satisfacer a este grupo de personas.
+
 <p>
   Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c996_upc_edu_pe/EYicFbIC0ehLqKKLTEiyWhABNnfdwshVb2NTb0PLQVqJ9w?e=iVov2c&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 </p>
@@ -698,6 +700,8 @@ El Lean UX Canvas es una herramienta empleada dentro del enfoque de diseño cent
 Capturas:
 
 ![Vecino](Imagenes/Captura_EntrevistaArnold.png)
+
+Descripción: Para esta entrevista se contó con el apoyo de Arnold Quispe, quien nos brindó un poco de su tiempo para cuestionarle acerca de las dificultades que atraviezan los vecinos al momento de organizar reuniones para estar al tanto de eventos que se llevan a cabo esa semana o también la importancia de contar con un servicio que les permita estár informados acerca de posibles incidentes que pasen en ese mismo momento ya sea una persona herida o si acaso ocurrio un robo. A partir de sus respuestas, nos encargamos de tomar nota para luego implementarlas en nuestro proyecto con tal de satisfacer a este grupo de personas que son integrantes de una comunidad de vecinos.
 
 <p>Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c996_upc_edu_pe/EXXuOCnYRv5DszBkkLFXH8EBBODemMApdKDYZpIV7YpSrA?e=9N0P3A&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D </p>
 
@@ -861,7 +865,7 @@ Descripción: En esta entrevista presentamos a Mario Augusto como lider de su ve
   </tr>
 </table>
 <br>
-<h5>Análisis de la Entrevista - Luis Ramírez</h5>
+<h5>Análisis de la Entrevista - Mario Augusto</h5>
 <table border="1" cellpadding="6" cellspacing="0">
   <tr>
     <td><strong>Medios de Comunicación</strong></td>
@@ -869,31 +873,31 @@ Descripción: En esta entrevista presentamos a Mario Augusto como lider de su ve
   </tr>
   <tr>
     <td><strong>Herramientas Actuales</strong></td>
-    <td>Coordina actividades y comunicaciones mediante WhatsApp, correo electrónico y llamadas directas a vecinos.</td>
+    <td>Coordina actividades y comunicaciones mediante WhatsApp, correo electrónico o llamadas directas a vecinos en línea.</td>
   </tr>
   <tr>
     <td><strong>Dificultades para la Participación</strong></td>
-    <td>Falta de respuesta o confirmación por parte de los vecinos. Se requiere insistencia para obtener participación activa.</td>
+    <td>Falta de respuesta o confirmación por parte de los vecinos. Se requiere insistencia para obtener participación activa. Poco alcance de los mensajes importantes</td>
   </tr>
   <tr>
     <td><strong>Problemas con los Canales Actuales</strong></td>
-    <td>Existe desorganización al manejar múltiples canales. Se pierde información importante y hay confusión entre anuncios oficiales y mensajes personales.</td>
+    <td>Existe desorganización al manejar múltiples canales. Se pierde información importante y hay confusión entre anuncios oficiales y mensajes personales o mundanos que distraen a los vecinos.</td>
   </tr>
   <tr>
     <td><strong>Información Crítica a Comunicar</strong></td>
-    <td>Pagos, mantenimientos, fechas de reuniones, temas de seguridad. Requiere medios que garanticen visibilidad y lectura de estos avisos.</td>
+    <td>Pagos, mantenimientos, fechas de reuniones, temas de seguridad. Requiere medios que garanticen visibilidad y lectura de estos avisos, asi como un filtro que diferencie estos 2 tipos de mensajes.</td>
   </tr>
   <tr>
     <td><strong>Interés en Plataforma Digital</strong></td>
-    <td>Muy interesado. Busca centralizar avisos, votaciones, quejas y actividades en una sola herramienta digital.</td>
+    <td>Muy interesado sobre la propuesta. Busca centralizar avisos, votaciones, quejas y actividades en una sola herramienta digital.</td>
   </tr>
   <tr>
     <td><strong>Funcionalidades Deseadas</strong></td>
-    <td>Confirmación de lectura de anuncios, votaciones en línea, calendario integrado, buzón de sugerencias, control de asistencia y reportes.</td>
+    <td>Confirmación de lectura de anuncios, votaciones en línea, calendario integrado, filtro para mensajes importantes, buzón de sugerencias, control de asistencia y reportes.</td>
   </tr>
   <tr>
     <td><strong>Disposición a Implementar la App</strong></td>
-    <td>Totalmente dispuesto, siempre que sea sencilla de utilizar y le permita reducir carga operativa.</td>
+    <td>Totalmente dispuesto, siempre que sea sencilla de utilizar, facíl de entender y le permita reducir una gran carga operativa.</td>
   </tr>
 </table>
 <div id='2.3.'><h3> 2.3. Needfinding</h3></div>
