@@ -677,11 +677,14 @@ El Lean UX Canvas es una herramienta empleada dentro del enfoque de diseño cent
     <tr><td><strong>Duración de la Entrevista</strong></td><td>13:45 min</td></tr>
   </table>
 
+  Capturas:
+
+![Vecino](Imagenes/Captura_EntrevistaSebastian.png)
+
 <p>
   Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c996_upc_edu_pe/EYicFbIC0ehLqKKLTEiyWhABNnfdwshVb2NTb0PLQVqJ9w?e=iVov2c&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 </p>
 
-  
 
  <h4>Entrevista 2: Vecina / Residente</h4>
 <table border="1" cellpadding="6" cellspacing="0">
@@ -691,6 +694,10 @@ El Lean UX Canvas es una herramienta empleada dentro del enfoque de diseño cent
   <tr><td><strong>Departamento</strong></td><td>Lima, Perú</td></tr>
   <tr><td><strong>Duración de la Entrevista</strong></td><td>2:47 min</td></tr>
 </table>
+
+Capturas:
+
+![Vecino](Imagenes/Captura_EntrevistaArnold.png)
 
 <p>Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c996_upc_edu_pe/EXXuOCnYRv5DszBkkLFXH8EBBODemMApdKDYZpIV7YpSrA?e=9N0P3A&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D </p>
 
