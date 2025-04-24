@@ -718,6 +718,13 @@ El Lean UX Canvas es una herramienta empleada dentro del enfoque de diseño cent
   <tr><td><strong>Duración de la Entrevista</strong></td><td>3:01 min</td></tr>
 </table>
 
+Capturas: 
+![Administrador](Imagenes/EntrevistaCielo.png)
+
+Descripción: Se entrevistó a una administradora vecinal, quien compartió su experiencia gestionando la comunicación con los vecinos a través de juntas presenciales y grupos de WhatsApp. Comentó las dificultades para lograr la participación activa de la comunidad, el desorden en los canales actuales y la importancia de contar con una plataforma digital que centralice votaciones.
+
+Link de la entrevista: https://goo.su/ZpGs
+
 <h4>Entrevista 2: Administrador / Junta Vecinal</h4>
 <table border="1" cellpadding="6" cellspacing="0">
   <tr><td><strong>Nombre Entrevistado</strong></td><td>Luis Ramírez</td></tr>
@@ -727,33 +734,14 @@ El Lean UX Canvas es una herramienta empleada dentro del enfoque de diseño cent
   <tr><td><strong>Duración de la Entrevista</strong></td><td>09:17 min</td></tr>
 </table>
 
-
-
-
-Capturas: 
-![Administrador](Imagenes/EntrevistaCielo.png)
-
-Descripción: Se entrevistó a una administradora vecinal, quien compartió su experiencia gestionando la comunicación con los vecinos a través de juntas presenciales y grupos de WhatsApp. Comentó las dificultades para lograr la participación activa de la comunidad, el desorden en los canales actuales y la importancia de contar con una plataforma digital que centralice votaciones.
-
-Link de la entrevista: https://goo.su/ZpGs
-
-Entrevista 2:
-----------------------
-Nombre del entrevistado: 
-
-Edad: 
-
-Profesión:
-
-Departamento: 
-
-Duración de la Entrevista: 
-
-Capturas: 
-
-Descripción: 
-
-Link de la entrevista: 
+<h4>Entrevista 3: Administrador / Junta Vecinal</h4>
+<table border="1" cellpadding="6" cellspacing="0">
+  <tr><td><strong>Nombre Entrevistado</strong></td><td>Poner nombre</td></tr>
+  <tr><td><strong>Edad</strong></td><td>Poner edad</td></tr>
+  <tr><td><strong>Profesión</strong></td><td>Poner profesión</td></tr>
+  <tr><td><strong>Departamento</strong></td><td>Poner departamento</td></tr>
+  <tr><td><strong>Duración de la Entrevista</strong></td><td>Poner duración</td></tr>
+</table>
 
 
 <div id='2.2.3.'><h4> 2.2.3. Análisis de entrevistas</h4></div>
