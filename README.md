@@ -66,7 +66,7 @@ Los integrantes son:
 
 * Marllely Arias (kuwuk0)
 * Javier Nikaido ()
-* Kael Lagos ()
+* Kael Lagos (Kaellagos)
 * Sebastián Hernández (M1sterDG)
 * Luciana Sanchez (Luccsss)
 * Adriana Diestra ()
