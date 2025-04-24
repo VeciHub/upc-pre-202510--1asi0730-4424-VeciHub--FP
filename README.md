@@ -703,16 +703,15 @@ Capturas:
 
   <h4>Entrevista 3: Vecino / Residente</h4>
   <table border="1" cellpadding="6" cellspacing="0">
-    <tr><td><strong>Nombre Entrevistado</strong></td><td>Camila Romero</td></tr>
-    <tr><td><strong>Edad</strong></td><td>24 años</td></tr>
-    <tr><td><strong>Profesión</strong></td><td>Estudiante universitaria</td></tr>
+    <tr><td><strong>Nombre Entrevistado</strong></td><td>Carlos Gonzales</td></tr>
+    <tr><td><strong>Edad</strong></td><td>20 años</td></tr>
+    <tr><td><strong>Profesión</strong></td><td>Estudiante universitario</td></tr>
     <tr><td><strong>Departamento</strong></td><td>Trujillo, Perú</td></tr>
-    <tr><td><strong>Duración de la Entrevista</strong></td><td>2:37 min</td></tr>
+    <tr><td><strong>Duración de la Entrevista</strong></td><td>2:03 min</td></tr>
   </table>
+  
+<p> Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c996_upc_edu_pe/EXf-L8xPFddJqU3nn1sbcjYBXhlYlrTYxP2_w_k2CeWOcw?e=WFOmDZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</p>
 
-Capturas:
-
-<p>Link de la entrevista: </p>
 
 </div>
 
@@ -804,7 +803,7 @@ Capturas:
 </table>
 <br>
 
-  <h5>Análisis de la Entrevista - Camila Romero</h5>
+  <h5>Análisis de la Entrevista - Carlos Gonzales</h5>
   <table border="1" cellpadding="6" cellspacing="0">
     <tr><td><strong>Fuentes de Información</strong></td><td>Redes sociales o comentarios familiares.</td></tr>
     <tr><td><strong>Canales de Comunicación</strong></td><td>WhatsApp, aunque considera desorganizado el grupo vecinal.</td></tr>
