@@ -1831,19 +1831,120 @@ Cada mensaje enviado dentro de un chat grupal. Contiene el contenido, fecha, hor
 
 <div id='5.'><h2>Capítulo V: Profuct Implementation Validation & Deployment</h2></div>
 
+
 <div id='5.1.'><h3> 5.1. Software Configuration Management.</h3></div>
+
+En esta sección se detallan todas las reglas y procesos que hemos seguido en el proyecto al momento de crear y desplegar la aplicación web de VeciHub. El objetivo de estas reglas y procesos es garantizar la integridad y consistencia del software, desde el inicio hasta el despliegue y mantenimiento.
 
 <div id='5.1.1.'><h4> 5.1.1. Software Development Environment Configuration. </h4></div>
 
+##### Project Management
+
+Para la organización del proyecto utilizamos herramientas de asignación de tareas, plataformas y puntos de reunión, y un repositorio donde trabajaremos en conjunto cada avance del proyecto.
+
+- Centro de organización de trabajo: GitHub  
+- Planificación de tareas: Pivotal Tracker  
+- Reuniones con el equipo: Google Meet  
+- Comunicación grupal: WhatsApp
+
+##### Requirements Management
+
+Utilizamos Pivotal Tracker para diseñar las tareas y actividades de cada integrante del grupo en caso de revisión o cambios.
+
+| Herramienta       | Descripción                                                                 | Enlace                                         |
+|-------------------|-----------------------------------------------------------------------------|-----------------------------------------------|
+| Pivotal Tracker   | Para asignar tareas y actividades del equipo.                               | https://www.pivotaltracker.com/               |
+
+##### Product UX/UI Design
+
+Para el diseño de los wireframes y mockups, además de la realización del prototipo de la Web App, utilizamos Figma.
+
+| Herramienta | Descripción                                                    | Enlace                      |
+|-------------|----------------------------------------------------------------|-----------------------------|
+| Figma       | Para el diseño de wireframes, mockups y prototipos interactivos | https://www.figma.com/      |
+
+##### Software Development
+
+Usamos HTML y CSS como lenguajes principales en el desarrollo del frontend de la aplicación.
+
+| Herramienta | Descripción                                                      | Enlace                                      |
+|-------------|------------------------------------------------------------------|---------------------------------------------|
+| HTML        | Lenguaje base de etiquetado para aplicaciones web.               | https://www.w3schools.com/html/default.asp  |
+| CSS         | Lenguaje de estilos utilizado para la apariencia visual.         | https://www.w3schools.com/css/default.asp   |
+
+##### Software Deployment
+
+Para el despliegue utilizamos las siguientes plataformas:
+
+| Herramienta     | Descripción                                           | Enlace                                |
+|-----------------|-------------------------------------------------------|---------------------------------------|
+| GitHub Pages    | Para el despliegue de la landing page.                | https://pages.github.com              |
+
+
+##### Software Documentation
+
+La documentación del proyecto fue elaborada usando GitHub y Markdown.
+
+| Herramienta | Descripción                                     | Enlace                                  |
+|-------------|-------------------------------------------------|-----------------------------------------|
+| GitHub      | Para gestionar la documentación del proyecto.  | https://github.com/VeciHub              |
+| Markdown    | Para documentar procesos y funcionalidades.    | https://markdown.es/                    |
+
 <div id='5.1.2.'><h4> 5.1.2. Source Code Management. </h4></div>
+Para el control del código fuente, utilizamos los siguientes repositorios:
+
+| Producto         | Repositorio           | URL                                                           |
+|------------------|------------------------|----------------------------------------------------------------|
+| Landing Page     | VeciHub-Landing-Page   | https://github.com/VeciHub/Landing-Page                       |
+| Frontend App     | VeciHub-Frontend       | https://github.com/VeciHub/Frontend                           |
+| Backend Simulado | VeciHub-Backend        | https://github.com/VeciHub/Backend                            |
 
 <div id='5.1.3.'><h4> 5.1.3. Source Code Style Guide & Conventions. </h4>
+
+Para asegurar calidad, coherencia y mantenibilidad del código, seguimos las siguientes convenciones:
+
+**HTML:**
+- Uso de etiquetas semánticas (`<header>`, `<nav>`, `<main>`, `<footer>`, etc.).
+- Nombres de clases e identificadores en inglés y usando kebab-case.
+- Todas las etiquetas correctamente cerradas.
+- Codificación en UTF-8.
+- Inclusión explícita de extensiones en archivos referenciados (`.css`).
+- 
+**Etiquetas utilizadas:**
+- `<header>`, `<nav>`, `<div>`, `<img>`, `<ul>`, `<li>`, `<a>`, `<p>`, `<button>`, `<h1>` a `<h4>`.
+
+**CSS:**
+- Clases nombradas según su propósito (`.main-title`, `.user-card`, etc.).
+- Separación de palabras por guiones (`-`).
+- Imágenes adaptadas al contenedor (`width: 100%` o `max-width`).
+- Estilo base: `* { margin: 0; padding: 0; box-sizing: border-box; }`
 
 
 
 </div>
 
 <div id='5.1.4.'><h4> 5.1.4. Software Deployment Configuration. </h4></div>
+
+Para el despliegue del producto, se siguieron estrategias específicas según el componente:
+----------------
+**Landing Page (GitHub Pages):**
+- Todos los archivos están construidos únicamente con HTML y CSS.
+- Subidos al repositorio público de GitHub.
+- Configuración del despliegue a través de `Settings > Pages`, eligiendo la rama `main` y la carpeta raíz (`/root`).
+- La página se publica automáticamente en la URL proporcionada por GitHub Pages.
+  --------------
+**Requisitos para el despliegue:**
+- Código fuente estático en HTML y CSS.
+- Repositorio público en GitHub.
+- Permisos de edición y colaboración para todo el equipo.
+- Navegador moderno compatible para pruebas.
+------------
+**Pasos realizados:**
+1. Subida del código fuente al repositorio `VeciHub/Landing-Page`.
+2. Acceso a la configuración del repositorio en GitHub.
+3. Activación de GitHub Pages desde la rama `main`.
+4. Verificación del despliegue accediendo a la URL generada.
+5. Pruebas funcionales básicas (links, imágenes, responsividad).
 
 <div id='5.2.'><h3> 5.2. Landing Page, Services & Applications Implementation.</h3></div>
 
