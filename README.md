@@ -1852,15 +1852,63 @@ Cada mensaje enviado dentro de un chat grupal. Contiene el contenido, fecha, hor
 </div>
 
 <div id='5.2.1.5.'><h4> 5.2.1.5. Execution Evidence for Sprint Review. </h4>
-<p>La ejecución del proyecto puede visualizarse a través del siguiente despliegue de la Landing Page de VeciHub:</p>
-<p><strong>Enlace:</strong> <a href="https://nrg3-appweb.github.io/Landing-Page/" target="_blank">https://nrg3-appweb.github.io/Landing-Page/</a></p>
+<p>La ejecución del proyecto puede visualizarse a través del siguiente despliegue de la Landing Page de VeciHub: https://vecihub.github.io/landing-page/</p>
+<section id="secciones-clave" style="font-family: Arial, sans-serif; padding: 2rem;">
+  <h2>🔑 Secciones Clave Presentes en VeciHub</h2>
+  
+  <article>
+    <h3>1. Encabezado (Hero Section)</h3>
+    <p>Título poderoso: <strong>“Tu comunidad vecinal virtual”</strong>. Subtítulo con propuesta de valor y botones de acción como <em>“Empieza ahora”</em> y <em>“Ver más”</em>. Incluye imagen de fondo representando unión comunitaria.</p>
+  </article>
+
+  <article>
+    <h3>2. Beneficios principales (3 columnas)</h3>
+    <p>Íconos con textos breves que destacan:</p>
+    <ul>
+      <li>Notificaciones comunitarias.</li>
+      <li>Comunicación vecinal eficiente.</li>
+      <li>Organización de eventos comunitarios.</li>
+    </ul>
+  </article>
+
+  <article>
+    <h3>3. Sección de funcionalidades destacadas</h3>
+    <p>Lista de funciones útiles como votaciones, reportes, botón de pánico, formularios. Acompañado de imagen humana que genera conexión emocional.</p>
+  </article>
+
+  <article>
+    <h3>4. Planes de pago</h3>
+    <p>Comparativa visual entre <strong>Básico, Premium y Profesional</strong>. Cada tarjeta incluye precio, características y botón de “Aplicar”.</p>
+  </article>
+
+  <article>
+    <h3>5. Testimonios de usuarios reales</h3>
+    <p>Reseñas breves con nombre, cargo y comentario positivo que refuerzan la confianza en la plataforma.</p>
+  </article>
+
+  <article>
+    <h3>6. Formulario de contacto</h3>
+    <p>Formulario claro con campos esenciales: nombre, email, mensaje. Acompañado de frase motivadora: <strong>“Tu comunidad necesita tu voz. ¡Escríbenos!”</strong>.</p>
+  </article>
+
+  <article>
+    <h3>7. Footer (pie de página)</h3>
+    <p>Incluye datos de contacto, enlaces secundarios de navegación y acceso a redes sociales oficiales de VeciHub.</p>
+  </article>
+</section>
+
+
+
 
 </div>
 
 <div id='5.2.1.6.'><h4> 5.2.1.6. Services Documentation Evidence for Sprint Review. </h4>
 <p>No se hizo uso de servicios externos en este primer sprint. Todas las funcionalidades implementadas corresponden al desarrollo front-end básico de la landing page.</p>
 
-<h2>5.2.1.7. Software Deployment Evidence for Sprint Review</h2>
+</div>
+
+<div id='5.2.1.7.'><h4> 5.2.1.7. Software Deployment Evidence for Sprint Review. </h4></div>
+
 <p>Para el diseño y despliegue del prototipo visual, se utilizó <strong>Figma</strong> como herramienta de diseño colaborativo.</p>
 <ul>
   <li>Se creó un archivo compartido para la elaboración de los <em>mock-ups</em> y <em>wireframes</em> de las secciones de la landing.</li>
@@ -1885,10 +1933,6 @@ Cada mensaje enviado dentro de un chat grupal. Contiene el contenido, fecha, hor
   <p>
     🔗 <a href="https://vecihub.github.io/landing-page/" target="_blank"><strong>https://vecihub.github.io/landing-page/</strong></a>
   </p>
-</div>
-</div>
-
-<div id='5.2.1.7.'><h4> 5.2.1.7. Software Deployment Evidence for Sprint Review. </h4></div>
 
 <div id='5.2.1.8.'><h4> 5.2.1.8. Team Collaboration Insights during Sprint. </h4></div>
 
