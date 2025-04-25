@@ -1791,7 +1791,11 @@ Cada mensaje enviado dentro de un chat grupal. Contiene el contenido, fecha, hor
 
 <div id='5.1.2.'><h4> 5.1.2. Source Code Management. </h4></div>
 
-<div id='5.1.3.'><h4> 5.1.3. Source Code Style Guide & Conventions. </h4></div>
+<div id='5.1.3.'><h4> 5.1.3. Source Code Style Guide & Conventions. </h4>
+
+
+
+</div>
 
 <div id='5.1.4.'><h4> 5.1.4. Software Deployment Configuration. </h4></div>
 
@@ -1803,13 +1807,86 @@ Cada mensaje enviado dentro de un chat grupal. Contiene el contenido, fecha, hor
 
 <div id='5.2.1.2.'><h4> 5.2.1.2. Sprint Backlog 1. </h4></div>
 
-<div id='5.2.1.3.'><h4> 5.2.1.3. Development Evidence for Sprint Review. </h4></div>
+<div id='5.2.1.3.'><h4> 5.2.1.3. Development Evidence for Sprint Review. </h4>
 
-<div id='5.2.1.4.'><h4> 5.2.1.4. Testing Suite Evidence for Sprint Review. </h4></div>
+<p>En esta sección se presentan las evidencias del desarrollo de la <strong>Landing Page de VeciHub</strong> durante el primer sprint de desarrollo.</p>
+<p>A continuación se muestra una recopilación de los commits realizados en el repositorio de GitHub que demuestran el progreso en la implementación de la interfaz inicial:</p>
 
-<div id='5.2.1.5.'><h4> 5.2.1.5. Execution Evidence for Sprint Review. </h4></div>
+<table border="1" cellspacing="0" cellpadding="5">
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit Message</th>
+      <th>Commit Message Body</th>
+      <th>Commited on (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/NRG3-appweb/Landing-Page">Repositorio</a></td>
+      <td>main</td>
+      <td>eef4365</td>
+      <td>Initial commit</td>
+      <td>Initial commit</td>
+      <td>18/08/2024</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/NRG3-appweb/Landing-Page">Repositorio</a></td>
+      <td>develop</td>
+      <td>359e599</td>
+      <td>feat(landing): add html file</td>
+      <td>feat(landing): add html file</td>
+      <td>04/09/2024</td>
+    </tr>
+    <tr>
+      <td colspan="6" align="center"><em>(...otros commits resumidos para brevedad...)</em></td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
-<div id='5.2.1.6.'><h4> 5.2.1.6. Services Documentation Evidence for Sprint Review. </h4></div>
+<div id='5.2.1.4.'><h4> 5.2.1.4. Testing Suite Evidence for Sprint Review. </h4>
+<p>Durante este primer sprint no se realizaron pruebas automatizadas, ya que el objetivo principal fue el desarrollo visual de la landing page.</p>
+</div>
+
+<div id='5.2.1.5.'><h4> 5.2.1.5. Execution Evidence for Sprint Review. </h4>
+<p>La ejecución del proyecto puede visualizarse a través del siguiente despliegue de la Landing Page de VeciHub:</p>
+<p><strong>Enlace:</strong> <a href="https://nrg3-appweb.github.io/Landing-Page/" target="_blank">https://nrg3-appweb.github.io/Landing-Page/</a></p>
+
+</div>
+
+<div id='5.2.1.6.'><h4> 5.2.1.6. Services Documentation Evidence for Sprint Review. </h4>
+<p>No se hizo uso de servicios externos en este primer sprint. Todas las funcionalidades implementadas corresponden al desarrollo front-end básico de la landing page.</p>
+
+<h2>5.2.1.7. Software Deployment Evidence for Sprint Review</h2>
+<p>Para el diseño y despliegue del prototipo visual, se utilizó <strong>Figma</strong> como herramienta de diseño colaborativo.</p>
+<ul>
+  <li>Se creó un archivo compartido para la elaboración de los <em>mock-ups</em> y <em>wireframes</em> de las secciones de la landing.</li>
+  <li>Se definió el sistema de estilos, botones y distribución de contenido en base a los lineamientos de identidad de VeciHub.</li>
+  <li>Enlace a Figma: https://www.figma.com/design/XTyJhfQqXY1GsnkyTzIla1/VeciHub-Web-Application?node-id=5-755 </li>
+</ul>
+<p>Esta herramienta fue clave para alinear los esfuerzos del equipo en cuanto a estructura visual y coherencia en la experiencia del usuario final.</p>
+<h3>Despliegue</h3>
+  <p>
+    Para ejecutar los procesos correspondientes a este sprint enfocados en el desarrollo de la <strong>landing page de VeciHub</strong>, se creó una <strong>organización en GitHub</strong> con el nombre <strong>VeciHub</strong>, y dentro de ella, un repositorio específico llamado <strong>"landing-page"</strong>.
+  </p>
+  <h4>Detalles del proceso:</h4>
+  <ul>
+    <li>Se registró una cuenta en <a href="https://github.com/" target="_blank">GitHub</a> y se configuró la organización <strong>VeciHub</strong>.</li>
+    <li>Se creó el repositorio <strong>landing-page</strong>, destinado exclusivamente al desarrollo de la interfaz inicial.</li>
+    <li>Se trabajó en la <strong>rama <code>23042025</code></strong>, donde se estructuró la landing page.</li>
+    <li>Durante este sprint, el desarrollo se centró en la maquetación utilizando <strong>HTML y CSS</strong>, sin integrar JavaScript aún.</li>
+  </ul>
+  <p>
+    La landing page está disponible para su visualización pública en el siguiente enlace:
+  </p>
+  <p>
+    🔗 <a href="https://vecihub.github.io/landing-page/" target="_blank"><strong>https://vecihub.github.io/landing-page/</strong></a>
+  </p>
+</div>
+</div>
 
 <div id='5.2.1.7.'><h4> 5.2.1.7. Software Deployment Evidence for Sprint Review. </h4></div>
 
