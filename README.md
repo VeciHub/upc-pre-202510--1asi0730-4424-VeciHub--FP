@@ -1896,6 +1896,58 @@ Cada mensaje enviado dentro de un chat grupal. Contiene el contenido, fecha, hor
     <p>Incluye datos de contacto, enlaces secundarios de navegación y acceso a redes sociales oficiales de VeciHub.</p>
   </article>
 </section>
+<section id="capturas-landing" style="font-family: Arial, sans-serif; padding: 2rem;">
+  <h2>📸 Capturas de la Landing Page de VeciHub</h2>
+  <p>A continuación se presentan capturas de pantalla que documentan cada una de las secciones clave de la landing page del proyecto <strong>VeciHub</strong>.</p>
+
+  <div style="margin-top: 2rem;">
+    <h3>1. Hero - Encabezado Principal</h3>
+    <img src="Imagenes/Captura de pantalla 2025-04-24 195048.png" alt="Hero Section VeciHub" style="width: 100%; max-width: 900px; border-radius: 8px;">
+    <p>Sección de introducción con eslogan "Tu comunidad vecinal virtual" y botones de acción: “Empieza ahora” y “Ver más”.</p>
+  </div>
+
+  <div style="margin-top: 2rem;">
+    <h3>2. Beneficios Clave</h3>
+    <img src="Imagenes/Captura de pantalla 2025-04-24 195054.png" alt="Beneficios VeciHub" style="width: 100%; max-width: 900px; border-radius: 8px;">
+    <p>Destaca las principales ventajas: notificaciones, comunicación vecinal y organización de eventos.</p>
+  </div>
+
+  <div style="margin-top: 2rem;">
+    <h3>3. Funcionalidades de la Plataforma</h3>
+    <img src="Imagenes/Captura de pantalla 2025-04-24 195102.png" alt="Funcionalidades VeciHub" style="width: 100%; max-width: 900px; border-radius: 8px;">
+    <p>Lista de herramientas como agendado de reuniones, votaciones, botón de pánico y asignación de cargos.</p>
+  </div>
+
+  <div style="margin-top: 2rem;">
+    <h3>4. Planes de Pago</h3>
+    <img src="Imagenes/Captura de pantalla 2025-04-24 195110.png" alt="Planes de Pago VeciHub" style="width: 100%; max-width: 900px; border-radius: 8px;">
+    <p>Comparativa entre los planes Básico, Premium y Profesional con beneficios y precios mensuales.</p>
+  </div>
+
+  <div style="margin-top: 2rem;">
+    <h3>5. Testimonios Reales</h3>
+    <img src="Imagenes/Captura de pantalla 2025-04-24 195116.png" alt="Testimonios VeciHub" style="width: 100%; max-width: 900px; border-radius: 8px;">
+    <p>Reseñas de usuarios que usan VeciHub en sus comunidades con diferentes roles: vecinos, presidentes, coordinadores.</p>
+  </div>
+
+  <div style="margin-top: 2rem;">
+    <h3>6. Formulario de Contacto</h3>
+    <img src="Imagenes/Captura de pantalla 2025-04-24 195122.png" alt="Formulario de contacto VeciHub" style="width: 100%; max-width: 900px; border-radius: 8px;">
+    <p>Formulario con campos para nombre, correo, teléfono y mensaje. Incluye CTA “Enviar a VeciHub”.</p>
+  </div>
+
+  <div style="margin-top: 2rem;">
+    <h3>7. Footer Informativo</h3>
+    <img src="Imagenes/Captura de pantalla 2025-04-24 195128.png" alt="Footer VeciHub" style="width: 100%; max-width: 900px; border-radius: 8px;">
+    <p>Contiene información de contacto, enlaces rápidos y redes sociales oficiales de VeciHub.</p>
+  </div>
+
+  <div style="margin-top: 2rem;">
+    <h3>8. Barra de Navegación General</h3>
+    <img src="Imagenes/Captura de pantalla 2025-04-24 195041.png" alt="Navbar VeciHub" style="width: 100%; max-width: 900px; border-radius: 8px;">
+    <p>Menú de navegación con logo, secciones principales y botones de “Iniciar sesión” y “Crear cuenta”.</p>
+  </div>
+</section>
 
 
 
