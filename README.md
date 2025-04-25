@@ -2137,6 +2137,36 @@ Para el despliegue del producto, se siguieron estrategias específicas según el
 
 <div id='6.'><h2>Conclusiones</h2></div>
 
+Tras indigar en la información de distintos sitios web y analizar todas las entrevistas realizadas, hemos llegado a la conclusión de que una plataforma para vecinos o lideres de vecindario es muy importante hoy en día. Hoy en día vivimos en la epoca de la modernidad tecnologica, vivimos rodeados de internet, dispositivos inteligentes como celulares, computadoras de escritorio o portatiles y canales de comunicación como lo pueden ser las redes sociales.
+
+Pero a pesar de la epoca actual aún hay una gran mayoria de personas a las cuales se les complica adaptarse a las tecnologías actuales ya sea porque quieren ser más practicos o porque no ven necesario aprender ese tipo de cosas. 
+Para este tipo de problematicas llega la propuesta de VeciHub que surge como una solución tecnológica innovadora frente a los problemas de comunicación, desorganización e inseguridad que afectan a muchas comunidades vecinales. 
+Al ofrecer una plataforma digital que integra foros, alertas en tiempo real, votaciones y herramientas de organización, el proyecto busca fortalecer el tejido social de las comunidades, fomentando la participación activa, la confianza mutua y la prevención de conflictos.
+
+El diseño de VeciHub no solo responde a una necesidad creciente en entornos urbanos y residenciales, sino que también representa una oportunidad para impulsar el uso de tecnología con propósito social para aquellas personas que todavía no llegan a darle la importancia necesaria por considerarlo algo innecesario para ellos. Gracias a su enfoque intuitivo y funcional, la aplicación puede adaptarse tanto a jóvenes vecinos como a adultos mayores o administradores que no están familiarizados con herramientas digitales complejas.
+
+Algunas recomendaciones a tomar en consideración serian:
+
+- Fomentar el onboarding y la educación digital
+
+Es clave ofrecer tutoriales simples o sesiones informativas para que todos los vecinos, independientemente de su nivel digital, puedan usar la app con facilidad.
+
+- Mantener una interfaz simple y accesible
+  
+La experiencia de usuario debe priorizar la claridad visual, el lenguaje sencillo y la facilidad de navegación para maximizar la adopción.
+
+- Garantizar la privacidad y seguridad de los datos
+  
+Al tratarse de una comunidad cerrada, es fundamental implementar mecanismos de verificación y encriptación que protejan la identidad y ubicación de los usuarios.
+
+- Escuchar continuamente a la comunidad usuaria
+  
+Abrir canales para recibir retroalimentación permitirá mejorar la app constantemente y adaptarla a las necesidades reales de cada vecindario.
+
+- Establecer alianzas con municipalidades o asociaciones vecinales
+  
+Esto facilitará su implementación a gran escala y dará mayor legitimidad a la plataforma dentro de los barrios.
+
 <div id='7.'><h2>Bibliografia</h2></div>
 
 <h4> eAgora. (2025, 18 enero). ¿Principales problemas de las comunidades de vecinos? Problemas en comunidades. https://blog.eagora.app/problemas-comunidades-vecinos </h4>
