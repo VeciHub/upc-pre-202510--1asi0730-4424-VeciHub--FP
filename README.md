@@ -764,13 +764,21 @@ Descripción: En esta entrevista presentamos a Mario Augusto como lider de su ve
 
 <h4>Entrevista 3: Administrador / Junta Vecinal</h4>
 <table border="1" cellpadding="6" cellspacing="0">
-  <tr><td><strong>Nombre Entrevistado</strong></td><td>Poner nombre</td></tr>
-  <tr><td><strong>Edad</strong></td><td>Poner edad</td></tr>
-  <tr><td><strong>Profesión</strong></td><td>Poner profesión</td></tr>
-  <tr><td><strong>Departamento</strong></td><td>Poner departamento</td></tr>
-  <tr><td><strong>Duración de la Entrevista</strong></td><td>Poner duración</td></tr>
+  <tr><td><strong>Nombre Entrevistado</strong></td><td>Roberto Carlos Figueroa</td></tr>
+  <tr><td><strong>Edad</strong></td><td>56 años</td></tr>
+  <tr><td><strong>Profesión</strong></td><td>Médico especialista</td></tr>
+  <tr><td><strong>Departamento</strong></td><td>Lima</td></tr>
+  <tr><td><strong>Duración de la Entrevista</strong></td><td>9:54 minutos</td></tr>
 </table>
 
+Capturas:
+
+![Administrador](Imagenes/Captura_EntrevistaRoberto1.png)
+![Administrador](Imagenes/Captura_EntrevistaRoberto2.png)
+
+Descripción: En esta entrevista contamos con el apoyo de Roberto Carlos Figueroa como el lider de su vecindario o localidad en la que vive actualmente. Le preguntamos acerca de las muchas dificultades que llegan a atravezar los jefes de vecindario al momento de organizar reuniones vecinales, informar acerca de incidentes que pasan en la localidad, el casi nulo alcance que tienen sus mensajes al momento de ser enviados y la falta de un canal de mensajes que sepa diferenciar entre los mensajes importantes con los mundanos, lo cual aseguró ser un problema muy grave. Fueron un total de 8 preguntas y sus respuestas fueron tomadas encuenta para el desarrollo del trabajo con tal de satisfacer las necesidades de este sector de personas, pues el cargo que tienen es muy fundamental para el bienestar de una comunidad de vecinos.
+
+<p>Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210104_upc_edu_pe/EYLvhr-xL_dMmPldTvA2haUBpcfjjy_BJFFcGdioNMUAvA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=ViMrEG</p>
 
 <div id='2.2.3.'><h4> 2.2.3. Análisis de entrevistas</h4></div>
 
@@ -900,6 +908,44 @@ Descripción: En esta entrevista presentamos a Mario Augusto como lider de su ve
     <td>Totalmente dispuesto, siempre que sea sencilla de utilizar, facíl de entender y le permita reducir una gran carga operativa.</td>
   </tr>
 </table>
+
+<br>
+<h5>Análisis de la Entrevista - Roberto Carlos Figueroa</h5>
+<table border="1" cellpadding="6" cellspacing="0">
+  <tr>
+    <td><strong>Medios de Comunicación</strong></td>
+    <td>Usa principalmente WhatsApp para avisos generales, aunque nota que muchos vecinos no leen los mensajes. También emplea fichas para comunicar anuncios importantes por la zona.</td>
+  </tr>
+  <tr>
+    <td><strong>Herramientas Actuales</strong></td>
+    <td>Coordina actividades y comunicaciones mediante WhatsApp, correo electrónico o llamadas via Zoom.</td>
+  </tr>
+  <tr>
+    <td><strong>Dificultades para la Participación</strong></td>
+    <td>Falta de respuesta o confirmación por parte de los vecinos. Se requiere insistencia para obtener participación activa. Poco alcance de los mensajes importantes. Saturación de mensajes irrelevantes o poco importantes en los chats</td>
+  </tr>
+  <tr>
+    <td><strong>Problemas con los Canales Actuales</strong></td>
+    <td>Existe desorganización al manejar múltiples canales. Se pierde información importante y hay confusión entre anuncios oficiales y mensajes personales o mundanos que distraen a los vecinos sobre los temas más relevantes.</td>
+  </tr>
+  <tr>
+    <td><strong>Información Crítica a Comunicar</strong></td>
+    <td>Pagos, mantenimientos, fechas de reuniones, temas de seguridad. Requiere medios que garanticen visibilidad y lectura de estos avisos, asi como un filtro que diferencie estos 2 tipos de mensajes para un mayor orden.</td>
+  </tr>
+  <tr>
+    <td><strong>Interés en Plataforma Digital</strong></td>
+    <td>Muy interesado sobre la propuesta. Busca centralizar avisos, votaciones, quejas y actividades en una sola herramienta digital que no presente complicaciones administrativas.</td>
+  </tr>
+  <tr>
+    <td><strong>Funcionalidades Deseadas</strong></td>
+    <td>Confirmación de lectura de anuncios, votaciones en línea, calendario integrado, filtro para mensajes importantes, buzón de sugerencias, control de asistencia, reportes diarios y alertas.</td>
+  </tr>
+  <tr>
+    <td><strong>Disposición a Implementar la App</strong></td>
+    <td>Totalmente dispuesto, siempre que sea sencilla de utilizar, facíl de entender y le permita reducir una gran carga operativa entre los vecinos.</td>
+  </tr>
+</table>
+
 <div id='2.3.'><h3> 2.3. Needfinding</h3></div>
 
 <div id='2.3.1.'><h4> 2.3.1. User Personas</h4></div>
