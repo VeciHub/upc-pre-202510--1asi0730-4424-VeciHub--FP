@@ -53,8 +53,8 @@ Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la im
 |Javier Nikaido|Desarrollo del capítulo 3|
 |Kael Lagos| Desarrollo de la introducción, planteamiento de las hipotesis, creación del logo del proyecto, desarrollo de conclusiones, inclusión de la bibliografía con links a paginas que se tomaron como referencia, inclusión de anexos a videos o información complementaria, entrevistas en el sector propietarios y modificación del documento para tener un mayor orden en la entrega.|
 |Sebastián Hernández|Mi colaboración en el desarrollo del Capítulo II: Requirements Elicitation & Analysis se centró en los apartados de análisis competitivo, estrategias frente a competidores, así como en el diseño, registro y análisis de entrevistas. Además, participé en la elaboración de los entregables de needfinding, incluyendo la creación de user personas, la construcción de la user task matrix, el diseño del user journey mapping y el desarrollo del empathy mapping, contribuyendo activamente a la identificación y comprensión de las necesidades de los usuarios.|
-|Luciana Sanchez|Desarrollo del capitulo 4|
-|Adriana Diestra||
+|Luciana Sanchez|Desarrollo de los subpuntos pares del capítulo 4, incluyendo el diseño de la aplicación web, los diagramas c4 y el diagrama de la base de datos.|
+|Adriana Diestra|Participé activamente en la elaboración del proyecto, realizando el Lean Canvas, una entrevista a usuarios, la construcción de la User Task Matrix, el Journey Mapping, el Empathy Mapping y la creación completa de la Landing Page.|
 
 El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización GanTrace.
 
@@ -2138,7 +2138,22 @@ Para el despliegue del producto, se siguieron estrategias específicas según el
     🔗 <a href="https://vecihub.github.io/landing-page/" target="_blank"><strong>https://vecihub.github.io/landing-page/</strong></a>
   </p>
 
-<div id='5.2.1.8.'><h4> 5.2.1.8. Team Collaboration Insights during Sprint. </h4></div>
+<div id='5.2.1.8.'><h4> 5.2.1.8. Team Collaboration Insights during Sprint. </h4>
+<section id="imagenes-evidencia">
+  <h2>Imágenes de Evidencia</h2>
+
+  <div>
+    <h3>Captura 1 - Elaboracion de informe</h3>
+    <img src="Imagenes/Captura de pantalla 2025-04-26 165509.png" alt="Captura de pantalla 165509" width="600">
+  </div>
+
+  <div>
+    <h3>Captura 2 - Elaboracion de Landing Page</h3>
+    <img src="Imagenes/Captura de pantalla 2025-04-26 165601.png" alt="Captura de pantalla 165601" width="600">
+  </div>
+</section>
+
+</div>
 
 <div id='6.'><h2>Conclusiones</h2></div>
 
