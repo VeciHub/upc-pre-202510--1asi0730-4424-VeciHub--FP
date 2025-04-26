@@ -1829,6 +1829,11 @@ Espacio común de conversación entre vecinos y administradores. Permite la comu
 Mensaje:
 Cada mensaje enviado dentro de un chat grupal. Contiene el contenido, fecha, hora y el usuario que lo envió. Es parte esencial de la interacción social dentro de la plataforma.
 
+<div id='4.8.'><h3>4.8. Database Design.</h3></div>
+
+<div id='4.8.1.'><h4> 4.8.1. Database Diagram.</h4></div>
+
+
 <div id='5.'><h2>Capítulo V: Profuct Implementation Validation & Deployment</h2></div>
 
 
