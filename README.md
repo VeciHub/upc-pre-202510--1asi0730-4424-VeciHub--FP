@@ -430,6 +430,35 @@ El Lean UX Canvas es una herramienta empleada dentro del enfoque de diseño cent
 
 ![Canvas](Imagenes/LeanCanvas.png)
 
+## 1.3. Segmentos objetivo
+**Vecinos**
+
+Personas que son miembros de vecindarios a los cuales se les complica comunicarse entre sí usando aplicaciones digitales, ya sea por no contar con conocimiento en las herramientas digitales de hoy en día, falta de interés en usarlas o complicaciones en comprender su funcionamiento.
+
+Características:
+
+- Desde personas entre 20 o 60 años.
+
+- Buscan estar enterados de todo lo que ocurra en su vecindario.
+
+- Pueden residir en cualquier vecindario.
+
+- Necesitan una plataforma que les permita organizarse, mantenerse informados y entablar conversaciones mediante foros especiales.
+
+**Propietarios o jefes de vecindario**
+
+Personas que ejercen el cargo de lideres o propietarios de sus vecindarios, que requieren de un medio de difusión tecnológico para hacer llegar sus comunicados importantes a un mayor número de vecinos y mantener informado a todos los miembros de su comunidad ante cualquier situación ya sea actual o futura.
+
+Características:
+
+- Desde personas entre 30 a 60 años.
+
+- Buscan facilidad y comodidad al momento de usar la herramienta.
+
+- Prefieren una función para mandar alertas inmediatas a los vecinos por algún incidente o para organizar una reunión.
+
+- Valoran la interacción entre los vecinos y buscan formar una comunidad bien organizada ante cualquier situación que se presente.
+
 <div id='2.'><h2>Capítulo II: Requirements Elicitation & Analysis</h2></div>
 
 <div id='2.1.'><h3> 2.1. Competidores</h3></div>
