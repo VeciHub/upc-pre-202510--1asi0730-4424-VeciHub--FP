@@ -49,7 +49,7 @@ Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la im
 
 |Integrante|Tareas Asignadas|
 |-|-|
-|Marllely Arias|Desarrollo del capitulo 4|
+|Marllely Arias|Avancé en los Style Guidelines para establecer una identidad visual mediante el uso de tipografías, colores y otros elementos. Posteriormente, elaboré el diseño de la Landing Page web, para luego explicar los diseños de los prototipos en entornos web, y finalmente realicé la elaboración del diagrama de clases.|
 |Javier Nikaido|Desarrollo del capítulo 3|
 |Kael Lagos| Desarrollo de la introducción, planteamiento de las hipotesis, creación del logo del proyecto, desarrollo de conclusiones, inclusión de la bibliografía con links a paginas que se tomaron como referencia, inclusión de anexos a videos o información complementaria, entrevistas en el sector propietarios y modificación del documento para tener un mayor orden en la entrega.|
 |Sebastián Hernández|Mi colaboración en el desarrollo del Capítulo II: Requirements Elicitation & Analysis se centró en los apartados de análisis competitivo, estrategias frente a competidores, así como en el diseño, registro y análisis de entrevistas. Además, participé en la elaboración de los entregables de needfinding, incluyendo la creación de user personas, la construcción de la user task matrix, el diseño del user journey mapping y el desarrollo del empathy mapping, contribuyendo activamente a la identificación y comprensión de las necesidades de los usuarios.|
