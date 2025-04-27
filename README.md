@@ -1926,8 +1926,7 @@ Para el control del código fuente, utilizamos los siguientes repositorios:
 | Producto         | Repositorio           | URL                                                           |
 |------------------|------------------------|----------------------------------------------------------------|
 | Landing Page     | VeciHub-Landing-Page   | https://github.com/VeciHub/Landing-Page                       |
-| Frontend App     | VeciHub-Frontend       | https://github.com/VeciHub/Frontend                           |
-| Backend Simulado | VeciHub-Backend        | https://github.com/VeciHub/Backend                            |
+
 
 <div id='5.1.3.'><h4> 5.1.3. Source Code Style Guide & Conventions. </h4>
 
@@ -1960,7 +1959,7 @@ Para el despliegue del producto, se siguieron estrategias específicas según el
 **Landing Page (GitHub Pages):**
 - Todos los archivos están construidos únicamente con HTML y CSS.
 - Subidos al repositorio público de GitHub.
-- Configuración del despliegue a través de `Settings > Pages`, eligiendo la rama `main` y la carpeta raíz (`/root`).
+- Configuración del despliegue a través de `Settings > Pages`, eligiendo la rama `23042025` y la carpeta raíz (`/root`).
 - La página se publica automáticamente en la URL proporcionada por GitHub Pages.
   --------------
 **Requisitos para el despliegue:**
@@ -2002,17 +2001,79 @@ En este ítem se detalla el Sprint Planning del primer sprint de desarrollo del 
 
 <div id='5.2.1.2.'><h4> 5.2.1.2. Sprint Backlog 1. </h4></div>
 
-En este ítem se detalla el Sprint Backlog del primer sprint de desarrollo del proyecto, incluyendo ID, User Story, Work-Item/Task, descripción, estimación, asignado a y estado.
+En este ítem se detalla el Sprint Backlog del primer sprint de desarrollo del proyecto, incluyendo ID, User Story, Work-Item/Task, descripción, estimación y estado.
+<table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; text-align: center;">
+  <thead style="background-color: #f2f2f2;">
+    <tr>
+      <th>User Story ID</th>
+      <th>User Story</th>
+      <th>Work-Item / Task Title</th>
+      <th>Description</th>
+      <th>Estimation (Hours)</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>US001</td>
+      <td>Navegación entre secciones principales</td>
+      <td>Crear navegación en navbar</td>
+      <td>Implementar enlaces de navegación entre secciones</td>
+      <td>3</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US002</td>
+      <td>Diseño visual de landing page</td>
+      <td>Definir estilos y maquetar contenido</td>
+      <td>Aplicar estilos (colores, fuentes, márgenes) y diseño</td>
+      <td>5</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US003</td>
+      <td>Sección de características de servicios</td>
+      <td>Crear sección "Descubre lo que ofrece"</td>
+      <td>Mostrar los beneficios y servicios destacados</td>
+      <td>3</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US004</td>
+      <td>Sección de precios y planes</td>
+      <td>Crear sección de Planes de Pago</td>
+      <td>Mostrar precios de suscripciones y detalles</td>
+      <td>3</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US005</td>
+      <td>Testimonios de usuarios</td>
+      <td>Crear sección de testimonios</td>
+      <td>Mostrar opiniones y perfiles de usuarios</td>
+      <td>3</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US006</td>
+      <td>Formulario de contacto</td>
+      <td>Crear formulario de contacto</td>
+      <td>Formulario para recibir mensajes de usuarios</td>
+      <td>4</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US007</td>
+      <td>Footer con redes sociales y contacto</td>
+      <td>Crear pie de página con links</td>
+      <td>Información de contacto, suscripción y redes sociales</td>
+      <td>2</td>
+      <td>Done</td>
+    </tr>
+  </tbody>
+</table>
 
-| Sprint # | Sprint 1 |
-|:---|:---|
 
-| Id | User Story | Work-Item/Task | Description | Estimation (Hrs) | Assigned To | Status |
-|:--|:--|:--|:--|:--|:--|:--|
-| US001 | Estructura básica de la landing page | T01 | Crear la estructura inicial HTML y CSS de la landing page, basada en los diseños de Figma. | 2 | Adriana Maria Diestra Zambrano | Done |
-| US002 | Implementar diseño responsive | T02 | Asegurar que la landing page se visualice correctamente en dispositivos móviles y desktop. | 2 | Luciana Celeste Sanchez Silva | Done |
-| US003 | Redacción de contenido principal | T03 | Escribir los textos principales de la landing explicando el propósito de VeciHub. | 1.5 | Javier Masaru Nikaido Vargas | Done |
-| US005 | Implementación de formulario de contacto (HTML) | T05 | Crear un formulario sencillo que permita a los usuarios enviar consultas. | 2 | Kael Valentino Lagos Rivera | Done |
 
 <div id='5.2.1.3.'><h4> 5.2.1.3. Development Evidence for Sprint Review. </h4>
 
@@ -2061,7 +2122,7 @@ En este ítem se detalla el Sprint Backlog del primer sprint de desarrollo del p
 <div id='5.2.1.5.'><h4> 5.2.1.5. Execution Evidence for Sprint Review. </h4>
 <p>La ejecución del proyecto puede visualizarse a través del siguiente despliegue de la Landing Page de VeciHub: https://vecihub.github.io/landing-page/</p>
 <section id="secciones-clave" style="font-family: Arial, sans-serif; padding: 2rem;">
-  <h2>🔑 Secciones Clave Presentes en VeciHub</h2>
+
   
   <article>
     <h3>1. Encabezado (Hero Section)</h3>
