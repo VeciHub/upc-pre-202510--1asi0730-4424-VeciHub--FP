@@ -71,25 +71,6 @@ Los integrantes son:
 * Luciana Sanchez (Luccsss)
 * Adriana Diestra (adriiiiii123)
 
-Se explican las ramas más prominentes:
-
-**main**: Es representada por el color ---. Se trata de la rama principal del proyecto y se actualiza para cada entregable.
-**develop**: Es representada por el color ---. Se trata de la rama principal para el proceso del desarrollo del proyecto.
-**feature-product-design**: Es representado por el color ---. Incluye el contenido de user flows y wireframes.
-**feature-sprint1**: Es representada por el color ---. Esta rama incluye los artefactos relacionados al sprint 1 en el informe.
-
-![Branch_Graph]()
-
-Los siguientes gráficos representan analíticos de commits en el repositorio del informe. En los gráficos se incluye la cantidad de lineas de texto añadidas por cada integrante del equipo. 
-
-**TB1**
-
-![Commit_Graph]()
-![Commit_Graph_Individual1]()
-![Commit_Graph_Individual2]()
-![Commit_Graph_Individual3]()
-
-![Pull_Graphs]()
 
 ## Student Outcomes
 |Criterio especifico|Acciones realizadas|Conclusiones|
