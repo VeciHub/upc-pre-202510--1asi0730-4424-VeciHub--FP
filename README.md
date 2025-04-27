@@ -65,7 +65,7 @@ Github también presenta un timeline de las ramas principales y los procesos de 
 Los integrantes son:
 
 * Marllely Arias (kuwuk0)
-* Javier Nikaido ()
+* Javier Nikaido (MassiFlip)
 * Kael Lagos (Kaellagos)
 * Sebastián Hernández (M1sterDG)
 * Luciana Sanchez (Luccsss)
@@ -1976,11 +1976,41 @@ Para el despliegue del producto, se siguieron estrategias específicas según el
 
 <div id='5.2.'><h3> 5.2. Landing Page, Services & Applications Implementation.</h3></div>
 
+En esta sección se explica y evidencia el proceso de implementación, pruebas, documentación y despliegue de la Landing Page de VeciHub
+----------
+
 <div id='5.2.1.'><h4> 5.2.1. Sprint 1. </h4></div>
 
+En esta sección se detallan los resultados del primer sprint de desarrollo del proyecto, incluyendo el Sprint Planning y el Sprint Backlog.
+
+---
 <div id='5.2.1.1.'><h4> 5.2.1.1. Sprint Planning 1. </h4></div>
+En este ítem se detalla el Sprint Planning del primer sprint de desarrollo del proyecto, incluyendo fecha, hora, ubicación, preparado por, asistentes, objetivo del sprint y user stories. A continuación se detalla el proceso de planificación llevado a cabo para el Sprint 1.
+
+
+| Sprint # | 1 |
+|:---|:---|
+| **Date** | 2025-04-02 |
+| **Time** | 7:00 PM |
+| **Location** | Virtual (Google Meet) |
+| **Prepared by** | Javier Masaru Nikaido Vargas |
+| **Attendees (to planning meeting)** | Javier Masaru Nikaido Vargas, Marllely Anahi Arias Segil, Kael Valentino Lagos Rivera,  Sebastián Eduardo Hernández Poma,  Luciana Celeste Sanchez Silva, Adriana Maria Diestra Zambrano |
+| **Sprint n – 1 Review Summary** | No aplica, es el primer sprint del proyecto. |
+| **Sprint n – 1 Retrospective Summary** | No aplica, es el primer sprint del proyecto. |
 
 <div id='5.2.1.2.'><h4> 5.2.1.2. Sprint Backlog 1. </h4></div>
+
+En este ítem se detalla el Sprint Backlog del primer sprint de desarrollo del proyecto, incluyendo ID, User Story, Work-Item/Task, descripción, estimación, asignado a y estado.
+
+| Sprint # | Sprint 1 |
+|:---|:---|
+
+| Id | User Story | Work-Item/Task | Description | Estimation (Hrs) | Assigned To | Status |
+|:--|:--|:--|:--|:--|:--|:--|
+| US001 | Estructura básica de la landing page | T01 | Crear la estructura inicial HTML y CSS de la landing page, basada en los diseños de Figma. | 2 | Adriana Maria Diestra Zambrano | Done |
+| US002 | Implementar diseño responsive | T02 | Asegurar que la landing page se visualice correctamente en dispositivos móviles y desktop. | 2 | Luciana Celeste Sanchez Silva | Done |
+| US003 | Redacción de contenido principal | T03 | Escribir los textos principales de la landing explicando el propósito de VeciHub. | 1.5 | Javier Masaru Nikaido Vargas | Done |
+| US005 | Implementación de formulario de contacto (HTML) | T05 | Crear un formulario sencillo que permita a los usuarios enviar consultas. | 2 | Kael Valentino Lagos Rivera | Done |
 
 <div id='5.2.1.3.'><h4> 5.2.1.3. Development Evidence for Sprint Review. </h4>
 
