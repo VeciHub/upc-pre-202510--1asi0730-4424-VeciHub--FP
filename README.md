@@ -1838,6 +1838,7 @@ Cada mensaje enviado dentro de un chat grupal. Contiene el contenido, fecha, hor
 
 <div id='4.8.1.'><h4> 4.8.1. Database Diagram.</h4></div>
 
+![Diagrama de base de datos](Imagenes/diagrama_dbd.png)
 
 <div id='5.'><h2>Capítulo V: Profuct Implementation Validation & Deployment</h2></div>
 
