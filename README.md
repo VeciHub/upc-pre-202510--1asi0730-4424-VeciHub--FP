@@ -309,17 +309,11 @@ Esto incluye:
 
 ###### **Problem Statement:** 
 
-1. Usuario objetivo:
-Vecinos y administradores de comunidades residenciales (edificios, condominios o urbanizaciones cerradas) que enfrentan problemas de comunicación, organización y seguridad en su entorno.
+En el ecosistema actual de servicios digitales, muchas comunidades de vecinos requieren soluciones para los problemas de comunicación que enfrentan por la mala organización que hay en sus urbanizaciones pero no cuentan con una red confiable ni con el conocimiento necesario para encontrar una solución tecnológica que les ayude. Al mismo tiempo, los propietarios o jefes de vecindario  enfrentan dificultades al momento de enviar comunicados importantes o organizar reuniones debido a que los medios de difusión actuales en ocasiones no presentan funciones que les permitan llevar a cabo tales acciones específicas.
 
-2. Sus necesidades:
-Necesitan una forma efectiva, rápida y segura de mantenerse informados, expresar sus opiniones, coordinar actividades comunitarias y reaccionar ante situaciones urgentes (robos, conflictos, mantenimiento, etc.).
+Hemos observado que actualmente la comunicación entre vecinos es desorganizada y dispersa (usando grupos de WhatsApp, correos o pizarras físicas), lo que provoca desinformación, desconfianza, desinterés en la participación y retraso en la toma de decisiones importantes. No existe un medio como tal que permita brindar funciones tan específicas como la formación de varios grupos en los cuales se puedan programar reuniones, que filtre los mensajes entre los importantes así como los mundanos (Felicitaciones de cumpleaños o algún otro tipo de conversación mundana) los cuales llegan a desplazar a los mensajes importantes haciendo que se pierdan en el chat que todos comparte.
 
-3. Problemas que enfrentan:
-Actualmente, la comunicación entre vecinos es desorganizada y dispersa (usando grupos de WhatsApp, correos o pizarras físicas), lo que provoca desinformación, desconfianza, desinterés en la participación y retraso en la toma de decisiones importantes.
-
-4. Nuestra solución propuesta:
-Una aplicación móvil/web llamada VeciHub que centralice la comunicación comunitaria mediante foros, votaciones, alertas, reuniones virtuales, campañas vecinales, y acceso rápido a servicios de emergencia. Esta herramienta promueve la transparencia, el compromiso vecinal y la seguridad colectiva.
+**¿Cómo podemos conectar a los vecinos con los líderes de vecindario de manera organizada y eficiente, permitiendo que los primeros puedan mantenerse informados de todo lo que ocurra en su entorno y que los segundos puedan encontrar maneras en las cuales se comuniquen de forma tanto clara como directa con los miembros de su vecindario?**
 
 <div id='1.2.2.2.'><h5> 1.2.2.2. Lean UX Assumptions.</h5></div>
 
