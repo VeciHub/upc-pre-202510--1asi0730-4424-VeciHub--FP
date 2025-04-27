@@ -2061,40 +2061,67 @@ En este ítem se detalla el Sprint Backlog del primer sprint de desarrollo del p
 <p>En esta sección se presentan las evidencias del desarrollo de la <strong>Landing Page de VeciHub</strong> durante el primer sprint de desarrollo.</p>
 <p>A continuación se muestra una recopilación de los commits realizados en el repositorio de GitHub que demuestran el progreso en la implementación de la interfaz inicial:</p>
 
-<table border="1" cellspacing="0" cellpadding="5">
+<h3>5.2.1.3. Development Evidence for Sprint Review</h3>
+
+<p>En esta sección se presentan las evidencias del desarrollo de la <strong>Landing Page de VeciHub</strong> realizada por Adriana Diestra durante el primer sprint de desarrollo.</p>
+
+<p>A continuación se muestra una recopilación de los commits realizados en el repositorio de GitHub que demuestran el progreso en la implementación de la interfaz inicial:</p>
+
+<table style="border-collapse: collapse; width: 100%; text-align: left; border: 1px solid #ddd;">
   <thead>
-    <tr>
-      <th>Repository</th>
-      <th>Branch</th>
-      <th>Commit Id</th>
-      <th>Commit Message</th>
-      <th>Commit Message Body</th>
-      <th>Commited on (Date)</th>
+    <tr style="background-color: #f2f2f2;">
+      <th style="padding: 8px;">landingpage</th>
+      <th style="padding: 8px;">Branch</th>
+      <th style="padding: 8px;">Commit Id</th>
+      <th style="padding: 8px;">Commit Message</th>
+      <th style="padding: 8px;">Commit Message Body</th>
+      <th style="padding: 8px;">Commited on (Date)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/NRG3-appweb/Landing-Page">Repositorio</a></td>
-      <td>main</td>
-      <td>eef4365</td>
-      <td>Initial commit</td>
-      <td>Initial commit</td>
-      <td>18/08/2024</td>
+      <td style="padding: 8px;"><a href="#">landingpage</a></td>
+      <td style="padding: 8px;">23042025</td>
+      <td style="padding: 8px;">eef4365</td>
+      <td style="padding: 8px;">Initial commit</td>
+      <td style="padding: 8px;">Initial commit: Configuración base del proyecto Vite</td>
+      <td style="padding: 8px;">20/04/2025</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/NRG3-appweb/Landing-Page">Repositorio</a></td>
-      <td>develop</td>
-      <td>359e599</td>
-      <td>feat(landing): add html file</td>
-      <td>feat(landing): add html file</td>
-      <td>04/09/2024</td>
+      <td style="padding: 8px;"><a href="#">landingpage</a></td>
+      <td style="padding: 8px;">23042025</td>
+      <td style="padding: 8px;">1a2b3c4</td>
+      <td style="padding: 8px;">feat: estructura inicial landing page</td>
+      <td style="padding: 8px;">Creación del archivo index.html con estructura básica de secciones</td>
+      <td style="padding: 8px;">20/04/2025</td>
     </tr>
     <tr>
-      <td colspan="6" align="center"><em>(...otros commits resumidos para brevedad...)</em></td>
+      <td style="padding: 8px;"><a href="#">landingpage</a></td>
+      <td style="padding: 8px;">23042025</td>
+      <td style="padding: 8px;">5d6e7f8</td>
+      <td style="padding: 8px;">feat: sección de beneficios</td>
+      <td style="padding: 8px;">Implementación de la sección "Descubre lo que VeciHub tiene para ti"</td>
+      <td style="padding: 8px;">21/04/2025</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px;"><a href="#">landingpage</a></td>
+      <td style="padding: 8px;">23042025</td>
+      <td style="padding: 8px;">9g0h1i2</td>
+      <td style="padding: 8px;">feat: planes de pago</td>
+      <td style="padding: 8px;">Creación de tarjetas para mostrar precios y planes de suscripción</td>
+      <td style="padding: 8px;">22/04/2025</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px;"><a href="#">landingpage</a></td>
+      <td style="padding: 8px;">23042025</td>
+      <td style="padding: 8px;">3j4k5l6</td>
+      <td style="padding: 8px;">feat: formulario de contacto</td>
+      <td style="padding: 8px;">Diseño e implementación del formulario de contacto para usuarios</td>
+      <td style="padding: 8px;">23/04/2025</td>
     </tr>
   </tbody>
 </table>
-</div>
+
 
 <div id='5.2.1.4.'><h4> 5.2.1.4. Testing Suite Evidence for Sprint Review. </h4>
 <p>Durante este primer sprint no se realizaron pruebas automatizadas, ya que el objetivo principal fue el desarrollo visual de la landing page.</p>
