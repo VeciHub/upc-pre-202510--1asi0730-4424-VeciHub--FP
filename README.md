@@ -2069,12 +2069,7 @@ En este ítem se detalla el Sprint Backlog del primer sprint de desarrollo del p
 
 
 
-<div id='5.2.1.3.'><h4> 5.2.1.3. Development Evidence for Sprint Review. </h4>
-
-<p>En esta sección se presentan las evidencias del desarrollo de la <strong>Landing Page de VeciHub</strong> durante el primer sprint de desarrollo.</p>
-<p>A continuación se muestra una recopilación de los commits realizados en el repositorio de GitHub que demuestran el progreso en la implementación de la interfaz inicial:</p>
-
-<h3>5.2.1.3. Development Evidence for Sprint Review</h3>
+<div id='5.2.1.3.'><h4> 5.2.1.3. Development Evidence for Sprint Review. </h4> 
 
 <p>En esta sección se presentan las evidencias del desarrollo de la <strong>Landing Page de VeciHub</strong> realizada por Adriana Diestra durante el primer sprint de desarrollo.</p>
 
@@ -2238,9 +2233,6 @@ En este ítem se detalla el Sprint Backlog del primer sprint de desarrollo del p
   </div>
 </section>
 
-
-
-
 </div>
 
 <div id='5.2.1.6.'><h4> 5.2.1.6. Services Documentation Evidence for Sprint Review. </h4>
@@ -2291,6 +2283,24 @@ En este ítem se detalla el Sprint Backlog del primer sprint de desarrollo del p
 </section>
 
 </div>
+
+<div id='5.2.2.'><h4> 5.2.2. Sprint 2. </h4></div>
+
+<div id='5.2.2.1.'><h4> 5.2.2.1. Sprint Planning 2. </h4></div>
+
+<div id='5.2.2.2.'><h4> 5.2.2.2. Aspect Leaders and Collaborators. </h4></div>
+
+<div id='5.2.2.3.'><h4> 5.2.2.3. Sprint Backlog 2. </h4></div>
+
+<div id='5.2.2.4.'><h4> 5.2.2.4. Development Evidence for Sprint Review. </h4></div>
+
+<div id='5.2.2.5.'><h4> 5.2.2.5. Execution Evidence for Sprint Review. </h4></div>
+
+<div id='5.2.2.6.'><h4> 5.2.2.6. Services Documentation Evidence for Sprint Review. </h4></div>
+
+<div id='5.2.2.7.'><h4> 5.2.2.7. Software Deployment Evidence for Sprint Review. </h4></div>
+
+<div id='5.2.2.8.'><h4> 5.2.2.8. Team Collaboration Insights during Sprint. </h4></div>
 
 <div id='6.'><h2>Conclusiones</h2></div>
 
