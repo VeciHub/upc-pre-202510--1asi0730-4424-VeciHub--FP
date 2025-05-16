@@ -66,7 +66,7 @@ Para el desarrollo del informe perteneciente a la entrega TP, se dividió la imp
 |Integrante|Tareas Asignadas|
 |-|-|
 |Marllely Arias||
-|Javier Nikaido||
+|Javier Nikaido|Desarrollo parte del Fronted Web Applications, además de apoyar en el desarrollo del Sprint 2|
 |Kael Lagos|Actualice el apartado del indice con los nuevos puntos además de correguir los enunciados que estuviesen duplicados, se añadió el enlace del URL para el repositorio del Fronted Web Applications, se añadieron nuevos comentarios a los distintos segmentos del código.|
 |Sebastián Hernández||
 |Luciana Sanchez|Se llevo a cabo la elaboración del Fronted Web Applications, se corrigió el orden del PPT y superviso el desarrollode los nuevos puntos.|
