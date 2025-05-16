@@ -2341,19 +2341,31 @@ En esta seccion especificamos los roles de cada uno de los integrantes del equip
 <div id='5.2.2.5.'><h4> 5.2.2.5. Execution Evidence for Sprint Review. </h4></div>
 
 Durante el segundo Sprint se logró implementar el front-end de la aplicación web con la mayoria de las secciones funcionales. A continuación se muestra la aplicación implementada y deployada.
-
-Link de la web app mediante: https://vecihub.netlify.app/#testimonios 
+![1](Imagenes/a.png)
+![1](Imagenes/b.png)
+![1](Imagenes/c.png)
+![1](Imagenes/d.png)
+![1](Imagenes/e.png)
+![1](Imagenes/f.png)
+![1](Imagenes/g.png)
+![1](Imagenes/h.png)
+Link de la web app mediante: https://vecihub.netlify.app
 
 <div id='5.2.2.6.'><h4> 5.2.2.6. Services Documentation Evidence for Sprint Review. </h4></div>
 
+Para esta entrega, el equipo VeciHub logró implementar de manera exitosa el frontend web app, en la cual se brindará variadas opciones relacionas al registro, perfil y demás. 
+Link de la web app mediante: https://vecihub.netlify.app 
+
 <div id='5.2.2.7.'><h4> 5.2.2.7. Software Deployment Evidence for Sprint Review. </h4></div>
+
 
 <div id='5.2.2.8.'><h4> 5.2.2.8. Team Collaboration Insights during Sprint. </h4></div>
 
 A continuación, se compartirá la tabla de colaboradores del repositorio de Github para identificar a cada miembro del equipo:
 
-| Sebastián Hernández          | M1sterDG     |
-| Adriana Maria Diestra Zambrano          | adriiiiii123     |
+| Sebastián Hernández                          | M1sterDG     |
+|--------------------------------------|--------------|
+| Adriana Diestra      | adriiiiii123     |
 | Marllely Arias          | kuwuk0            |
 | Kael Lagos Rivera        | Kaellagos     |
 | Javier Nikaido           | MassiFlip|
