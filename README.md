@@ -69,8 +69,8 @@ Para el desarrollo del informe perteneciente a la entrega TP, se dividió la imp
 |Javier Nikaido||
 |Kael Lagos|Actualice el apartado del indice con los nuevos puntos además de correguir los enunciados que estuviesen duplicados, se añadió el enlace del URL para el repositorio del Fronted Web Applications, se añadieron nuevos comentarios a los distintos segmentos del código.|
 |Sebastián Hernández||
-|Luciana Sanchez||
-|Adriana Diestra||
+|Luciana Sanchez|Se llevo a cabo la elaboración del Fronted Web Applications, se corrigió el orden del PPT y superviso el desarrollode los nuevos puntos.|
+|Adriana Diestra|Desarrollo un segmento del Fronted Web Applications, además de brindar asistencia a sus compañeros en la elaboración del Sprint 2|
 
 El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización GanTrace.
 
