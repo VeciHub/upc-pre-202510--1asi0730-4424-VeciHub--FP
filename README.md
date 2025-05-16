@@ -2336,79 +2336,50 @@ En esta seccion especificamos los roles de cada uno de los integrantes del equip
 
 <div id='5.2.2.3.'><h4> 5.2.2.3. Sprint Backlog 2. </h4></div>
 
-<table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; text-align: center;">
-  <thead style="background-color: #f2f2f2;">
-    <tr>
-      <th>User Story ID</th>
-      <th>User Story</th>
-      <th>Work-Item / Task Title</th>
-      <th>Description</th>
-      <th>Estimation (Hours)</th>
-      <th>Status</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>US001</td>
-      <td>Navegación entre secciones principales</td>
-      <td>Crear navegación en navbar</td>
-      <td>Implementar enlaces de navegación entre secciones</td>
-      <td>3</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>US002</td>
-      <td>Diseño de la web</td>
-      <td>Definir estilos y maquetar contenido</td>
-      <td>Aplicar estilos (colores, fuentes, márgenes) y diseño</td>
-      <td>5</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>US003</td>
-      <td>Sección de características de servicios</td>
-      <td>Crear sección "Descubre lo que ofrece"</td>
-      <td>Mostrar los beneficios y servicios destacados</td>
-      <td>3</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>US004</td>
-      <td>Sección de precios y planes</td>
-      <td>Crear sección de Planes de Pago</td>
-      <td>Mostrar precios de suscripciones y detalles</td>
-      <td>3</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>US005</td>
-      <td>Testimonios de usuarios</td>
-      <td>Crear sección de testimonios</td>
-      <td>Mostrar opiniones y perfiles de usuarios</td>
-      <td>3</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>US006</td>
-      <td>Formulario de contacto</td>
-      <td>Crear formulario de contacto</td>
-      <td>Formulario para recibir mensajes de usuarios</td>
-      <td>4</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>US007</td>
-      <td>Footer con redes sociales y contacto</td>
-      <td>Crear pie de página con links</td>
-      <td>Información de contacto, suscripción y redes sociales</td>
-      <td>2</td>
-      <td>Done</td>
-    </tr>
-  </tbody>
-</table>
-
-
+---
+| ID    | Historia de Usuario                                                                 | Tareas Técnicas                                                                                                   | Responsable        | Prioridad | Estimación |
+|-------|--------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|--------------------|-----------|------------|
+| HU01  | Como usuario, quiero poder ver publicaciones de otros vecinos                      | - Crear interfaz de feed<br>- Consultar publicaciones desde la base de datos<br>- Mostrar ordenado y paginado   | Luciana Sánchez    | Alta      | 6 horas    |
+| HU02  | Como usuario, quiero poder registrarme en la aplicación                            | - Diseñar formulario<br>- Validar datos<br>- Guardar usuario en BD                                                | Sebastián Hernández| Alta      | 5 horas    |
+| HU03  | Como usuario, quiero ver y editar mi perfil                                         | - Crear vista de perfil<br>- Permitir edición<br>- Validar y guardar cambios                                     | Luciana Sánchez    | Media     | 6 horas    |
+| HU04  | Como usuario, quiero publicar un anuncio                                            | - Crear formulario<br>- Subir imágenes<br>- Guardar anuncio en BD                                                 | Marllely Arias     | Alta      | 7 horas    |
+| HU05  | Como usuario, quiero iniciar sesión                                                 | - Crear formulario de login<br>- Validar credenciales<br>- Manejo de sesiones                                    | Sebastián Hernández| Alta      | 6 horas    |
+| HU06  | Como usuario, quiero poder cerrar sesión                                            | - Botón de logout<br>- Destruir sesión<br>- Redirigir al login                                                    | Luciana Sánchez    | Media     | 3 horas    |
+| HU11  | Como usuario, quiero cambiar mi contraseña                                          | - Crear formulario<br>- Validar contraseña actual<br>- Guardar nueva contraseña                                  | Sebastián Hernández| Media     | 5 horas    |
+| HU13  | Como usuario, quiero reportar publicaciones inapropiadas                           | - Añadir botón de reporte<br>- Registrar reportes en BD<br>- Notificar al administrador                          | Marllely Arias     | Media     | 5 horas    |
+| HU15  | Como administrador, quiero ver una lista de usuarios registrados                   | - Crear vista de usuarios<br>- Consultar lista desde BD<br>- Implementar filtros                                 | Kael Lagos         | Media     | 5 horas    |
+---
 <div id='5.2.2.4.'><h4> 5.2.2.4. Development Evidence for Sprint Review. </h4></div>
+## Funcionalidades Completadas
+
+### Sebastián Hernández
+- **HU02: Registro de Usuario**
+  - Formulario de registro con validación.
+  - Guardado en la base de datos y feedback visual.
+- **HU05: Inicio de Sesión**
+  - Validación de credenciales y manejo de sesiones.
+- **HU11: Cambio de Contraseña**
+  - Validación de contraseña actual y actualización segura.
+
+### Luciana Sánchez
+- **HU01: Visualización de Publicaciones**
+  - Feed dinámico con contenido ordenado por fecha.
+- **HU03: Vista/Edición de Perfil**
+  - Interfaz editable con guardado en tiempo real.
+- **HU06: Cierre de Sesión**
+  - Implementación del botón y destrucción de sesión.
+
+### Marllely Arias
+- **HU04: Publicación de Anuncios**
+  - Formulario con carga de imágenes y almacenamiento.
+- **HU13: Reporte de Publicaciones**
+  - Funcionalidad de reporte y registro en base de datos.
+
+### Kael Lagos
+- **HU15: Vista de Usuarios (Admin)**
+  - Interfaz de administración con listado de usuarios y filtros.
+
+---
 
 <div id='5.2.2.5.'><h4> 5.2.2.5. Execution Evidence for Sprint Review. </h4></div>
 
