@@ -67,7 +67,7 @@ Para el desarrollo del informe perteneciente a la entrega TP, se dividió la imp
 |-|-|
 |Marllely Arias||
 |Javier Nikaido||
-|Kael Lagos|Actualice el apartado del indice con los nuevos puntos además de correguir los enunciados que estuviesen duplicados.|
+|Kael Lagos|Actualice el apartado del indice con los nuevos puntos además de correguir los enunciados que estuviesen duplicados, se añadió el enlace del URL para el repositorio del Fronted Web Applications, se añadieron nuevos comentarios a los distintos segmentos del código.|
 |Sebastián Hernández||
 |Luciana Sanchez||
 |Adriana Diestra||
