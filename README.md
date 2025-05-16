@@ -2302,7 +2302,25 @@ En este ítem se detalla el Sprint Backlog del primer sprint de desarrollo del p
 
 <div id='5.2.2.'><h4> 5.2.2. Sprint 2. </h4></div>
 
+En esta sección se detallan los resultados del segundo sprint de desarrollo del proyecto, incluyendo el Sprint Planning y el Sprint Backlog.
+
 <div id='5.2.2.1.'><h4> 5.2.2.1. Sprint Planning 2. </h4></div>
+
+En este ítem se detalla el Sprint Planning del segundo sprint de desarrollo del proyecto, incluyendo fecha, hora, ubicación, preparado por, asistentes, objetivo del sprint y user stories. A continuación se detalla el proceso de planificación llevado a cabo para el Sprint 2.
+
+| Sprint # | 2 |
+|:---|:---|
+| **Date** | 2025-05-08 |
+| **Time** | 7:00 PM |
+| **Location** | Virtual (Google Meet) |
+| **Prepared by** | Adriana Maria Diestra Zambrano |
+| **Attendees (to planning meeting)** | Javier Masaru Nikaido Vargas, Marllely Anahi Arias Segil, Kael Valentino Lagos Rivera,  Sebastián Eduardo Hernández Poma,  Luciana Celeste Sanchez Silva, Adriana Maria Diestra Zambrano |
+| **Sprint n – 2 Review Summary** | Durante el desarrolo del Sprint 1, se logró implementar con éxito la landing page, la cuál fue desplegada. Se llegó a cumplir con todo los requisitos funcionales indicados en el Sprint. |
+| **Sprint n – 2 Retrospective Summary** | El sprint 1 se logró de manera satisfactoria. Sin embargo, como punto de mejora encontramos el realizar las tareas con mayor puntualidad. |
+| Sprint Goal & User Stories |
+| **Sprint 2 Goal** | El objetivo del Sprint 2 es optimizar la experiencia del usuario en la landing page y el registro del frontend.|
+| **Sprint 2 Velocity** | 16 |
+| **Sum of Story Points** | 16 |
 
 <div id='5.2.2.2.'><h4> 5.2.2.2. Aspect Leaders and Collaborators. </h4></div>
 
