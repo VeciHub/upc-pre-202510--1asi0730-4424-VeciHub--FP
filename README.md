@@ -2324,17 +2324,40 @@ En este ítem se detalla el Sprint Planning del segundo sprint de desarrollo del
 
 <div id='5.2.2.2.'><h4> 5.2.2.2. Aspect Leaders and Collaborators. </h4></div>
 
+En esta seccion especificamos los roles de cada uno de los integrantes del equipo, en este caso se utilizo el rol de L (Leader) y C (Collaborator) para cada integrante.
+| Team Member (Last Name, First Name)       | GitHub Username   | Aspect Name 1 (L/C) 
+|------------------------------------------|-------------------|---------------------|
+| Sebastián Hernández          | M1sterDG     | L                   | 
+| Adriana Maria Diestra Zambrano          | adriiiiii123     | C                   | 
+| Marllely Arias          | kuwuk0            | C                   |  
+| Kael Lagos Rivera        | Kaellagos     | C                   | 
+| Javier Nikaido           | MassiFlip| C                   |  
+| Luciana Sanchez           | Luccsss| C                   |  
+
 <div id='5.2.2.3.'><h4> 5.2.2.3. Sprint Backlog 2. </h4></div>
 
 <div id='5.2.2.4.'><h4> 5.2.2.4. Development Evidence for Sprint Review. </h4></div>
 
 <div id='5.2.2.5.'><h4> 5.2.2.5. Execution Evidence for Sprint Review. </h4></div>
 
+Durante el segundo Sprint se logró implementar el front-end de la aplicación web con la mayoria de las secciones funcionales. A continuación se muestra la aplicación implementada y deployada.
+
+Link de la web app mediante: https://vecihub.netlify.app/#testimonios 
+
 <div id='5.2.2.6.'><h4> 5.2.2.6. Services Documentation Evidence for Sprint Review. </h4></div>
 
 <div id='5.2.2.7.'><h4> 5.2.2.7. Software Deployment Evidence for Sprint Review. </h4></div>
 
 <div id='5.2.2.8.'><h4> 5.2.2.8. Team Collaboration Insights during Sprint. </h4></div>
+
+A continuación, se compartirá la tabla de colaboradores del repositorio de Github para identificar a cada miembro del equipo:
+
+| Sebastián Hernández          | M1sterDG     |
+| Adriana Maria Diestra Zambrano          | adriiiiii123     |
+| Marllely Arias          | kuwuk0            |
+| Kael Lagos Rivera        | Kaellagos     |
+| Javier Nikaido           | MassiFlip|
+| Luciana Sanchez           | Luccsss|
 
 <div id='6.'><h2>Conclusiones</h2></div>
 
