@@ -1135,7 +1135,7 @@ Las siguientes historias de usuario fueron elaboradas tomando como referencia la
   <tr><th>Story ID</th><th>Título</th><th>Descripción</th><th>Criterios de Aceptación</th></tr>
   <tr><td>US001</td><td>Registro de usuario</td><td>Como nuevo usuario, quiero crear una cuenta para acceder a la comunidad.</td><td>E01: Registro exitoso tras completar datos.<br>E02: Error por datos incompletos.</td></tr>
   <tr><td>US002</td><td>Inicio de sesión</td><td>Como usuario registrado, quiero acceder con mis credenciales para entrar a la app.</td><td>E01: Acceso exitoso.<br>E02: Mensaje por credenciales erradas.</td></tr>
-  <tr><td>US003</td><td>Recuperar contraseña</td><td>Como usuario, quiero recuperar mi contraseña si la olvido.</td><td>E01: Correo de recuperación enviado.<br>E02: Error por correo no registrado.</td></tr>
+  <tr><td>US003</td><td>Registro Comunidad</td><td>Como usuario, quiero registrar los datos de mi comunidad para invitar a que mis vecinos se unan a ella.</td><td>E01: Comunidad Creada.<br>E02: Error por comunidad ya registrada.</td></tr>
 </table>
 
 <h2>Epic ID: EP002 - Comunicación Comunitaria</h2>
