@@ -66,7 +66,7 @@ Para el desarrollo del informe perteneciente a la entrega TP, se dividió la imp
 |Integrante|Tareas Asignadas|
 |-|-|
 |Marllely Arias||
-|Javier Nikaido|Desarrollo parte del Fronted Web Applications, además de apoyar en el desarrollo del Sprint 2|
+|Javier Nikaido|Desarrollo parte del Fronted Web Applications, además de apoyar en el desarrollo del Sprint 2, y Development Evidence for Sprint Review|
 |Kael Lagos|Actualice el apartado del indice con los nuevos puntos además de correguir los enunciados que estuviesen duplicados, se añadió el enlace del URL para el repositorio del Fronted Web Applications, se añadieron nuevos comentarios a los distintos segmentos del código.|
 |Sebastián Hernández|Como Sebastián Hernández, he avanzado en la implementación inicial de la plataforma VeciHub, logrando cubrir de manera funcional la US002 - Inicio de sesión, permitiendo a los usuarios acceder de forma segura a una intranet privada. Dentro de este entorno, he desarrollado el módulo de reporte de incidencias (US011), ofreciendo un formulario completo para registrar situaciones con opción de añadir imágenes y seleccionar categorías. Además, he integrado una sección de alertas comunitarias (US005) en el panel de inicio, donde los usuarios pueden visualizar notificaciones relevantes de seguridad y comunidad. Estos avances representan una primera fase enfocada en acceso seguro, comunicación inicial y reporte de incidentes, dejando como siguientes pasos la incorporación de funcionalidades más avanzadas del backlog.|
 |Luciana Sanchez|Se llevo a cabo la elaboración del Fronted Web Applications, se corrigió el orden del PPT y superviso el desarrollode los nuevos puntos.|
