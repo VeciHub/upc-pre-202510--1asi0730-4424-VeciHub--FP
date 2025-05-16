@@ -2336,6 +2336,78 @@ En esta seccion especificamos los roles de cada uno de los integrantes del equip
 
 <div id='5.2.2.3.'><h4> 5.2.2.3. Sprint Backlog 2. </h4></div>
 
+<table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; text-align: center;">
+  <thead style="background-color: #f2f2f2;">
+    <tr>
+      <th>User Story ID</th>
+      <th>User Story</th>
+      <th>Work-Item / Task Title</th>
+      <th>Description</th>
+      <th>Estimation (Hours)</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>US001</td>
+      <td>Navegación entre secciones principales</td>
+      <td>Crear navegación en navbar</td>
+      <td>Implementar enlaces de navegación entre secciones</td>
+      <td>3</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US002</td>
+      <td>Diseño de la web</td>
+      <td>Definir estilos y maquetar contenido</td>
+      <td>Aplicar estilos (colores, fuentes, márgenes) y diseño</td>
+      <td>5</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US003</td>
+      <td>Sección de características de servicios</td>
+      <td>Crear sección "Descubre lo que ofrece"</td>
+      <td>Mostrar los beneficios y servicios destacados</td>
+      <td>3</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US004</td>
+      <td>Sección de precios y planes</td>
+      <td>Crear sección de Planes de Pago</td>
+      <td>Mostrar precios de suscripciones y detalles</td>
+      <td>3</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US005</td>
+      <td>Testimonios de usuarios</td>
+      <td>Crear sección de testimonios</td>
+      <td>Mostrar opiniones y perfiles de usuarios</td>
+      <td>3</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US006</td>
+      <td>Formulario de contacto</td>
+      <td>Crear formulario de contacto</td>
+      <td>Formulario para recibir mensajes de usuarios</td>
+      <td>4</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US007</td>
+      <td>Footer con redes sociales y contacto</td>
+      <td>Crear pie de página con links</td>
+      <td>Información de contacto, suscripción y redes sociales</td>
+      <td>2</td>
+      <td>Done</td>
+    </tr>
+  </tbody>
+</table>
+
+
 <div id='5.2.2.4.'><h4> 5.2.2.4. Development Evidence for Sprint Review. </h4></div>
 
 <div id='5.2.2.5.'><h4> 5.2.2.5. Execution Evidence for Sprint Review. </h4></div>
@@ -2357,7 +2429,8 @@ Para esta entrega, el equipo VeciHub logró implementar de manera exitosa el fro
 Link de la web app mediante: https://vecihub.netlify.app 
 
 <div id='5.2.2.7.'><h4> 5.2.2.7. Software Deployment Evidence for Sprint Review. </h4></div>
-
+Para el despliegue de la aplicacion web se utilizó netlify, a continuación se muestra el link de la aplicación web desplegada.
+https://vecihub.netlify.app 
 
 <div id='5.2.2.8.'><h4> 5.2.2.8. Team Collaboration Insights during Sprint. </h4></div>
 
@@ -2370,6 +2443,8 @@ A continuación, se compartirá la tabla de colaboradores del repositorio de Git
 | Kael Lagos Rivera        | Kaellagos     |
 | Javier Nikaido           | MassiFlip|
 | Luciana Sanchez           | Luccsss|
+
+![1](Imagenes/Insights.png)
 
 <div id='6.'><h2>Conclusiones</h2></div>
 
