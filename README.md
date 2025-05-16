@@ -44,6 +44,8 @@ Aplicaciones Web - 1ASI0730 <br>
 
 URL del repositorio para el reporte del proyecto: https://github.com/VeciHub/upc-pre-202510--1asi0730-4424-VeciHub--FP
 
+URL del repositorio para el Fronted Web Applications: https://github.com/VeciHub/landing-page/tree/23042025
+
 **TB1**
 
 Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
