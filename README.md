@@ -39,6 +39,7 @@ Aplicaciones Web - 1ASI0730 <br>
 |1.0|10/04/2025|Arias, Sanchez|Creación del documento de trabajo en formato markdown|
 |1.1|18/04/2025|Arias, Sanchez|Avance del capitulo 4 del informe|
 |1.2|14/05/2025|Lagos, Kael|Añadido de nuevos puntos en el informe además de ampliar el segmento de comentarios referentes a la participación de los integrantes|
+|1.3|Dia/06/2025|||
 
 ## Project Report Collaboration Insights
 
@@ -73,6 +74,19 @@ Para el desarrollo del informe perteneciente a la entrega TP, se dividió la imp
 |Adriana Diestra|Desarrollo un segmento del Fronted Web Applications, además de brindar asistencia a sus compañeros en la elaboración del Sprint 2.|
 
 El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización GanTrace.
+
+**TB2**
+
+Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
+
+|Integrante|Tareas Asignadas|
+|-|-|
+|Marllely Arias||
+|Javier Nikaido||
+|Kael Lagos||
+|Sebastián Hernández||
+|Luciana Sanchez||
+|Adriana Diestra||
 
 **Github Collaboration Insights**
 
@@ -179,6 +193,20 @@ Los integrantes son:
 5.2.2.6. [Services Documentation Evidence for Sprint Review.](#5.2.2.6.)<br>
 5.2.2.7. [Software Deployment Evidence for Sprint Review.](#5.2.2.7.)<br>
 5.2.2.8. [Team Collaboration Insights during Sprint.](#5.2.2.8.)<br>
+5.2.3. [Sprint 3.](#5.2.3.)<br>
+5.2.3.1. [Sprint Planning 3.](#5.2.3.1.)<br>
+5.2.3.2. [Aspect Leaders and Collaborators](#5.2.3.2.)<br>
+5.2.3.3. [Sprint Backlog 3.](#5.2.3.3.)<br>
+5.2.3.4. [Development Evidence for Sprint Review.](#5.2.3.4.)<br>
+5.2.3.5. [Execution Evidence for Sprint Review.](#5.2.3.5.)<br>
+5.2.3.6. [Services Documentation Evidence for Sprint Review.](#5.2.3.6.)<br>
+5.2.3.7. [Software Deployment Evidence for Sprint Review.](#5.2.3.7.)<br>
+5.2.3.8. [Team Collaboration Insights during Sprint.](#5.2.3.8.)<br>
+5.3. [Validation Interviews.](#5.3.)<br>
+5.3.1. [Diseño de Entrevistas.](#5.3.1.)<br>
+5.3.2. [Registro de Entrevistas.](#5.3.2.)<br>
+5.3.3. [Evaluaciones según heurísticas.](#5.3.3.)<br>
+5.4. [Video About-the-Product.](#5.4.)<br>
 6. [**Conclusiones.**](#6.)<br>
 7. [**Bibliografía.**](#7.)<br>
 8. [**Anexos.**](#8.)<br>
@@ -2416,6 +2444,64 @@ A continuación, se compartirá la tabla de colaboradores del repositorio de Git
 | Luciana Sanchez           | Luccsss|
 
 ![1](Imagenes/Insights.png)
+
+<div id='5.2.3.'><h4> 5.2.3. Sprint 3.  </h4></div>
+
+En esta sección se detallan los resultados del tercer sprint de desarrollo del proyecto, incluyendo el Sprint Planning y el Sprint Backlog.
+
+<div id='5.2.3.1.'><h4> 5.2.3.1. Sprint Planning 3.  </h4></div>
+
+En este ítem se detalla el Sprint Planning del tercer sprint de desarrollo del proyecto, incluyendo fecha, hora, ubicación, preparado por, asistentes, objetivo del sprint y user stories. A continuación se detalla el proceso de planificación llevado a cabo para el Sprint 3.
+
+| Sprint # | 3 |
+|:---|:---|
+| **Date** | 2025-06-15 |
+| **Time** | 8:00 PM |
+| **Location** | Virtual (Google Meet) |
+| **Prepared by** | Adriana Maria Diestra Zambrano |
+| **Attendees (to planning meeting)** | Javier Masaru Nikaido Vargas, Marllely Anahi Arias Segil, Kael Valentino Lagos Rivera,  Sebastián Eduardo Hernández Poma,  Luciana Celeste Sanchez Silva, Adriana Maria Diestra Zambrano |
+| **Sprint n – 3 Review Summary** | Durante el desarrolo del Sprint 2, se logró implementar de manera exitosa el frontend web app en el buscador haciendo posible ejecutarlo y probarlo ya sea introduciendo tus datos para el registro o interactuar con las distintas ventanas que la componen.|
+| **Sprint n – 3 Retrospective Summary** | El sprint 2 se logró de manera satisfactoria. Sin embargo, como detalles a mejorar encontramos que el Fronted Web Applications debia ser realizado usando Vue como Framework por defecto. |
+| Sprint Goal & User Stories |
+| **Sprint 3 Goal** | El objetivo del Sprint 3 es .|
+| **Sprint 2 Velocity** |  |
+| **Sum of Story Points** |  |
+
+<div id='5.2.3.2.'><h4> 5.2.3.2. Aspect Leaders and Collaborators.  </h4></div>
+
+En esta seccion especificamos los roles de cada uno de los integrantes del equipo, en este caso se utilizo el rol de L (Leader) y C (Collaborator) para cada integrante.
+| Team Member (Last Name, First Name)       | GitHub Username   | Aspect Name 1 (L/C) 
+|------------------------------------------|-------------------|---------------------|
+| Sebastián Hernández          | M1sterDG     | L                   | 
+| Adriana Maria Diestra Zambrano          | adriiiiii123     | C                   | 
+| Marllely Arias          | kuwuk0            | C                   |  
+| Kael Lagos Rivera        | Kaellagos     | C                   | 
+| Javier Nikaido           | MassiFlip| C                   |  
+| Luciana Sanchez           | Luccsss| C                   |  
+
+<div id='5.2.3.3.'><h4> 5.2.3.3. Sprint Backlog 3.  </h4></div>
+
+<div id='5.2.3.4.'><h4> 5.2.3.4. Development Evidence for Sprint Review.  </h4></div>
+
+<div id='5.2.3.5.'><h4> 5.2.3.5. Execution Evidence for Sprint Review.  </h4></div>
+
+<div id='5.2.3.6.'><h4> 5.2.3.6. Services Documentation Evidence for Sprint Review.  </h4></div>
+
+<div id='5.2.3.7.'><h4> 5.2.3.7. Software Deployment Evidence for Sprint Review.  </h4></div>
+
+<div id='5.2.3.8.'><h4> 5.2.3.8. Team Collaboration Insights during Sprint.  </h4></div>
+
+A continuación, se compartirá la tabla de colaboradores del repositorio de Github para identificar a cada miembro del equipo:
+
+<div id='5.3.'><h4> 5.3. Validation Interviews.  </h4></div>
+
+<div id='5.3.1.'><h4> 5.3.1. Diseño de entrevistas.  </h4></div>
+
+<div id='5.3.2.'><h4> 5.3.2. Registro de entrevistas.  </h4></div>
+
+<div id='5.3.3.'><h4> 5.3.3. Evaluaciones según heurísticas.  </h4></div>
+
+<div id='5.4.'><h4> 5.4. Video About-the-Product.  </h4></div>
 
 <div id='6.'><h2>Conclusiones</h2></div>
 
