@@ -2460,10 +2460,10 @@ En este ítem se detalla el Sprint Planning del tercer sprint de desarrollo del 
 | **Location** | Virtual (Google Meet) |
 | **Prepared by** | Adriana Maria Diestra Zambrano |
 | **Attendees (to planning meeting)** | Javier Masaru Nikaido Vargas, Marllely Anahi Arias Segil, Kael Valentino Lagos Rivera,  Sebastián Eduardo Hernández Poma,  Luciana Celeste Sanchez Silva, Adriana Maria Diestra Zambrano |
-| **Sprint n – 3 Review Summary** | Durante el desarrolo del Sprint 2, se logró implementar de manera exitosa el frontend web app en el buscador haciendo posible ejecutarlo y probarlo ya sea introduciendo tus datos para el registro o interactuar con las distintas ventanas que la componen.|
+| **Sprint n – 3 Review Summary** | Durante el desarrolo del Sprint 2, se logró implementar de manera exitosa el frontend web app en el buscador haciendo posible ejecutarlo y probarlo ya sea introduciendo tus datos para el registro o interactuar con las distintas ventanas que la componen. El nuevo objetivo sería tomar en cuenta lo desarrollado en el Frontend web y usarlo para la implementación de un backend en el cuál se almacenen los datos de los usuarios que usen la aplicación.|
 | **Sprint n – 3 Retrospective Summary** | El sprint 2 se logró de manera satisfactoria. Sin embargo, como detalles a mejorar encontramos que el Fronted Web Applications debia ser realizado usando Vue como Framework por defecto. |
 | Sprint Goal & User Stories |
-| **Sprint 3 Goal** | El objetivo del Sprint 3 es .|
+| **Sprint 3 Goal** | El objetivo del Sprint 3 es desarrollar un backend que sirva como base de datos el cuál se encargué de gestionar a los distintos usuarios que entran a la aplicación y que a cada uno de ellos se le asigne un ID que serviría como llave para acceder al contenido del aplicativo.|
 | **Sprint 2 Velocity** |  |
 | **Sum of Story Points** |  |
 
@@ -2495,7 +2495,17 @@ A continuación, se compartirá la tabla de colaboradores del repositorio de Git
 
 <div id='5.3.'><h4> 5.3. Validation Interviews.  </h4></div>
 
+En está sección se detalla la experiencia de los usuarios al momento de usar la aplicación mediante el registro de entrevistas.
+
 <div id='5.3.1.'><h4> 5.3.1. Diseño de entrevistas.  </h4></div>
+
+Se llevaron a cabo entrevistas que buscan saber sus opiniones sobre como funciona la aplicación y si la Interfaz les fue sencilla de entender.
+
+Para ello se le hicieron las siguientes preguntas a las dos tipos de usuarios.
+
+**Segmento objetivo 1: Vecino / Residente**
+
+**Segmento objetivo 2: Administradores / Juntas Vecinales**
 
 <div id='5.3.2.'><h4> 5.3.2. Registro de entrevistas.  </h4></div>
 
