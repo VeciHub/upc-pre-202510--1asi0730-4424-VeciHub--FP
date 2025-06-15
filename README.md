@@ -2501,11 +2501,60 @@ En está sección se detalla la experiencia de los usuarios al momento de usar l
 
 Se llevaron a cabo entrevistas que buscan saber sus opiniones sobre como funciona la aplicación y si la Interfaz les fue sencilla de entender.
 
-Para ello se le hicieron las siguientes preguntas a las dos tipos de usuarios.
+Para el diseño de entrevistas se consideraron los siguientes aspectos:
 
-**Segmento objetivo 1: Vecino / Residente**
+#### Objetivo de la entrevista
 
-**Segmento objetivo 2: Administradores / Juntas Vecinales**
+Validar la usabilidad, claridad y funcionalidad de la aplicación *VeciApp* en distintos perfiles de usuario, evaluando si los flujos de interacción fueron fáciles de entender, y si la interfaz resultó intuitiva y útil para comunicarse dentro de su comunidad vecinal.
+
+
+
+#### Elementos de validación
+
+**Aplicación:**
+Se guió a los usuarios a través de las pantallas principales de la aplicación, evaluando especialmente la navegación, la comprensión de los botones e íconos, y la facilidad para realizar acciones básicas como ver anuncios, enviar mensajes o explorar las funcionalidades del perfil.
+
+
+
+#### User Flows a validar
+
+**Para usuarios generales (vecinos):**
+
+* **Visualización de anuncios y comunicados:** Comprobación de si fue fácil acceder a los mensajes importantes del vecindario.
+* **Interacción en grupos vecinales:** Evaluación de la claridad del chat grupal o espacios de discusión comunitaria.
+* **Navegación en la app:** Nivel de dificultad para encontrar y entender las secciones principales (inicio, perfil, notificaciones, etc.).
+
+**Para usuarios con rol de administrador o líder vecinal:**
+
+* **Publicación de comunicados:** Verificación de la facilidad para redactar y publicar mensajes dirigidos a su comunidad.
+* **Gestión de usuarios o grupos:** Evaluación de si fue sencillo identificar vecinos registrados o enviar mensajes a sectores específicos.
+
+
+
+#### Formato de registro de la entrevista
+
+**Datos del entrevistado:**
+
+* Nombre y apellidos
+* Edad
+* Distrito de residencia
+* Rol (vecino o líder vecinal)
+* Dispositivo utilizado (smartphone, tablet, laptop)
+
+
+
+#### Preguntas aplicadas
+
+1. ¿Qué te pareció la aplicación en general?
+2. ¿Te resultó fácil entender cómo usarla?
+3. ¿Pudiste encontrar rápido lo que buscabas, como comunicarte con vecinos o ver anuncios?
+4. ¿Te parecieron claros los botones e íconos?
+5. ¿Cambiarías algo del diseño o de cómo están ordenadas las cosas en la app?
+6. ¿Recomendarías esta app a alguien de tu barrio? ¿Por qué sí o por qué no?
+7. ¿Hubo algo que no entendiste o que te confundió mientras usabas la app?
+8. ¿Sentiste que la aplicación es útil para conectarte con tus vecinos? ¿Por qué?
+
+
 
 <div id='5.3.2.'><h4> 5.3.2. Registro de entrevistas.  </h4></div>
 
