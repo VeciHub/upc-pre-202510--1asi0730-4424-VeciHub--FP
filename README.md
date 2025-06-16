@@ -2558,6 +2558,32 @@ Se guió a los usuarios a través de las pantallas principales de la aplicación
 
 <div id='5.3.2.'><h4> 5.3.2. Registro de entrevistas.  </h4></div>
 
+[Link de los Videos]([https://drive.google.com/drive/u/0/folders/1XhsxRb1KCJkvH_cDabERqVDyYDe-LoTy](https://drive.google.com/file/d/1C1a_zrB75MK-yrrx4vUya4eQMkY6O4h1/view?usp=sharing))
+
+A continuación se presentan los detalles clave de las entrevistas realizadas.
+
+## Detalles clave de las entrevistas realizadas a los usuarios de VeciApp
+
+| Campo / Tema                                      | Respuesta                                                                 |
+|--------------------------------------------------|---------------------------------------------------------------------------|
+| **Nombre del Entrevistado**                      | Josep Melgarejo                                                         |
+| **Edad**                                         | 19 años                                                                   |
+| **Rol (vecino o líder vecinal)**                | Vecino participante                                                       |
+| **Distrito de residencia**                       | San Miguel                                                                |
+| **Dispositivo utilizado (smartphone, laptop...)**| Smartphone, tablet, laptop, computadora                                   |
+| **Minuto de inicio**                             | 00:13                                                                     |
+| **Captura de la entrevista**                     |       |
+| **Primera impresión de la aplicación**           | Le fascinó la facilidad para mostrar funciones; amigable y clara         |
+| **Facilidad para entender cómo usarla**          | Muy fácil de entender                                                     |
+| **Claridad de botones e íconos**                 | Botones e íconos amigables y bien diseñados                              |
+| **Navegación general en la app**                 | Intuitiva, diseño y paleta de colores amigables                          |
+| **Visualización de anuncios o comunicados**      | Considera que podrá encontrar los anuncios fácilmente                    |
+| **Interacción con vecinos (chat, grupos, etc.)** | Útil gracias al apartado de foros para comunicación y coordinación       |
+| **Comprensión de funcionalidades principales**   | Todo fue claro y conciso                                                  |
+| **Utilidad de la app para conectar con vecinos** | Muy útil, especialmente por los foros para dividir tareas vecinales      |
+| **Aspectos que cambiaría o mejoraría**           | Ninguno, considera que todo está bien organizado                          |
+
+
 <div id='5.3.3.'><h4> 5.3.3. Evaluaciones según heurísticas.  </h4></div>
 
 <div id='5.4.'><h4> 5.4. Video About-the-Product.  </h4></div>
