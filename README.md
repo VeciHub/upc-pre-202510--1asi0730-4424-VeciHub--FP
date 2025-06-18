@@ -2609,6 +2609,30 @@ Capturas:
 | **Utilidad de la app para conectar con vecinos** | Muy útil, especialmente por los foros para dividir tareas vecinales o hacer anuncios importantes      |
 | **Aspectos que cambiaría o mejoraría**           | Considera que no está muy claro si sus interacciones llegan a ser publicas para todos o solamente para el grupo al cual es miembro                         |
 
+<h4>Entrevista 3: Administrador / Junta Vecinal</h4>
+Capturas:
+
+![Administrador](Imagenes/EntrevistaAdministrador.png)
+
+<p>Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218110_upc_edu_pe/EQwJTPqWFV5JhgcGIc4kQTABoi_nEBg82jQDtNJuy3eVLA?e=wIG8dD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D </p>
+
+| Campo / Tema                                      | Respuesta                                                                 |
+|--------------------------------------------------|---------------------------------------------------------------------------|
+| **Nombre del Entrevistado**                      | Cielo Rafaile Raymundo                                                         |
+| **Edad**                                         | 22 años                                                                   |
+| **Rol (vecino o líder vecinal)**                | Administrador vecinal                                                        |
+| **Distrito de residencia**                       | Villa el Salvador                                                                |
+| **Dispositivo utilizado (smartphone, laptop...)**| Celular                                 |
+| **Minuto de inicio**                             | 00:02                                                                    |
+| **Primera impresión de la aplicación**           | Le pareció bastante útil y funcional.     |
+| **Facilidad para entender cómo usarla**          | Se le hizo fácil de navegar.                                                   |
+| **Claridad de botones e íconos**                 | Los botones e íconos son bastante claros. Tienen un diseño sencillo pero representativo.                           |
+| **Navegación general en la app**                 | Intuitiva, diseño y paleta de colores adecuados y poco engorrosos                          |
+| **Interacción con vecinos (chat, grupos, etc.)** | Pudo encontrar todo de manera rápida. Las secciones están bien identificadas, y tanto los anuncios como el chat con los vecinos están a pocos clics desde la pantalla principal. |
+| **Comprensión de funcionalidades principales**   | Fue claro y fácil de comprender.                                                 |
+| **Aspectos que cambiaría o mejoraría**           | Considera que organizaría un mejor la sección de eventos para que sea más visual, como con un calendario interactivo.  |
+
+
 <div id='5.3.3.'><h4> 5.3.3. Evaluaciones según heurísticas.  </h4></div>
 
 <div id='5.4.'><h4> 5.4. Video About-the-Product.  </h4></div>
