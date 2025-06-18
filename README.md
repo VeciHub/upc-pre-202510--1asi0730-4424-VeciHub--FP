@@ -2583,6 +2583,31 @@ A continuación se presentan los detalles clave de las entrevistas realizadas.
 | **Utilidad de la app para conectar con vecinos** | Muy útil, especialmente por los foros para dividir tareas vecinales      |
 | **Aspectos que cambiaría o mejoraría**           | Ninguno, considera que todo está bien organizado                          |
 
+<h4>Entrevista 2: Administrador / Junta Vecinal</h4>
+Capturas:
+
+![Administrador](Imagenes/Captura_EntrevistaRoberto3.png)
+![Administrador](Imagenes/Captura_EntrevistaRoberto4.png)
+
+<p>Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210104_upc_edu_pe/EdnL5KsgvgBAs-zBCgKeoDwBbzA-kV42m87317BEApyvmQ?e=0N0wmf&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</p>
+
+| Campo / Tema                                      | Respuesta                                                                 |
+|--------------------------------------------------|---------------------------------------------------------------------------|
+| **Nombre del Entrevistado**                      | Roberto Carlos Figueroa                                                         |
+| **Edad**                                         | 56 años                                                                   |
+| **Rol (vecino o líder vecinal)**                | Administrador vecinal                                                        |
+| **Distrito de residencia**                       | Surquillo                                                                |
+| **Dispositivo utilizado (smartphone, laptop...)**| Smartphone, tablet, laptop, computadora                                   |
+| **Minuto de inicio**                             | 00:01                                                                     |
+| **Primera impresión de la aplicación**           | Le parecio una aplicación muy amigable con los usuarios en el sentido de que es facíl de usar         |
+| **Facilidad para entender cómo usarla**          | Se le hizo muy facil de usar, es muy práctica                                                     |
+| **Claridad de botones e íconos**                 | Botones e íconos faciles de identificar                             |
+| **Navegación general en la app**                 | Intuitiva, diseño y paleta de colores adecuados y poco engorrosos                          |
+| **Visualización de anuncios o comunicados**      | Considera que podrá encontrar los anuncios fácilmente al momento de entrar a la aplicación                    |
+| **Interacción con vecinos (chat, grupos, etc.)** | Útil gracias al apartado de foros para comunicación y coordinación con los miembros de la comunidad       |
+| **Comprensión de funcionalidades principales**   | Fue claro, bien explicado y facil de comprender                                                  |
+| **Utilidad de la app para conectar con vecinos** | Muy útil, especialmente por los foros para dividir tareas vecinales o hacer anuncios importantes      |
+| **Aspectos que cambiaría o mejoraría**           | Considera que no está muy claro si sus interacciones llegan a ser publicas para todos o solamente para el grupo al cual es miembro                         |
 
 <div id='5.3.3.'><h4> 5.3.3. Evaluaciones según heurísticas.  </h4></div>
 
