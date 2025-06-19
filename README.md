@@ -2558,8 +2558,7 @@ Se guió a los usuarios a través de las pantallas principales de la aplicación
 
 <div id='5.3.2.'><h4> 5.3.2. Registro de entrevistas.  </h4></div>
 
-[Link de los Videos]([https://drive.google.com/drive/u/0/folders/1XhsxRb1KCJkvH_cDabERqVDyYDe-LoTy](https://drive.google.com/file/d/1C1a_zrB75MK-yrrx4vUya4eQMkY6O4h1/view?usp=sharing))
-
+[Link de los Videos]  <p>https://drive.google.com/drive/folders/1XhsxRb1KCJkvH_cDabERqVDyYDe-LoTy?usp=sharing</p>
 A continuación se presentan los detalles clave de las entrevistas realizadas.
 
 ## Detalles clave de las entrevistas realizadas a los usuarios de VeciApp
@@ -2632,7 +2631,45 @@ Capturas:
 | **Comprensión de funcionalidades principales**   | Fue claro y fácil de comprender.                                                 |
 | **Aspectos que cambiaría o mejoraría**           | Considera que organizaría un mejor la sección de eventos para que sea más visual, como con un calendario interactivo.  |
 
+<h4>Entrevista 4 : Usuario de servicios vecinales</h4>
 
+| Campo / Tema |      Respuesta                                 |
+|---------------------------------------------|--------------------------------------|
+| **Nombre Entrevistado**                     | Sebastián                             |
+| **Edad**                                    | 19                                  |
+| **Profesión**                               | Estudiante                         |
+| **Departamento**                            | Lima                          |
+| **Minuto de inicio**                        | 00:00 min                            |
+| **Captura de la entrevista**                |                                      |
+| **Experiencia general con la app**          | La interfaz es muy intuitiva, le gustó cómo permite la conexión entre vecinos mediante mensajes comunitarios. La considera disfrutable. |
+| **Facilidad de uso**                        | Todo fue sencillo de entender, mostraba bien las notificaciones y el método de mensajes. |
+| **Búsqueda y comunicación**                 | Pudo encontrar rápidamente lo que buscaba usando el buscador. |
+| **Claridad de botones e íconos**            | Botones claros, colores llamativos, considera que se ve bien. |
+| **Sugerencias de mejora en el diseño**      | Cambiaría un poco el orden de los elementos para mejorar la distribución. |
+| **Recomendación a otros vecinos**           | Sí, la recomienda por ser amigable y simple de entender. |
+| **Confusión o dificultad**                  | Le confundió un poco la organización del contenido, pero en general fue disfrutable. |
+| **Utilidad para conectar con vecinos**      | Sí, considera que ayuda mucho a comunicarse mejor, especialmente en emergencias o reuniones. |
+
+<h4>Entrevista 5: Usuario de servicios vecinales </h4>
+
+| Campo / Tema  | Respuesta                                     |
+|---------------------------------------------|--------------------------------------|
+| **Nombre Entrevistado**                     | Jocelyn Damalia Almerco Rojas       |
+| **Edad**                                    | No indicado                          |
+| **Profesión**                               | Estudiante universitaria de Ingeniería de Software |
+| **Departamento**                            | No indicado                          |
+| **Minuto de inicio**                        | 00:00 min                            |
+| **Captura de la entrevista**                |                                      |
+| **Experiencia general con la app**          | Le pareció muy interesante y con una interfaz organizada. Fácil de usar. |
+| **Facilidad de uso**                        | Sí, porque está bien estructurada, con palabras simples y cotidianas que facilitan la interacción. |
+| **Búsqueda y comunicación**                 | Pudo encontrar fácilmente cómo comunicarse con vecinos mediante los foros. |
+| **Claridad de botones e íconos**            | Sí, fueron de gran ayuda para entender y navegar la página. |
+| **Sugerencias de mejora en el diseño**      | No cambiaría nada, está conforme con la organización y estructura. |
+| **Recomendación a otros vecinos**           | Sí, la recomendaría porque está personalizada para la comunicación vecinal y mejora la organización. |
+| **Confusión o dificultad**                  | No encontró nada confuso; le pareció todo muy ordenado y fácil de entender. |
+| **Utilidad para conectar con vecinos**      | Sí, porque permite enterarse de noticias, reportar incidencias y organizarse como comunidad. |
+
+ 
 <div id='5.3.3.'><h4> 5.3.3. Evaluaciones según heurísticas.  </h4></div>
 
 <div id='5.4.'><h4> 5.4. Video About-the-Product.  </h4></div>
