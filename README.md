@@ -81,7 +81,7 @@ Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la im
 
 |Integrante|Tareas Asignadas|
 |-|-|
-|Marllely Arias||
+|Marllely Arias|Desarrollo la migración de las interfaces de incidencia y perfil a Vue para la entrega del sprint 3.|
 |Javier Nikaido||
 |Kael Lagos|Tomando en cuenta la retroalimentación dada por el profesor en la anterior entrega, nos dividimos el traslado de las pestañas del Frontend Web hacia Vue. En mi caso yo trasladé las pestañas de comunidad y votaciones. Además de llevar a cabo la entrevista perteneciente a la opinión de los usuarios hacia nuestra aplicación y la evaluación según heurística.|
 |Sebastián Hernández||
