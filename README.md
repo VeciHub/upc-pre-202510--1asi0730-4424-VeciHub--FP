@@ -2774,6 +2774,8 @@ Mejora sugerida a futuro: Un mini tutorial o sección de preguntas frecuentes (F
 
 <div id='5.4.'><h4> 5.4. Video About-the-Product.  </h4></div>
 
+https://youtu.be/ixnIggKNZdI 
+
 <div id='6.'><h2>Conclusiones</h2></div>
 
 Tras indigar en la información de distintos sitios web y analizar todas las entrevistas realizadas, hemos llegado a la conclusión de que una plataforma para vecinos o lideres de vecindario es muy importante hoy en día. Hoy en día vivimos en la epoca de la modernidad tecnologica, vivimos rodeados de internet, dispositivos inteligentes como celulares, computadoras de escritorio o portatiles y canales de comunicación como lo pueden ser las redes sociales.
