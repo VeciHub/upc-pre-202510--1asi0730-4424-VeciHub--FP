@@ -2508,6 +2508,11 @@ Link del repositorio: https://github.com/VeciHub/AplicacionWeb
 
 A continuación, se compartirá la tabla de colaboradores del repositorio de Github para identificar a cada miembro del equipo:
 
+<div>
+    <h3>Captura</h3>
+    <img src="Imagenes/prueba3.png" alt="Captura de pantalla 165509" width="600">
+  </div>
+
 <div id='5.3.'><h4> 5.3. Validation Interviews.  </h4></div>
 
 En está sección se detalla la experiencia de los usuarios al momento de usar la aplicación mediante el registro de entrevistas.
