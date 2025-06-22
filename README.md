@@ -2497,14 +2497,16 @@ Nuestro enfoque principal durante este Sprint fue migrar por completo el fronten
 
 <div id='5.2.3.4.'><h4> 5.2.3.4. Development Evidence for Sprint Review.  </h4></div>
 
-En esta sección se presentan los commits realizados en el repositorio de la aplicación web, abarcando tanto los cambios en el frontend como en el backend durante el Sprint 3.
+En esta sección se presentan los commits realizados en el repositorio de la aplicación web, los cuales abarcan tanto el primer avance del backend como la migración del frontend al framework Vue.js, desarrollados durante el Sprint 3.
 
-A continuación se presenta un registro de los cambios realizados en la interfaz de usuario de nuestra
-aplicación.
+| Repositorio                               | Rama  | ID del Commit | Mensaje del Commit                                          | Cuerpo del Mensaje del Commit                                                                 | Fecha del Commit |
+|-------------------------------------------|-------|----------------|-------------------------------------------------------------|-----------------------------------------------------------------------------------------------|------------------|
+| https://github.com/VeciHub/AplicacionWeb  | main  | ed56a3b        | feat: Agregar backend con Express y conexión a Azure MySQL | feat: Se agregó la estructura base del backend con Express y conexión a Azure MySQL           | 21/06/2025       |
+| https://github.com/VeciHub/AplicacionWeb  | main  | bc97ea5        | feat: Agregar imágenes a la app                             | feat: Se añadieron imágenes al frontend                                                        | 21/06/2025       |
+| https://github.com/VeciHub/AplicacionWeb  | main  | 52d8201        | feat: Sección Perfil y Incidencia a Vue                     | feat: Se migró la sección de Perfil e Incidencia a Vue.js                                     | 18/06/2025       |
+| https://github.com/VeciHub/AplicacionWeb  | main  | eba9c67        | feat: Implementar landing page con diseño inicial           | feat: Se implementó la landing page con su primer diseño en Vue                              | 16/06/2025       |
+| https://github.com/VeciHub/AplicacionWeb  | main  | c27f96b        | feat: Subida inicial del proyecto VeciHub con Vue           | feat: Se realizó la primera subida del proyecto VeciHub utilizando Vue.js                    | 02/06/2025       |
 
-| Repositorio                                | Rama  | ID del Commit | Mensaje del Commit                                          | Cuerpo del Mensaje del Commit                                              | Fecha del Commit |
-|-------------------------------------------|-------|----------------|-------------------------------------------------------------|------------------------------------------------------------------------------|------------------|
-| https://github.com/VeciHub/AplicacionWeb  | main  | ed56a3b        | feat: Agregar backend con Express y conexión a Azure MySQL | feat: Se agregó la estructura base del backend con Express y conexión a Azure MySQL | 21/06/2025       |
 
 
 <div id='5.2.3.5.'><h4> 5.2.3.5. Execution Evidence for Sprint Review.  </h4></div>
