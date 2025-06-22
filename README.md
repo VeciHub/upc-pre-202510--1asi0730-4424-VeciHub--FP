@@ -2483,12 +2483,16 @@ En esta seccion especificamos los roles de cada uno de los integrantes del equip
 
 Nuestro enfoque principal durante este Sprint fue migrar por completo el frontend de nuestra plataforma VeciHub al framework Vue.js. Asimismo, se logró un primer avance en la implementación del backend, sentando las bases para el desarrollo de las funcionalidades clave del sistema.
 
-| ID   | Historia de Usuario                                                                 | Tareas Técnicas                                                                                                                                                                                                                                      | Responsable        | Prioridad | Estimación |
-|------|---------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|-----------|------------|
-| TS01 | Como administrador, quiero obtener una lista de usuarios registrados en la comunidad | - Crear endpoint GET /usuarios en routes/usuarios.js <br>- Implementar función getUsuarios en controllers/usuariosController.js<br>- Conectar a la base de datos MySQL en Azure<br>- Probar el endpoint                        | Sebastian Hernandez  | Alta      | 4 horas    |
-| US03 | Como usuario, quiero ver y editar mi perfil                |  - Implementar el componente para subida de imagen <br>- Guardar la imagen y actualizar base de datos            | Marllely Arias| Alta      | 3 horas    |
-| US10 | Como usuario, quiero poder votar en encuestas de mi comunidad.                                              | - Agregar campo para que el usuario marque la opcion <br>- Validar que el usuario no vote más de una vez<br>- Registrar voto en base de datos<br>                                                                 | Luciana Sanchez  | Media     | 4 horas    |
-| US11 | Como usuario, quiero reportar un incidente pudiendo subir una imagen o video como evidencia.                          | - Agregar carga de archivos (imagen/video) en frontend <br>- Procesar y guardar archivos <br>- Guardar datos del reporte                                       | Marllely Arias| Alta      | 4 horas    |
+| ID    | Historia de Usuario                                                                 | Tareas Técnicas                                                                                                                                                                         | Responsable         | Prioridad | Estimación |
+|-------|---------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-----------|------------|
+| TS01  | Como administrador, quiero obtener una lista de usuarios registrados en la comunidad | - Crear endpoint GET /usuarios en routes/usuarios.js <br>- Implementar función getUsuarios en controllers/usuariosController.js<br>- Conectar a la base de datos MySQL en Azure<br>- Probar el endpoint | Sebastian Hernandez  | Alta      | 6 horas    |
+| US003 | Como usuario, quiero registrar una nueva comunidad                                   | Migración a Vue                                                                                                                                                                         | Kael Lagos      | Alta      | 4 horas    |
+| US001 | Como usuario, quiero registrarme en la plataforma                                    | Migración a Vue                                                                                                                                                                         | Luciana Sanchez      | Alta      | 4 horas    |
+| US002 | Como usuario, quiero visualizar una landing page clara y atractiva                   |  Migración a Vue|  Adriana Diestra     | Alta      | 6 horas    |
+| US03  | Como usuario, quiero ver y editar mi perfil                                          | Migración a Vue                                                                                                                                                                         | Marllely Arias      | Alta      | 3 horas    |
+| US11  | Como usuario, quiero reportar un incidente  | Migración a Vue                                                                                                                                                                         | Marllely Arias      | Alta      | 4 horas    |
+
+
 
 
 <div id='5.2.3.4.'><h4> 5.2.3.4. Development Evidence for Sprint Review.  </h4></div>
@@ -2504,17 +2508,18 @@ aplicación.
 
 
 <div id='5.2.3.5.'><h4> 5.2.3.5. Execution Evidence for Sprint Review.  </h4></div>
-En esta sección se presentan las evidencias de la aplicación para el sprint 3. Pesentamos una recopilación visual de los
-avances logrados durante este sprint.
-
-
+Durante el Sprint 3 se desarrolló el primer avance del backend, junto con la migración del frontend previamente trabajado al framework Vue.js. Además, se implementó una consulta inicial, la cual ya puede observarse reflejada en el endpoint GET /usuarios.
 
 <div id='5.2.3.6.'><h4> 5.2.3.6. Services Documentation Evidence for Sprint Review.  </h4></div>
+En esta entrega, logramos con éxito un primer avance del backend, que funciona como una base de datos para gestionar la información de los usuarios registrados en la aplicación.
+
+Repositorio del proyecto: https://github.com/VeciHub/AplicacionWeb
 
 <div id='5.2.3.7.'><h4> 5.2.3.7. Software Deployment Evidence for Sprint Review.  </h4></div>
 
-Para esta entrega, el equipo VeciHub logró implementar de manera exitosa un backend, el cual funciona como una base de datos en la que se gestiona la información de los usuarios registrados en la aplicación. 
-Link del repositorio: https://github.com/VeciHub/AplicacionWeb
+El despliegue del frontend se realizó de manera exitosa, incluyendo los últimos cambios correspondientes a la migración hacia Vue.js. 
+
+Frontend desplegado: https://aplicacion-web-ten.vercel.app
 
 <div id='5.2.3.8.'><h4> 5.2.3.8. Team Collaboration Insights during Sprint.  </h4></div>
 
@@ -2686,10 +2691,10 @@ Capturas:
 
 | Campo / Tema  | Respuesta                                     |
 |---------------------------------------------|--------------------------------------|
-| **Nombre Entrevistado**                     | Jocelyn Damalia Almerco Rojas       |
-| **Edad**                                    | No indicado                          |
+| **Nombre Entrevistado**                     | Jocelyn Damaly Almerco Rojas       |
+| **Edad**                                    | 21                        |
 | **Profesión**                               | Estudiante universitaria de Ingeniería de Software |
-| **Departamento**                            | No indicado                          |
+| **Departamento**                            | Lima                          |
 | **Minuto de inicio**                        | 00:00 min                            |
 | **Captura de la entrevista**                |                                      |
 | **Experiencia general con la app**          | Le pareció muy interesante y con una interfaz organizada. Fácil de usar. |
