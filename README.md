@@ -2481,21 +2481,33 @@ En esta seccion especificamos los roles de cada uno de los integrantes del equip
 
 <div id='5.2.3.3.'><h4> 5.2.3.3. Sprint Backlog 3.  </h4></div>
 
-| ID    | Historia de Usuario                                                                 | Tareas Técnicas                                                                                                   | Responsable        | Prioridad | Estimación |
-|-------|--------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|--------------------|-----------|------------|
-| HU  | Como administrador, quiero                     |    |    |       |    |
-| HU  | Como residente, quiero                            |                                               | |       |     |
-| HU  | Como usuario, quiero                                        |                                    |     |      |     |
-| HU  | Como usuario, quiero                                            |                                               |      |      |    |
-| HU  | Como usuario, quiero                                                 |                                   | |      |     |
-| HU  | Como usuario, quiero                                             |                                                 |     |      |     |
-| HU  | Como usuario, quiero                                          |                                | |      |     |
-| HU  | Como usuario, quiero                           |                        |      |      |     |
-| HU  | Como usuario, quiero                  |                               |         |     |    |
+Nuestro enfoque principal durante este Sprint fue migrar por completo el frontend de nuestra plataforma VeciHub al framework Vue.js. Asimismo, se logró un primer avance en la implementación del backend, sentando las bases para el desarrollo de las funcionalidades clave del sistema.
+
+| ID   | Historia de Usuario                                                                 | Tareas Técnicas                                                                                                                                                                                                                                      | Responsable        | Prioridad | Estimación |
+|------|---------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|-----------|------------|
+| TS01 | Como administrador, quiero obtener una lista de usuarios registrados en la comunidad | - Crear endpoint GET /usuarios en routes/usuarios.js <br>- Implementar función getUsuarios en controllers/usuariosController.js<br>- Conectar a la base de datos MySQL en Azure<br>- Probar el endpoint                        | Sebastian Hernandez  | Alta      | 4 horas    |
+| US03 | Como usuario, quiero ver y editar mi perfil                |  - Implementar el componente para subida de imagen <br>- Guardar la imagen y actualizar base de datos            | Marllely Arias| Alta      | 3 horas    |
+| US10 | Como usuario, quiero poder votar en encuestas de mi comunidad.                                              | - Agregar campo para que el usuario marque la opcion <br>- Validar que el usuario no vote más de una vez<br>- Registrar voto en base de datos<br>                                                                 | Luciana Sanchez  | Media     | 4 horas    |
+| US11 | Como usuario, quiero reportar un incidente pudiendo subir una imagen o video como evidencia.                          | - Agregar carga de archivos (imagen/video) en frontend <br>- Procesar y guardar archivos <br>- Guardar datos del reporte                                       | Marllely Arias| Alta      | 4 horas    |
+
 
 <div id='5.2.3.4.'><h4> 5.2.3.4. Development Evidence for Sprint Review.  </h4></div>
 
+En esta sección se presentan los commits realizados en el repositorio de la aplicación web, abarcando tanto los cambios en el frontend como en el backend durante el Sprint 3.
+
+A continuación se presenta un registro de los cambios realizados en la interfaz de usuario de nuestra
+aplicación.
+
+| Repositorio                                | Rama  | ID del Commit | Mensaje del Commit                                          | Cuerpo del Mensaje del Commit                                              | Fecha del Commit |
+|-------------------------------------------|-------|----------------|-------------------------------------------------------------|------------------------------------------------------------------------------|------------------|
+| https://github.com/VeciHub/AplicacionWeb  | main  | ed56a3b        | feat: Agregar backend con Express y conexión a Azure MySQL | feat: Se agregó la estructura base del backend con Express y conexión a Azure MySQL | 21/06/2025       |
+
+
 <div id='5.2.3.5.'><h4> 5.2.3.5. Execution Evidence for Sprint Review.  </h4></div>
+En esta sección se presentan las evidencias de la aplicación para el sprint 3. Pesentamos una recopilación visual de los
+avances logrados durante este sprint.
+
+
 
 <div id='5.2.3.6.'><h4> 5.2.3.6. Services Documentation Evidence for Sprint Review.  </h4></div>
 
