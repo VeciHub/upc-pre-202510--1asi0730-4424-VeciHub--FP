@@ -97,7 +97,7 @@ Para el desarrollo del informe perteneciente a la entrega TF, se dividió la imp
 
 |Integrante|Tareas Asignadas|
 |-|-|
-|Marllely Arias (Retirado)||
+|Marllely Arias ||
 |Javier Nikaido||
 |Kael Lagos|Encargado de juntar los videos referentes al About-the-team, en donde los integrantes expresan todas las cosas que aprendieron a lo largo del curso además de indicar que cosas detectaron para mejorar, así como sus agradecimientos al profesor del curso.|
 |Sebastián Hernández||
@@ -2585,7 +2585,7 @@ En esta seccion especificamos los roles de cada uno de los integrantes del equip
 |------------------------------------------|-------------------|---------------------|
 | Sebastián Hernández          | M1sterDG     | L                   | 
 | Adriana Maria Diestra Zambrano          | adriiiiii123     | C                   | 
-| Marllely Arias (Retirado)          | kuwuk0            | C                   |  
+| Marllely Arias          | kuwuk0            | C                   |  
 | Kael Lagos Rivera        | Kaellagos     | C                   | 
 | Javier Nikaido           | MassiFlip| C                   |  
 | Luciana Sanchez           | Luccsss| C                   |  
