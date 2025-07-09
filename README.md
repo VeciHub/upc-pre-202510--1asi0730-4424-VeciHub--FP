@@ -40,6 +40,7 @@ Aplicaciones Web - 1ASI0730 <br>
 |1.1|18/04/2025|Arias, Sanchez|Avance del capitulo 4 del informe|
 |1.2|14/05/2025|Lagos, Kael|Añadido de nuevos puntos en el informe además de ampliar el segmento de comentarios referentes a la participación de los integrantes|
 |1.3|24/06/2025|Hernández, Sebastian|Añadido de la versión final del Fronted y primeros apartados del Backend|
+|1.4|9/07/2025|Hernández, Sebastian|Añadido de la versión final del Backend y apartados finales del informe|
 
 ## Project Report Collaboration Insights
 
