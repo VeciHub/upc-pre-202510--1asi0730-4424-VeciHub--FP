@@ -2514,7 +2514,7 @@ Nuestro enfoque principal durante este Sprint fue migrar por completo el fronten
 | US001 | Como usuario, quiero registrarme en la plataforma                                    | Migración a Vue                                                                                                                                                                         | Luciana Sanchez      | Alta      | 4 horas    |
 | US002 | Como usuario, quiero visualizar una landing page clara y atractiva                   |  Migración a Vue|  Adriana Diestra     | Alta      | 6 horas    |
 | US03  | Como usuario, quiero ver y editar mi perfil                                          | Migración a Vue                                                                                                                                                                         | Marllely Arias      | Alta      | 3 horas    |
-| US11  | Como usuario, quiero reportar un incidente  | Migración a Vue                                                                                                                                                                         | Marllely Arias      | Alta      | 4 horas    |
+| US11  | Como usuario, quiero reportar un incidente  | Migración a Vue                                                                                                                                                                         | Marllely Arias      | Alta      | 4 horas |   
 
 
 
@@ -2615,7 +2615,7 @@ En esta sección se presentan los commits realizados en el repositorio del Backe
 | https://github.com/VeciHub/vecihub.Api  | main  | ccaca1d        | feat: Initial commit| feat: Se agregó la estructura base del backend con Express y conexión a Azure MySQL           | 6/07/2025       |
 | https://github.com/VeciHub/vecihub.Api  | main  | bf12cb0        | feat: Primera carga                             | feat: Se añadieron los primeros archivos referentes al Backend                                                       | 6/07/2025       |
 | https://github.com/VeciHub/vecihub.Api  | main  | 3ed520c        | feat: Primer commit del proyecto VeciHub.Api                    | feat: Se incluyó los elementos faltantes del Backend así como el despliegue junto al Fronted                                     | 8/07/2025       |
-|
+
 
 
 
