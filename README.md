@@ -216,6 +216,15 @@ Los integrantes son:
 5.2.3.6. [Services Documentation Evidence for Sprint Review.](#5.2.3.6.)<br>
 5.2.3.7. [Software Deployment Evidence for Sprint Review.](#5.2.3.7.)<br>
 5.2.3.8. [Team Collaboration Insights during Sprint.](#5.2.3.8.)<br>
+5.2.4. [Sprint 4.](#5.2.4.)<br>
+5.2.4.1. [Sprint Planning 4.](#5.2.4.1.)<br>
+5.2.4.2. [Aspect Leaders and Collaborators](#5.2.4.2.)<br>
+5.2.4.3. [Sprint Backlog 4.](#5.2.4.3.)<br>
+5.2.4.4. [Development Evidence for Sprint Review.](#5.2.4.4.)<br>
+5.2.4.5. [Execution Evidence for Sprint Review.](#5.2.4.5.)<br>
+5.2.4.6. [Services Documentation Evidence for Sprint Review.](#5.2.4.6.)<br>
+5.2.4.7. [Software Deployment Evidence for Sprint Review.](#5.2.4.7.)<br>
+5.2.4.8. [Team Collaboration Insights during Sprint.](#5.2.4.8.)<br>
 5.3. [Validation Interviews.](#5.3.)<br>
 5.3.1. [Diseño de Entrevistas.](#5.3.1.)<br>
 5.3.2. [Registro de Entrevistas.](#5.3.2.)<br>
@@ -2544,6 +2553,92 @@ A continuación, se compartirá la tabla de colaboradores del repositorio de Git
 <div>
     <h3>Captura</h3>
     <img src="Imagenes/prueba3.png" alt="Captura de pantalla 165509" width="600">
+  </div>
+
+<div id='5.2.4.'><h4> 5.2.4. Sprint 4.  </h4></div>
+
+En esta sección se detallan los resultados del tercer sprint de desarrollo del proyecto, incluyendo el Sprint Planning y el Sprint Backlog.
+
+<div id='5.2.4.1.'><h4> 5.2.4.1. Sprint Planning 4.  </h4></div>
+
+En este ítem se detalla el Sprint Planning del tercer sprint de desarrollo del proyecto, incluyendo fecha, hora, ubicación, preparado por, asistentes, objetivo del sprint y user stories. A continuación se detalla el proceso de planificación llevado a cabo para el Sprint 4.
+
+| Sprint # | 4 |
+|:---|:---|
+| **Date** | 2025-06-15 |
+| **Time** | 6:00 PM |
+| **Location** | Virtual (Google Meet) |
+| **Prepared by** | Hernández Poma, Sebastián Eduardo |
+| **Attendees (to planning meeting)** | Javier Masaru Nikaido Vargas, Marllely Anahi Arias Segil, Kael Valentino Lagos Rivera,  Sebastián Eduardo Hernández Poma,  Luciana Celeste Sanchez Silva, Adriana Maria Diestra Zambrano |
+| **Sprint n – 4 Review Summary** | Durante el desarrolo del Sprint 3, se logró implementar de manera exitosa la versión final del Frontend web app usando Vue haciendo posible ejecutarlo y probarlo ya sea introduciendo tus datos para el registro o interactuar con las distintas ventanas que la componen. El nuevo objetivo sería implementar la versión final del Backend para luego desplegar todo el aplicativo durante la exposición.|
+| **Sprint n – 4 Retrospective Summary** | El sprint 3 se logró de manera satisfactoria. Sin embargo, como detalles a mejorar sería implementar la versión final del Backend con tal de desplegarlo junto al Fronted desarrollado anteriormente.|
+| Sprint Goal & User Stories |
+| **Sprint 4 Goal** | El objetivo del Sprint 4 es desarrollar un backend que sirva como base de datos el cuál se encargué de gestionar a los distintos usuarios que entran a la aplicación y que a cada uno de ellos se le asigne un ID que serviría como llave para acceder al contenido del aplicativo.|
+| **Sprint 3 Velocity** |  |
+| **Sum of Story Points** |  |
+
+<div id='5.2.4.2.'><h4> 5.2.4.2. Aspect Leaders and Collaborators.  </h4></div>
+
+En esta seccion especificamos los roles de cada uno de los integrantes del equipo, en este caso se utilizo el rol de L (Leader) y C (Collaborator) para cada integrante.
+| Team Member (Last Name, First Name)       | GitHub Username   | Aspect Name 1 (L/C) 
+|------------------------------------------|-------------------|---------------------|
+| Sebastián Hernández          | M1sterDG     | L                   | 
+| Adriana Maria Diestra Zambrano          | adriiiiii123     | C                   | 
+| Marllely Arias (Retirado)          | kuwuk0            | C                   |  
+| Kael Lagos Rivera        | Kaellagos     | C                   | 
+| Javier Nikaido           | MassiFlip| C                   |  
+| Luciana Sanchez           | Luccsss| C                   |  
+
+<div id='5.2.4.3.'><h4> 5.2.4.3. Sprint Backlog 4.  </h4></div>
+
+Nuestro enfoque principal durante este Sprint fue desarrollar de mejor forma el Backend para luego desplegarlo al lado del Fronted desarrollado en Vue con tal de que los datos sean los correctos según los datos que el usuario ingrese en la aplicación.
+
+| ID    | Historia de Usuario                                                                 | Tareas Técnicas                                                                                                                                                                         | Responsable         | Prioridad | Estimación |
+|-------|---------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-----------|------------|
+| TS01  | Como administrador, quiero obtener una lista de usuarios registrados en la comunidad | - Crear endpoint GET /usuarios en routes/usuarios.js <br>- Implementar función getUsuarios en controllers/usuariosController.js<br>- Conectar a la base de datos MySQL en Azure<br>- Probar el endpoint | Sebastian Hernandez  | Alta      | 6 horas    |
+| US00 |                                    |                                                                                                                                                                         |       |       |    |
+| US00 |                                    |                                                                                                                                                                         |       |       |     |
+| US0 |                    |  |       |       |     |
+| US  |                                           |                                                                                                                                                                          |       |       |     |
+| US  |   |                                                                                                                                                                          |       |       |     |
+
+
+
+
+<div id='5.2.4.4.'><h4> 5.2.4.4. Development Evidence for Sprint Review.  </h4></div>
+
+En esta sección se presentan los commits realizados en el repositorio del Backend, los cuales abarcan desde su versión inicial hasta la versión definitiva.
+
+| Repositorio                               | Rama  | ID del Commit | Mensaje del Commit                                          | Cuerpo del Mensaje del Commit                                                                 | Fecha del Commit |
+|-------------------------------------------|-------|----------------|-------------------------------------------------------------|-----------------------------------------------------------------------------------------------|------------------|
+| https://github.com/VeciHub/vecihub.Api  | main  | ccaca1d        | feat: Initial commit| feat: Se agregó la estructura base del backend con Express y conexión a Azure MySQL           | 6/07/2025       |
+| https://github.com/VeciHub/vecihub.Api  | main  | bf12cb0        | feat: Primera carga                             | feat: Se añadieron los primeros archivos referentes al Backend                                                       | 6/07/2025       |
+| https://github.com/VeciHub/vecihub.Api  | main  | 3ed520c        | feat: Primer commit del proyecto VeciHub.Api                    | feat: Se incluyó los elementos faltantes del Backend así como el despliegue junto al Fronted                                     | 8/07/2025       |
+|
+
+
+
+<div id='5.2.4.5.'><h4> 5.2.4.5. Execution Evidence for Sprint Review.  </h4></div>
+Durante el Sprint 4 se desarrolló la versión final del backend, junto con el despliegue del Fronted. Además, se implementó la conexión con Fronted con tal de que asigne a cada usuario registrado una llave que serviria como Pin exclusivo e irrepetible para cada uno.
+
+<div id='5.2.4.6.'><h4> 5.2.4.6. Services Documentation Evidence for Sprint Review.  </h4></div>
+En esta entrega, logramos desarrollar con éxito la versión final del backend, que funciona como una base de datos para gestionar la información de los usuarios registrados en la aplicación.
+
+Repositorio del proyecto: https://github.com/VeciHub/vecihub.Api
+
+<div id='5.2.4.7.'><h4> 5.2.4.7. Software Deployment Evidence for Sprint Review.  </h4></div>
+
+El despliegue del backend se realizó de manera exitosa, incluyendo los últimos cambios correspondientes a su despliegue. 
+
+Backend desplegado: 
+
+<div id='5.2.4.8.'><h4> 5.2.4.8. Team Collaboration Insights during Sprint.  </h4></div>
+
+A continuación, se compartirá la tabla de colaboradores del repositorio de Github para identificar a cada miembro del equipo:
+
+<div>
+    <h3>Captura</h3>
+    <img src="Imagenes/prueba4.png" alt="Captura de pantalla 165509" width="600">
   </div>
 
 <div id='5.3.'><h4> 5.3. Validation Interviews.  </h4></div>
