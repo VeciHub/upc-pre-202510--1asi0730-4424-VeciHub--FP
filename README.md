@@ -90,7 +90,7 @@ Para el desarrollo del informe perteneciente a la entrega TB2, se dividió la im
 |Luciana Sanchez|Migración de las pestañas faltantes al Fronted de Vue para un despliegue a corde las instrucciones.|
 |Adriana Diestra|Desarrolló y migró la landing page a Vue.js, utilizando componentes para mejorar la estructura del código. Además, realizó una entrevista a un Administrador de Junta Vecinal para identificar las necesidades reales de la comunidad.|
 
-**TB2**
+**TF**
 
 Para el desarrollo del informe perteneciente a la entrega TF, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
 
