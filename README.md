@@ -2629,9 +2629,19 @@ Repositorio del proyecto: https://github.com/VeciHub/vecihub.Api
 
 <div id='5.2.4.7.'><h4> 5.2.4.7. Software Deployment Evidence for Sprint Review.  </h4></div>
 
-El despliegue del backend se realizó de manera exitosa, incluyendo los últimos cambios correspondientes a su despliegue. 
+Para el presente sprint, se ha logrado la implementación completa del backend, lo que ha permitido alcanzar la funcionalidad integral de la aplicación web. Para ello, se emplearon herramientas clave que facilitaron el desarrollo colaborativo y organizado.
 
-Backend desplegado: 
+Con la implementación completa del backend, se asegura que la aplicación web esté lista para cumplir con todos los requisitos funcionales establecidos.
+
+Backend desplegado: ![1](Imagenes/deploy.jpg)
+![1](Imagenes/deploy2.jpg)
+
+Para acceder al api se debe usar la ruta especificada debajo del nombre del proyecto.
+![1](Imagenes/api.jpg)
+![1](Imagenes/api2.jpg)
+![1](Imagenes/api3.jpg)
+
+El enlace del API, para probar desde swagger esta aquí:
 
 <div id='5.2.4.8.'><h4> 5.2.4.8. Team Collaboration Insights during Sprint.  </h4></div>
 
