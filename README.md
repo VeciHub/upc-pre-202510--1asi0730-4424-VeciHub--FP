@@ -100,10 +100,9 @@ Para el desarrollo del informe perteneciente a la entrega TF, se dividió la imp
 |Marllely Arias ||
 |Javier Nikaido||
 |Kael Lagos|Encargado de juntar los videos referentes al About-the-team, en donde los integrantes expresan todas las cosas que aprendieron a lo largo del curso además de indicar que cosas detectaron para mejorar, así como sus agradecimientos al profesor del curso.|
-|Sebastián Hernández||
+|Sebastián Hernández|Implementacion del Users y WeatherForecast api|
 |Luciana Sanchez||
-|Adriana Diestra||
-**Github Collaboration Insights**
+|Adriana Diestra|Desarrollo del sprint 4|
 
 Github también presenta un timeline de las ramas principales y los procesos de merge a los que se han sometido. Todas las ramas se crearon tomando en cuenta el diseño de GitFlow para una buena organización cuando se usa un software de control de versiones.
 
@@ -2597,13 +2596,6 @@ Nuestro enfoque principal durante este Sprint fue desarrollar de mejor forma el 
 | ID    | Historia de Usuario                                                                 | Tareas Técnicas                                                                                                                                                                         | Responsable         | Prioridad | Estimación |
 |-------|---------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-----------|------------|
 | TS01  | Como administrador, quiero obtener una lista de usuarios registrados en la comunidad | - Crear endpoint GET /usuarios en routes/usuarios.js <br>- Implementar función getUsuarios en controllers/usuariosController.js<br>- Conectar a la base de datos MySQL en Azure<br>- Probar el endpoint | Sebastian Hernandez  | Alta      | 6 horas    |
-| US00 |                                    |                                                                                                                                                                         |       |       |    |
-| US00 |                                    |                                                                                                                                                                         |       |       |     |
-| US0 |                    |  |       |       |     |
-| US  |                                           |                                                                                                                                                                          |       |       |     |
-| US  |   |                                                                                                                                                                          |       |       |     |
-
-
 
 
 <div id='5.2.4.4.'><h4> 5.2.4.4. Development Evidence for Sprint Review.  </h4></div>
