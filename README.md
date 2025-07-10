@@ -2641,7 +2641,7 @@ Para acceder al api se debe usar la ruta especificada debajo del nombre del proy
 ![1](Imagenes/api2.jpg)
 ![1](Imagenes/api3.jpg)
 
-El enlace del API, para probar desde swagger esta aquí:
+El enlace del API, para probar desde swagger esta aquí: https://veciback-gndsazedbtfuefeb.brazilsouth-01.azurewebsites.net/swagger/index.html 
 
 <div id='5.2.4.8.'><h4> 5.2.4.8. Team Collaboration Insights during Sprint.  </h4></div>
 
